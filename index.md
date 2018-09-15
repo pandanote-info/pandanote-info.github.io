@@ -1,7 +1,6 @@
 ---
-title: panda大学習帳外伝:
-name: pandanote.info大公式チャンネルポータルページ
-description: YouTubeの動画集です。
+title: panda大学習帳外伝
+description: pandanote.info大公式チャンネルポータルページ
 ---
 [panda大学習帳](https://pandanote.info/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
 
