@@ -3,6 +3,8 @@ title: panda大学習帳外伝
 description: pandanote.info大公式チャンネルポータルページ
 ---
 [panda大学習帳](https://pandanote.info/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
+# こちらは、panda大学習帳外伝です。
+YouTubeにアップロードしている動画を絶賛ご紹介中です。
 
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/FxaY41r8JYU"><img src="https://i.ytimg.com/vi/FxaY41r8JYU/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/FxaY41r8JYU" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Fedora 28がインストールされているIntel NUC(NUC7i5BNH)の電源ボタンとリングのLEDの色及び点灯パターンをソフトウェア的な方法で変えてみた。</a></p><p>Fedora 28がインストールされているIntel NUC(NUC7i5BNH)の電源ボタンとリングのLEDの色及び点灯パターンをkernelのmodule(intel_nuc_led)をインストールすることにより変えてみました。</p><p>詳細な方法についてはこちらをご覧いただけると幸いです↓<br/><a href="https://pandanote.info/?p=2687" style="color: #1b3b8a">https://pandanote.info/?p=2687</a></p><p>Music Provided by NoCopyrightSounds:<br/>David Bulla  - Unexpected: <a href="http://youtu.be/ReBDW-4mtyo" style="color: #1b3b8a">http://youtu.be/ReBDW-4mtyo</a><br/>David Bulla: <a href="https://www.facebook.com/davidbullaofficial" style="color: #1b3b8a">https://www.facebook.com/davidbullaofficial</a></p><p style="font-weight: bold;font-style:italic;font-size: 0.9em; color: #9f9f9f;">3 views &amp; 0 like, Published at: 2018-09-09T22:35:47+09:00</p><div style="clear:both;"></div></div>
