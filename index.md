@@ -4,6 +4,7 @@ description: pandanote.info大公式チャンネルポータルページ
 ---
 [panda大学習帳](https://pandanote.info/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
 
+# こちらはpanda大学習帳外伝です。
 YouTubeにアップロードしている動画を絶賛ご紹介中です。
 
 <div style="border-top: solid 1px #1b3b8a; ">
@@ -79,7 +80,7 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/Ky8I1dDQSkE"><img src="https://i.ytimg.com/vi/Ky8I1dDQSkE/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/Ky8I1dDQSkE" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】インスタントクリッピングスクリプトの使用例</a></p><p>拙作のAviUtl用スクリプト「インスタントクリッピング」をすでにアップロードした動画に使用してみました。</p><p>スクリプト本体はこちら↓<br/><a href="https://github.com/pandanote-info/aviutl_scripts" style="color: #1b3b8a">https://github.com/pandanote-info/aviutl_scripts</a></p><p>使い方の説明などはこちら↓<br/><a href="https://pandanote.info/?p=823" style="color: #1b3b8a">https://pandanote.info/?p=823</a></p><p style="font-weight: bold;font-style:italic;font-size: 0.9em; color: #9f9f9f;">8 views &amp; 1 like, Published at: 2017-08-23T06:44:23+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/5fHLCJ5qqDw"><img src="https://i.ytimg.com/vi/5fHLCJ5qqDw/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/5fHLCJ5qqDw" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】Blenderで3D化した構造式を回転させてみた。【再編集版】</a></p><p>Blender(2.78a)で3D化した安息香酸メチルの構造式を回転させてみました。</p><p style="font-weight: bold;font-style:italic;font-size: 0.9em; color: #9f9f9f;">30 views &amp; 0 like, Published at: 2017-08-19T23:41:59+09:00</p><div style="clear:both;"></div></div>
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/5fHLCJ5qqDw"><img src="https://i.ytimg.com/vi/5fHLCJ5qqDw/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/5fHLCJ5qqDw" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】Blenderで3D化した構造式を回転させてみた。【再編集版】</a></p><p>Blender(2.78a)で3D化した安息香酸メチルの構造式を回転させてみました。</p><p style="font-weight: bold;font-style:italic;font-size: 0.9em; color: #9f9f9f;">31 views &amp; 0 like, Published at: 2017-08-19T23:41:59+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/Gvl2XO45lhE"><img src="https://i.ytimg.com/vi/Gvl2XO45lhE/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/Gvl2XO45lhE" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】ポリゴンを作ってみた。【再編集版】</a></p><p>Blender(2.78a)でポリゴンを作り、平面の上に置いてみました。<br/>このポリゴンにテクスチャを貼っていきます。</p><p style="font-weight: bold;font-style:italic;font-size: 0.9em; color: #9f9f9f;">7 views &amp; 1 like, Published at: 2017-08-13T22:20:05+09:00</p><div style="clear:both;"></div></div>
