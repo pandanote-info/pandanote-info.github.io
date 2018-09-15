@@ -2,6 +2,7 @@
 title: panda大学習帳外伝
 description: pandanote.info大公式チャンネルポータルページ
 ---
+{% raw %}{{ site.baseurl }}/css/sidestory.css{% endraw %}
 [panda大学習帳](https://pandanote.info/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
 
 <div style="border-top: solid 1px #1b3b8a; ">
