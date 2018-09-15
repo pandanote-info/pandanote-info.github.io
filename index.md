@@ -3,7 +3,7 @@ title: panda大学習帳外伝
 description: pandanote.info大公式チャンネルポータルページ
 ---
 [panda大学習帳](https://pandanote.info/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
-# こちらは、panda大学習帳外伝です。
+
 YouTubeにアップロードしている動画を絶賛ご紹介中です。
 
 <div style="border-top: solid 1px #1b3b8a; ">
