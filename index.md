@@ -7,7 +7,7 @@ description: pandanote.info大公式チャンネルポータルページ
 # こちらはpanda大学習帳外伝です。
 YouTubeにアップロードしている動画を絶賛ご紹介中です。
 
-<p class="stats">Count data is as of 2018-09-19T23:34:20.487763 with delay. Please check my <a href="https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg">YouTube channel</a> to see more accurate data.</p>
+<p class="stats">Count data is as of 2018-09-19T23:41:12.917823 with delay. Please check my <a href="https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg">YouTube channel</a> to see more accurate data.</p>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/FxaY41r8JYU"><img src="https://i.ytimg.com/vi/FxaY41r8JYU/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/FxaY41r8JYU" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Fedora 28がインストールされているIntel NUC(NUC7i5BNH)の電源ボタンとリングのLEDの色及び点灯パターンをソフトウェア的な方法で変えてみた。</a></p><p>Fedora 28がインストールされているIntel NUC(NUC7i5BNH)の電源ボタンとリングのLEDの色及び点灯パターンをkernelのmodule(intel_nuc_led)をインストールすることにより変えてみました。</p><p>詳細な方法についてはこちらをご覧いただけると幸いです↓<br/><a href="https://pandanote.info/?p=2687" style="color: #1b3b8a">https://pandanote.info/?p=2687</a></p><p>Music Provided by NoCopyrightSounds:<br/>David Bulla  - Unexpected: <a href="http://youtu.be/ReBDW-4mtyo" style="color: #1b3b8a">http://youtu.be/ReBDW-4mtyo</a><br/>David Bulla: <a href="https://www.facebook.com/davidbullaofficial" style="color: #1b3b8a">https://www.facebook.com/davidbullaofficial</a></p><p class="stats">4 views &amp; 0 like, Published at: 2018-09-09T22:35:47+09:00</p><div style="clear:both;"></div></div>
 </div>
@@ -16,9 +16,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/jieHFYlwz9Q"><img src="https://i.ytimg.com/vi/jieHFYlwz9Q/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/jieHFYlwz9Q" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">湘南新宿ライン大崎行@横浜駅 (2018/5/26) 【Deshakerで手ブレ補正してみた。】</a></p><p>渋谷駅の線路切り替え工事のために湘南新宿ラインが大崎折り返しになっていると聞いて、横浜駅で湘南新宿ラインの大崎行を撮影してみました。<br/>だが、しかし、手ブレが酷かったので、VirtualDub+Deshakerでソフトウェア的な手振れ補正を試みました。</p><p class="stats">53 views &amp; 0 like, Published at: 2018-05-28T22:59:43+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/thDqT0czxJ0"><img src="https://i.ytimg.com/vi/thDqT0czxJ0/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/thDqT0czxJ0" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Google AdSenseの住所確認のはがきを開封してみた。</a></p><p>Google AdSenseから住所確認のはがきが届いたので、開封してみました。<br/>2018年3月11日に発送されたと思われる1通目がなかなか届かず再発行を依頼したところ、再発行された方が先に届き、1通目が74日後(5月24日)にようやく届きました。</p><p>詳しくはこちら→ <a href="https://pandanote.info/?p=1907" style="color: #1b3b8a">https://pandanote.info/?p=1907</a></p><p class="stats">4 views &amp; 1 like, Published at: 2018-05-27T00:15:05+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -31,6 +28,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/thDqT0czxJ0"><img src="https://i.ytimg.com/vi/thDqT0czxJ0/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/thDqT0czxJ0" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Google AdSenseの住所確認のはがきを開封してみた。</a></p><p>Google AdSenseから住所確認のはがきが届いたので、開封してみました。<br/>2018年3月11日に発送されたと思われる1通目がなかなか届かず再発行を依頼したところ、再発行された方が先に届き、1通目が74日後(5月24日)にようやく届きました。</p><p>詳しくはこちら→ <a href="https://pandanote.info/?p=1907" style="color: #1b3b8a">https://pandanote.info/?p=1907</a></p><p class="stats">4 views &amp; 1 like, Published at: 2018-05-27T00:15:05+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/Hnn_B29MLx4"><img src="https://i.ytimg.com/vi/Hnn_B29MLx4/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/Hnn_B29MLx4" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Unboxing Intel NUC (NUC7i5BNH) / Intel NUC (NUC7i5BNH) をAmazonでポチったので、開封してみた。</a></p><p>Intel NUC(NUC7i5BNH)をAmazonで購入しましたので、<br/>早速開封してみました。<br/>Amazon超便利です。<br/>詳細はこちら → <a href="https://pandanote.info/?p=1905" style="color: #1b3b8a">https://pandanote.info/?p=1905</a></p><p>Music Provided by NoCopyrightSounds:<br/>Waysons - Eternal Minds: <a href="https://youtu.be/ZhECyz85FMc" style="color: #1b3b8a">https://youtu.be/ZhECyz85FMc</a><br/>Waysons: <a href="https://soundcloud.com/waysons" style="color: #1b3b8a">https://soundcloud.com/waysons</a></p><p class="stats">41 views &amp; 1 like, Published at: 2018-05-03T11:16:07+09:00</p><div style="clear:both;"></div></div>
@@ -48,9 +48,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/WnIzbwXqFZI"><img src="https://i.ytimg.com/vi/WnIzbwXqFZI/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/WnIzbwXqFZI" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Sikulix-1.1.1のインストールと動作例</a></p><p>OpenCVによる画像処理を用いてGUIの操作のための情報を得ることでGUIの自動操作を行うためのソフトウェアエンジン及び関連するツール群であるSikuliXのVersion 1.1.1が2018年1月に登場したので、早速インストールして使ってみました。</p><p>そこで、インストール時の画面と動作例(GIMPによるスクリーンショットの取得を自動的に行うスクリプトの実行)を撮影してみました。</p><p>Music Provided by NoCopyrightSounds:<br/>Elektronomia - Sky High: <a href="https://www.youtu.be/TW9d8vYrVFQ" style="color: #1b3b8a">https://www.youtu.be/TW9d8vYrVFQ</a><br/>Elektronomia: <a href="https://soundcloud.com/elektronomia" style="color: #1b3b8a">https://soundcloud.com/elektronomia</a><br/>Waysons - Daydream: <a href="https://youtu.be/ZynbJWCjJxg" style="color: #1b3b8a">https://youtu.be/ZynbJWCjJxg</a><br/>Waysons: <a href="https://soundcloud.com/waysons" style="color: #1b3b8a">https://soundcloud.com/waysons</a></p><p class="stats">242 views &amp; 1 like, Published at: 2018-02-25T20:23:38+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/sOgq2y5tmK0"><img src="https://i.ytimg.com/vi/sOgq2y5tmK0/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/sOgq2y5tmK0" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">拝啓バフェット先生、今日もひかり号を見送りました。</a></p><p>今日もひかり号を見送りました。</p><p class="stats">3 views &amp; 0 like, Published at: 2018-02-14T00:24:47+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,6 +58,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/sOgq2y5tmK0"><img src="https://i.ytimg.com/vi/sOgq2y5tmK0/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/sOgq2y5tmK0" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">拝啓バフェット先生、今日もひかり号を見送りました。</a></p><p>今日もひかり号を見送りました。</p><p class="stats">3 views &amp; 0 like, Published at: 2018-02-14T00:24:47+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/fDkfjQ-Y7gI"><img src="https://i.ytimg.com/vi/fDkfjQ-Y7gI/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/fDkfjQ-Y7gI" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">「ときわ」と「サンライズ」@Tokyo station</a></p><p>「サンライズ出雲・瀬戸」の向かい側に「ときわ」が入線してきたので、撮影してみました。</p><p>Music Provided by NoCopyrightSounds:<br/>David Bulla  - Unexpected: <a href="http://youtu.be/ReBDW-4mtyo" style="color: #1b3b8a">http://youtu.be/ReBDW-4mtyo</a><br/>David Bulla: <a href="https://www.facebook.com/davidbullaofficial" style="color: #1b3b8a">https://www.facebook.com/davidbullaofficial</a></p><p class="stats">15 views &amp; 0 like, Published at: 2018-01-03T17:01:28+09:00</p><div style="clear:both;"></div></div>
@@ -78,9 +78,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/5deXMQxhLBw"><img src="https://i.ytimg.com/vi/5deXMQxhLBw/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/5deXMQxhLBw" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Fedora26 update live! on December 3, 2017 【おまけつき】</a></p><p>Fedora 26を自宅PCにインストールしてテスト用サーバとして運用しているのですが、Fedora 27へのアップグレードを行うことにしました。</p><p>Fedora 27へのアップグレードの前にFedora 26のアップデートを行う必要があるので、その様子を動画で撮影してみました。</p><p>この動画は2017年12月3日にアップデートを行った際に取得した動画です。</p><p>動画の最後の方にFedora 27のアップグレード直後の画面のスクリーンショットを追加しました。</p><p class="stats">17 views &amp; 1 like, Published at: 2017-12-04T06:29:01+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/tGczpP8qJXU"><img src="https://i.ytimg.com/vi/tGczpP8qJXU/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/tGczpP8qJXU" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】WP-QuickLaTeXで書いた数式を横スクロールさせてみた。</a></p><p>WP-QuickLaTeXで書いた長い数式はスマホのように縦長の画面だと途中で切れてしまいますが、CSSを修正して横スクロールできるようにしてみました。</p><p class="stats">25 views &amp; 0 like, Published at: 2017-11-21T00:06:44+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -91,6 +88,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/tGczpP8qJXU"><img src="https://i.ytimg.com/vi/tGczpP8qJXU/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/tGczpP8qJXU" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】WP-QuickLaTeXで書いた数式を横スクロールさせてみた。</a></p><p>WP-QuickLaTeXで書いた長い数式はスマホのように縦長の画面だと途中で切れてしまいますが、CSSを修正して横スクロールできるようにしてみました。</p><p class="stats">25 views &amp; 0 like, Published at: 2017-11-21T00:06:44+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/4N3BIgZ7V4M"><img src="https://i.ytimg.com/vi/4N3BIgZ7V4M/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/4N3BIgZ7V4M" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Inkscapeで描いた図にLaTeXの数式を入れてみた。</a></p><p>Inkscapeで描いた図にLaTeXで作成した数式を追加してみたので、<br/>その様子を動画にしてみました。</p><p>じ～っと見ていると眠くなるので、BGMを入れてます。</p><p>Music Provided by NoCopyrightSounds:<br/>Elektronomia - Sky High: <a href="https://www.youtu.be/TW9d8vYrVFQ" style="color: #1b3b8a">https://www.youtu.be/TW9d8vYrVFQ</a><br/>Elektronomia: <a href="https://soundcloud.com/elektronomia" style="color: #1b3b8a">https://soundcloud.com/elektronomia</a><br/>Waysons - Daydream: <a href="https://youtu.be/ZynbJWCjJxg" style="color: #1b3b8a">https://youtu.be/ZynbJWCjJxg</a><br/>Waysons: <a href="https://soundcloud.com/waysons" style="color: #1b3b8a">https://soundcloud.com/waysons</a><br/>LFZ - Popsicle: <a href="https://www.youtu.be/K8DUjObr_tU" style="color: #1b3b8a">https://www.youtu.be/K8DUjObr_tU</a><br/>LFZ: <a href="https://soundcloud.com/lfzmusic" style="color: #1b3b8a">https://soundcloud.com/lfzmusic</a><br/>David Bulla  - Unexpected: <a href="http://youtu.be/ReBDW-4mtyo" style="color: #1b3b8a">http://youtu.be/ReBDW-4mtyo</a><br/>David Bulla: <a href="https://www.facebook.com/davidbullaofficial" style="color: #1b3b8a">https://www.facebook.com/davidbullaofficial</a></p><p class="stats">222 views &amp; 1 like, Published at: 2017-11-07T07:50:33+09:00</p><div style="clear:both;"></div></div>
@@ -108,9 +108,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/er2XQKlh-Lw"><img src="https://i.ytimg.com/vi/er2XQKlh-Lw/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/er2XQKlh-Lw" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Blender(2.78a)で数式を回転させてみた。【再編集版】</a></p><p>Blender(2.78a)で数式を回転させてみました。<br/>数式はTeX2imgで作成してSVGファイルに変換して保存してから、<br/>保存したSVGファイルをBlenderにインポートしています。</p><p>詳細はこちら→ <a href="https://pandanote.info/?p=103" style="color: #1b3b8a">https://pandanote.info/?p=103</a></p><p class="stats">7 views &amp; 1 like, Published at: 2017-10-05T23:57:02+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/uobiULoLQjU"><img src="https://i.ytimg.com/vi/uobiULoLQjU/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/uobiULoLQjU" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【試作してみた。】ルパン三世風タイトルをフリーの音源とか耳コピとかで作ってみた。</a></p><p>タイプ音とかいろいろと軽めですみません。耳コピの部分はmusagiで作ってます。また、タイプライター音と「(｀・ω・´)ｼｬｷｰﾝ」っていう部分は効果音ラボの音源を使用しています。</p><p>また、つまらぬものを作ってしまった。<br/>でも、今はこれが精一杯。</p><p>ツールについてはこちら: <a href="https://pandanote.info/?p=552" style="color: #1b3b8a">https://pandanote.info/?p=552</a><br/>制作記: <a href="https://pandanote.info/?p=1035" style="color: #1b3b8a">https://pandanote.info/?p=1035</a></p><p>[2017/12/27補足]<br/>他の動画では、後半の部分はテンポを上げたものを使ってます。</p><p class="stats">634 views &amp; 5 likes, Published at: 2017-10-01T16:54:29+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,6 +118,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/uobiULoLQjU"><img src="https://i.ytimg.com/vi/uobiULoLQjU/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/uobiULoLQjU" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【試作してみた。】ルパン三世風タイトルをフリーの音源とか耳コピとかで作ってみた。</a></p><p>タイプ音とかいろいろと軽めですみません。耳コピの部分はmusagiで作ってます。また、タイプライター音と「(｀・ω・´)ｼｬｷｰﾝ」っていう部分は効果音ラボの音源を使用しています。</p><p>また、つまらぬものを作ってしまった。<br/>でも、今はこれが精一杯。</p><p>ツールについてはこちら: <a href="https://pandanote.info/?p=552" style="color: #1b3b8a">https://pandanote.info/?p=552</a><br/>制作記: <a href="https://pandanote.info/?p=1035" style="color: #1b3b8a">https://pandanote.info/?p=1035</a></p><p>[2017/12/27補足]<br/>他の動画では、後半の部分はテンポを上げたものを使ってます。</p><p class="stats">634 views &amp; 5 likes, Published at: 2017-10-01T16:54:29+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/JxN71Ej6Azo"><img src="https://i.ytimg.com/vi/JxN71Ej6Azo/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/JxN71Ej6Azo" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】 インスタントクリッピングスクリプト for AviUtl</a></p><p>拙作のAviUtl用スクリプト「インスタントクリッピング」の使い方を説明した動画を作成してみました。</p><p>スクリプト本体はこちら↓<br/><a href="https://github.com/pandanote-info/aviutl_scripts" style="color: #1b3b8a">https://github.com/pandanote-info/aviutl_scripts</a></p><p>使い方の説明などはこちら↓<br/><a href="https://pandanote.info/?p=823" style="color: #1b3b8a">https://pandanote.info/?p=823</a></p><p>Music Provided by NoCopyrightSounds:<br/>LFZ - Popsicle: <a href="https://www.youtu.be/K8DUjObr_tU" style="color: #1b3b8a">https://www.youtu.be/K8DUjObr_tU</a><br/>LFZ: <a href="https://soundcloud.com/lfzmusic" style="color: #1b3b8a">https://soundcloud.com/lfzmusic</a><br/>Waysons - Daydream: <a href="https://youtu.be/ZynbJWCjJxg" style="color: #1b3b8a">https://youtu.be/ZynbJWCjJxg</a><br/>Waysons: <a href="https://soundcloud.com/waysons" style="color: #1b3b8a">https://soundcloud.com/waysons</a></p><p class="stats">29 views &amp; 0 like, Published at: 2017-09-16T13:23:35+09:00</p><div style="clear:both;"></div></div>
@@ -138,9 +138,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/wsEnZYFTOsg"><img src="https://i.ytimg.com/vi/wsEnZYFTOsg/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/wsEnZYFTOsg" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】 Blender(2.78a)で数式を2回転させてみた。【再編集版】</a></p><p>Blender(2.78a)でガウス積分の式を2回転させてみたのですが、結果は…</p><p class="stats">7 views &amp; 0 like, Published at: 2017-08-12T10:51:47+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/9APmZjpLREI"><img src="https://i.ytimg.com/vi/9APmZjpLREI/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/9APmZjpLREI" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">onekoをFedora26にインストールしてみました。</a></p><p>Unix/Linux方面では昔なつかしのアプリケーションであるonekoをFedora 26にインストールしてみました。<br/>最新のデスクトップで猫が走り回るミスマッチ感をお楽しみください。</p><p class="stats">16 views &amp; 0 like, Published at: 2017-08-11T10:44:19+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,6 +148,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/9APmZjpLREI"><img src="https://i.ytimg.com/vi/9APmZjpLREI/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/9APmZjpLREI" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">onekoをFedora26にインストールしてみました。</a></p><p>Unix/Linux方面では昔なつかしのアプリケーションであるonekoをFedora 26にインストールしてみました。<br/>最新のデスクトップで猫が走り回るミスマッチ感をお楽しみください。</p><p class="stats">16 views &amp; 0 like, Published at: 2017-08-11T10:44:19+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/3W0rLwthVNI"><img src="https://i.ytimg.com/vi/3W0rLwthVNI/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/3W0rLwthVNI" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】 Fedora 26及びFedora 27の日本語入力(ibus-mozc)の設定方法</a></p><p>Fedora 26の日本語入力(ibus-mozc)の設定方法を説明した動画を作ってみました。</p><p>途中でソフトウェアアップデートの通知が出ますが、気にしない方向でお願いいたします。</p><p>また、Fedora 27でも同様の手順で日本語環境を整えることができます。</p><p>詳細についてはこちらをご覧いただけると幸いです↓<br/><a href="https://pandanote.info/?p=727" style="color: #1b3b8a">https://pandanote.info/?p=727</a></p><p>Music Provided by NoCopyrightSounds:<br/>Electro-Light - Symbolism: <a href="https://youtu.be/__CRWE-L45k" style="color: #1b3b8a">https://youtu.be/__CRWE-L45k</a><br/>Electro-Light: <a href="https://soundcloud.com/maskedacoustic" style="color: #1b3b8a">https://soundcloud.com/maskedacoustic</a></p><p class="stats">267 views &amp; 1 like, Published at: 2017-08-06T21:23:58+09:00</p><div style="clear:both;"></div></div>
@@ -168,9 +168,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/ix0e10yvCzU"><img src="https://i.ytimg.com/vi/ix0e10yvCzU/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/ix0e10yvCzU" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">pandanote.infoチャンネルのロゴ動画を作ってみた。</a></p><p>動画の先頭にロゴ動画がないのはちょっと寂しいかなと思ったので、AviUtlで1時間くらいでロゴ動画をサクッと作ってみました。<br/>ハイケンスのセレナーデはmusagiを使って作っています。</p><p class="stats">69 views &amp; 0 like, Published at: 2017-06-29T22:15:28+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/8BfU4S_V2RY"><img src="https://i.ytimg.com/vi/8BfU4S_V2RY/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/8BfU4S_V2RY" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】ルパン三世風タイトルを作ってみた。</a></p><p>ルパン三世風タイトルのうち、タイプライターの部分だけをAviUtlのエクスポートファイル(exoファイル)のフォーマットで出力するツールを作り、さらにそれを使ってルパン三世風タイトルを作ってみました。</p><p>タイプ音が軽めですみません。</p><p>ツールについてはこちら↓</p><p><a href="https://pandanote.info/?p=552" style="color: #1b3b8a">https://pandanote.info/?p=552</a></p><p class="stats">1581 views &amp; 1 like, Published at: 2017-06-27T21:44:56+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,6 +178,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/8BfU4S_V2RY"><img src="https://i.ytimg.com/vi/8BfU4S_V2RY/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/8BfU4S_V2RY" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】ルパン三世風タイトルを作ってみた。</a></p><p>ルパン三世風タイトルのうち、タイプライターの部分だけをAviUtlのエクスポートファイル(exoファイル)のフォーマットで出力するツールを作り、さらにそれを使ってルパン三世風タイトルを作ってみました。</p><p>タイプ音が軽めですみません。</p><p>ツールについてはこちら↓</p><p><a href="https://pandanote.info/?p=552" style="color: #1b3b8a">https://pandanote.info/?p=552</a></p><p class="stats">1581 views &amp; 1 like, Published at: 2017-06-27T21:44:56+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/KywEXMpQRIo"><img src="https://i.ytimg.com/vi/KywEXMpQRIo/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/KywEXMpQRIo" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】構造式を回転・停止させてみた。</a></p><p>安息香酸メチルの構造式を0.5秒で1回転させた後、0.5秒間停止させるという動きを8回繰り返した動画を作ってみました。</p><p class="stats">16 views &amp; 0 like, Published at: 2017-06-11T13:57:09+09:00</p><div style="clear:both;"></div></div>
@@ -198,9 +198,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/3mKhC4KXv_E"><img src="https://i.ytimg.com/vi/3mKhC4KXv_E/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/3mKhC4KXv_E" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【Blender】 カメラ・ランプ・オブジェクトの位置関係です。</a></p><p>カメラ・ランプとオブジェクトの位置関係です。</p><p class="stats">42 views &amp; 1 like, Published at: 2017-06-04T21:28:46+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/ZnmFzgWfvYs"><img src="https://i.ytimg.com/vi/ZnmFzgWfvYs/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/ZnmFzgWfvYs" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Blender(2.78a)で数式を回転させてみた。</a></p><p>Blender(2.78a)で数式を回転させてみました。<br/>数式はTeX2imgで作成してSVGファイルに変換して保存しています。</p><p class="stats">19 views &amp; 1 like, Published at: 2017-05-28T11:37:41+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -211,6 +208,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/ZnmFzgWfvYs"><img src="https://i.ytimg.com/vi/ZnmFzgWfvYs/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/ZnmFzgWfvYs" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Blender(2.78a)で数式を回転させてみた。</a></p><p>Blender(2.78a)で数式を回転させてみました。<br/>数式はTeX2imgで作成してSVGファイルに変換して保存しています。</p><p class="stats">19 views &amp; 1 like, Published at: 2017-05-28T11:37:41+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <p style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">チャンネル登録をよろしくお願いいたします!!</p>
