@@ -7,7 +7,7 @@ description: pandanote.info大公式チャンネルポータルページ
 # 外伝、爆誕。
 YouTubeにアップロードしている動画を絶賛ご紹介中です。
 
-<p class="stats">Count data is as of 2018-09-23T18:31:12.301999 with delay. Please check my <a href="https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg">YouTube channel</a> to see more accurate data.</p>
+<p class="stats">Count data is as of 2018-09-23T18:33:37.075044 with delay. Please check my <a href="https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg">YouTube channel</a> to see more accurate data.</p>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/T1gBLpuDYkc"><img src="https://i.ytimg.com/vi/T1gBLpuDYkc/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/T1gBLpuDYkc" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Unboxing Ferragamo's crocodile shoes / フェラガモのクロコダイルの靴を購入したので、開封してみた。</a></p><p>フェラガモの銀座本店で見かけたクロコダイルの靴(サイズ11(29cm))のお取り寄せをお願いしたところ、在庫がなくパターンオーダーになってしまいました。</p><p>サイズ11の靴は日本国内ではどのメーカーでも取り扱いが少ないので、そんなものかと思いつつ待つこと約3ヵ月…</p><p>ようやく到着しました。(｀・ω・´)</p><p>早速、開封の儀を執り行いました。</p><p class="stats">0 view &amp; 0 like, Published at: 2018-09-23T18:14:40+09:00</p><div style="clear:both;"></div></div>
 </div>
