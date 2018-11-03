@@ -7,7 +7,7 @@ description: pandanote.info大公式チャンネルポータルページ
 # 外伝、爆誕。
 YouTubeにアップロードしている動画を絶賛ご紹介中です。
 
-<p class="stats">Count data is as of 2018-11-03T12:01:43.408340+00:00 with delay. Please check my <a href="https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg">YouTube channel</a> to see more accurate data.</p>
+<p class="stats">Count data is as of 2018-11-03T21:05:28.294703+09:00 with delay. Please check my <a href="https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg">YouTube channel</a> to see more accurate data.</p>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/zPtuUIIM2MM"><img src="https://i.ytimg.com/vi/zPtuUIIM2MM/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/zPtuUIIM2MM" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">The scenery from the limited express "Wakashio no.3"  (From Tokyo to Kaihimmakuhari, October, 2018)</a></p><p>The scenery from the limited express "Wakashio no.3" <br/>You can see the Tokyo Disney Resort, IKEA Tokyo-bay and Amazon's warehouse in Japan :-)</p><p>Information of the train in this video is as of October, 2018; and may be subject to change.</p><p>タイトルの文字数が多過ぎて入らなかったので、英語のみとしました。</p><p>海浜幕張に行く用事があったので、「わかしお3号」に乗ってみました。</p><p>※ 本動画内の時刻等の情報は2018年10月現在のものであり、変更される可能性があります。</p><p>Music Provided by NoCopyrightSounds:<br/>Jim Yosef & Alex Skrindo - Passion: <a href="https://youtu.be/pxEKoZKpCew" style="color: #1b3b8a">https://youtu.be/pxEKoZKpCew</a><br/>Jim Yosef: <a href="https://www.youtube.com/user/Jimboows" style="color: #1b3b8a">https://www.youtube.com/user/Jimboows</a><br/>Alex Skrindo: <a href="https://soundcloud.com/alex-skrindo" style="color: #1b3b8a">https://soundcloud.com/alex-skrindo</a></p><p class="stats">1 view &amp; 0 like, Published at: 2018-10-30T23:20:10+09:00</p><div style="clear:both;"></div></div>
 </div>
@@ -21,9 +21,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/FxaY41r8JYU"><img src="https://i.ytimg.com/vi/FxaY41r8JYU/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/FxaY41r8JYU" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Fedora 28がインストールされているIntel NUC(NUC7i5BNH)の電源ボタンとリングのLEDの色及び点灯パターンをソフトウェア的な方法で変えてみた。</a></p><p>Fedora 28がインストールされているIntel NUC(NUC7i5BNH)の電源ボタンとリングのLEDの色及び点灯パターンをkernelのmodule(intel_nuc_led)をインストールすることにより変えてみました。</p><p>詳細な方法についてはこちらをご覧いただけると幸いです↓<br/><a href="https://pandanote.info/?p=2687" style="color: #1b3b8a">https://pandanote.info/?p=2687</a></p><p>Music Provided by NoCopyrightSounds:<br/>David Bulla  - Unexpected: <a href="http://youtu.be/ReBDW-4mtyo" style="color: #1b3b8a">http://youtu.be/ReBDW-4mtyo</a><br/>David Bulla: <a href="https://www.facebook.com/davidbullaofficial" style="color: #1b3b8a">https://www.facebook.com/davidbullaofficial</a></p><p class="stats">10 views &amp; 0 like, Published at: 2018-09-09T22:35:47+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/rO6kG8srpIg"><img src="https://i.ytimg.com/vi/rO6kG8srpIg/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/rO6kG8srpIg" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">VirtualdubとDeshakerを使って動画の手ブレを補正する手順を動画にしてみた。</a></p><p>スマホで撮影した手ブレの酷い動画をVirtualdubとDeshakerを使って補正する手順を動画にしてみました。<br/>VirtualdubとDeshakerのインストールの手順については端折ってますｗ<br/>動画の元ネタは湘南新宿ラインの大崎行の動画です。</p><p class="stats">32 views &amp; 0 like, Published at: 2018-07-25T23:07:08+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -34,6 +31,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/rO6kG8srpIg"><img src="https://i.ytimg.com/vi/rO6kG8srpIg/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/rO6kG8srpIg" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">VirtualdubとDeshakerを使って動画の手ブレを補正する手順を動画にしてみた。</a></p><p>スマホで撮影した手ブレの酷い動画をVirtualdubとDeshakerを使って補正する手順を動画にしてみました。<br/>VirtualdubとDeshakerのインストールの手順については端折ってますｗ<br/>動画の元ネタは湘南新宿ラインの大崎行の動画です。</p><p class="stats">32 views &amp; 0 like, Published at: 2018-07-25T23:07:08+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/jieHFYlwz9Q"><img src="https://i.ytimg.com/vi/jieHFYlwz9Q/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/jieHFYlwz9Q" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">湘南新宿ライン大崎行@横浜駅 (2018/5/26) 【Deshakerで手ブレ補正してみた。】</a></p><p>渋谷駅の線路切り替え工事のために湘南新宿ラインが大崎折り返しになっていると聞いて、横浜駅で湘南新宿ラインの大崎行を撮影してみました。<br/>だが、しかし、手ブレが酷かったので、VirtualDub+Deshakerでソフトウェア的な手振れ補正を試みました。</p><p class="stats">97 views &amp; 0 like, Published at: 2018-05-28T22:59:43+09:00</p><div style="clear:both;"></div></div>
@@ -51,9 +51,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/d51PHG9MXNQ"><img src="https://i.ytimg.com/vi/d51PHG9MXNQ/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/d51PHG9MXNQ" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">pandanote.infoのロゴ動画(take3)の制作記</a></p><p>本チャンネルで使用しているロゴ動画の新作をBlender(2.79a)で作ってみました。</p><p>今まで使っていたロゴ動画(take2)の後半で出現する壁に以前まとめ動画を作った時に使ったPython3のスクリプトを実行して再度まとめ動画を作り直して、貼り付けています。これによって背景の動きを出しています。</p><p>詳細はこちらで書いています→ <a href="https://pandanote.info/?p=1707" style="color: #1b3b8a">https://pandanote.info/?p=1707</a></p><p>Music Provided by NoCopyrightSounds:<br/>Jim Yosef & Alex Skrindo - Passion: <a href="https://youtu.be/pxEKoZKpCew" style="color: #1b3b8a">https://youtu.be/pxEKoZKpCew</a><br/>Jim Yosef: <a href="https://www.youtube.com/user/Jimboows" style="color: #1b3b8a">https://www.youtube.com/user/Jimboows</a><br/>Alex Skrindo: <a href="https://soundcloud.com/alex-skrindo" style="color: #1b3b8a">https://soundcloud.com/alex-skrindo</a></p><p class="stats">21 views &amp; 1 like, Published at: 2018-04-01T18:43:06+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/jLO2y9f2sak"><img src="https://i.ytimg.com/vi/jLO2y9f2sak/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/jLO2y9f2sak" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【Blender,再編集版】 カメラ・ランプ・オブジェクトの位置関係です。</a></p><p>Blenderのワールド座標系におけるカメラ・ランプ・オブジェクトの位置関係です。<br/>詳しくはこちら→ <a href="https://pandanote.info/?p=173" style="color: #1b3b8a">https://pandanote.info/?p=173</a></p><p>Music Provided by NoCopyrightSounds:<br/>Waysons - Daydream: <a href="https://youtu.be/ZynbJWCjJxg" style="color: #1b3b8a">https://youtu.be/ZynbJWCjJxg</a><br/>Waysons: <a href="https://soundcloud.com/waysons" style="color: #1b3b8a">https://soundcloud.com/waysons</a></p><p class="stats">30 views &amp; 1 like, Published at: 2018-03-19T00:00:04+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -64,6 +61,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/jLO2y9f2sak"><img src="https://i.ytimg.com/vi/jLO2y9f2sak/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/jLO2y9f2sak" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【Blender,再編集版】 カメラ・ランプ・オブジェクトの位置関係です。</a></p><p>Blenderのワールド座標系におけるカメラ・ランプ・オブジェクトの位置関係です。<br/>詳しくはこちら→ <a href="https://pandanote.info/?p=173" style="color: #1b3b8a">https://pandanote.info/?p=173</a></p><p>Music Provided by NoCopyrightSounds:<br/>Waysons - Daydream: <a href="https://youtu.be/ZynbJWCjJxg" style="color: #1b3b8a">https://youtu.be/ZynbJWCjJxg</a><br/>Waysons: <a href="https://soundcloud.com/waysons" style="color: #1b3b8a">https://soundcloud.com/waysons</a></p><p class="stats">30 views &amp; 1 like, Published at: 2018-03-19T00:00:04+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/WnIzbwXqFZI"><img src="https://i.ytimg.com/vi/WnIzbwXqFZI/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/WnIzbwXqFZI" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Installation of SikuliX-1.1.1 / SikuliX-1.1.1のインストールと動作例</a></p><p>OpenCVによる画像処理を用いてGUIの操作のための情報を得ることでGUIの自動操作を行うためのソフトウェアエンジン及び関連するツール群であるSikuliXのVersion 1.1.1が2018年1月に登場したので、早速インストールして使ってみました。</p><p>そこで、インストール時の画面と動作例(GIMPによるスクリーンショットの取得を自動的に行うスクリプトの実行)を撮影してみました。</p><p>Music Provided by NoCopyrightSounds:<br/>Elektronomia - Sky High: <a href="https://www.youtu.be/TW9d8vYrVFQ" style="color: #1b3b8a">https://www.youtu.be/TW9d8vYrVFQ</a><br/>Elektronomia: <a href="https://soundcloud.com/elektronomia" style="color: #1b3b8a">https://soundcloud.com/elektronomia</a><br/>Waysons - Daydream: <a href="https://youtu.be/ZynbJWCjJxg" style="color: #1b3b8a">https://youtu.be/ZynbJWCjJxg</a><br/>Waysons: <a href="https://soundcloud.com/waysons" style="color: #1b3b8a">https://soundcloud.com/waysons</a></p><p class="stats">302 views &amp; 2 likes, Published at: 2018-02-25T20:23:38+09:00</p><div style="clear:both;"></div></div>
@@ -81,9 +81,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/dFVJq2zVmqc"><img src="https://i.ytimg.com/vi/dFVJq2zVmqc/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/dFVJq2zVmqc" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】YouTube Data API v3を使ってみた。</a></p><p>YouTube Data API v3を使ってみたのですが、初回の実行の際にブラウザを使って認証情報を作成する必要があります。</p><p>その様子を動画で撮影してみました。</p><p>Music Provided by NoCopyrightSounds:<br/>Electro-Light - Symbolism: <a href="https://youtu.be/__CRWE-L45k" style="color: #1b3b8a">https://youtu.be/__CRWE-L45k</a><br/>Electro-Light: <a href="https://soundcloud.com/maskedacoustic" style="color: #1b3b8a">https://soundcloud.com/maskedacoustic</a></p><p class="stats">4 views &amp; 1 like, Published at: 2017-12-16T20:25:42+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/ERJE4nbhPLY"><img src="https://i.ytimg.com/vi/ERJE4nbhPLY/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/ERJE4nbhPLY" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Zenfone 4 (ZE554KL)を買ってきたので、開封してみた。/ Zenfone 4 (ZE554KL) unboxing</a></p><p>Zenfone 4 (ZE554KL) を買ってきたので、開封してみました。<br/>前のスマホでもUQモバイルで、かつnanoSIMを使っていたので、SIMカードについては挿しかえるだけで使えました。</p><p class="stats">269 views &amp; 3 likes, Published at: 2017-12-10T23:41:58+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,6 +91,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/ERJE4nbhPLY"><img src="https://i.ytimg.com/vi/ERJE4nbhPLY/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/ERJE4nbhPLY" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Zenfone 4 (ZE554KL)を買ってきたので、開封してみた。/ Zenfone 4 (ZE554KL) unboxing</a></p><p>Zenfone 4 (ZE554KL) を買ってきたので、開封してみました。<br/>前のスマホでもUQモバイルで、かつnanoSIMを使っていたので、SIMカードについては挿しかえるだけで使えました。</p><p class="stats">269 views &amp; 3 likes, Published at: 2017-12-10T23:41:58+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/5deXMQxhLBw"><img src="https://i.ytimg.com/vi/5deXMQxhLBw/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/5deXMQxhLBw" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Fedora26 update live! on December 3, 2017 【おまけつき】</a></p><p>Fedora 26を自宅PCにインストールしてテスト用サーバとして運用しているのですが、Fedora 27へのアップグレードを行うことにしました。</p><p>Fedora 27へのアップグレードの前にFedora 26のアップデートを行う必要があるので、その様子を動画で撮影してみました。</p><p>この動画は2017年12月3日にアップデートを行った際に取得した動画です。</p><p>動画の最後の方にFedora 27のアップグレード直後の画面のスクリーンショットを追加しました。</p><p class="stats">18 views &amp; 1 like, Published at: 2017-12-04T06:29:01+09:00</p><div style="clear:both;"></div></div>
@@ -111,9 +111,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/IF-T0QRPaik"><img src="https://i.ytimg.com/vi/IF-T0QRPaik/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/IF-T0QRPaik" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Fedora 26 update live! on October 6, 2017</a></p><p>Fedora 26を自宅PCにインストールしてテスト用サーバとして運用しているのですが、Updateを促すメッセージが頻繁に表示されるので、Updateの様子を動画で記録することにしました。</p><p>この動画は2017年10月6日にアップデートを行った際に取得した動画です。</p><p class="stats">27 views &amp; 1 like, Published at: 2017-10-15T19:46:54+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/cTT48YiuvCc"><img src="https://i.ytimg.com/vi/cTT48YiuvCc/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/cTT48YiuvCc" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">slをFedora26にインストールしてみました。</a></p><p>Unix/Linux方面では昔なつかしのアプリケーションであるslをFedora 26にインストールしてみました。<br/>最新のデスクトップでアスキーアートの蒸気機関車が走るミスマッチ感をお楽しみください。</p><p>Music Provided by NoCopyrightSounds:<br/>Electro-Light - Symbolism: <a href="https://youtu.be/__CRWE-L45k" style="color: #1b3b8a">https://youtu.be/__CRWE-L45k</a><br/>Electro-Light: <a href="https://soundcloud.com/maskedacoustic" style="color: #1b3b8a">https://soundcloud.com/maskedacoustic</a></p><p class="stats">11 views &amp; 1 like, Published at: 2017-10-07T16:47:29+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,6 +121,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/cTT48YiuvCc"><img src="https://i.ytimg.com/vi/cTT48YiuvCc/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/cTT48YiuvCc" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">slをFedora26にインストールしてみました。</a></p><p>Unix/Linux方面では昔なつかしのアプリケーションであるslをFedora 26にインストールしてみました。<br/>最新のデスクトップでアスキーアートの蒸気機関車が走るミスマッチ感をお楽しみください。</p><p>Music Provided by NoCopyrightSounds:<br/>Electro-Light - Symbolism: <a href="https://youtu.be/__CRWE-L45k" style="color: #1b3b8a">https://youtu.be/__CRWE-L45k</a><br/>Electro-Light: <a href="https://soundcloud.com/maskedacoustic" style="color: #1b3b8a">https://soundcloud.com/maskedacoustic</a></p><p class="stats">11 views &amp; 1 like, Published at: 2017-10-07T16:47:29+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/er2XQKlh-Lw"><img src="https://i.ytimg.com/vi/er2XQKlh-Lw/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/er2XQKlh-Lw" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">Blender(2.78a)で数式を回転させてみた。【再編集版】</a></p><p>Blender(2.78a)で数式を回転させてみました。<br/>数式はTeX2imgで作成してSVGファイルに変換して保存してから、<br/>保存したSVGファイルをBlenderにインポートしています。</p><p>詳細はこちら→ <a href="https://pandanote.info/?p=103" style="color: #1b3b8a">https://pandanote.info/?p=103</a></p><p class="stats">9 views &amp; 1 like, Published at: 2017-10-05T23:57:02+09:00</p><div style="clear:both;"></div></div>
@@ -141,9 +141,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/5fHLCJ5qqDw"><img src="https://i.ytimg.com/vi/5fHLCJ5qqDw/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/5fHLCJ5qqDw" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】Blenderで3D化した構造式を回転させてみた。【再編集版】</a></p><p>Blender(2.78a)で3D化した安息香酸メチルの構造式を回転させてみました。</p><p class="stats">37 views &amp; 0 like, Published at: 2017-08-19T23:41:59+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/Gvl2XO45lhE"><img src="https://i.ytimg.com/vi/Gvl2XO45lhE/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/Gvl2XO45lhE" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】ポリゴンを作ってみた。【再編集版】</a></p><p>Blender(2.78a)でポリゴンを作り、平面の上に置いてみました。<br/>このポリゴンにテクスチャを貼っていきます。</p><p class="stats">7 views &amp; 1 like, Published at: 2017-08-13T22:20:05+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,6 +151,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/Gvl2XO45lhE"><img src="https://i.ytimg.com/vi/Gvl2XO45lhE/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/Gvl2XO45lhE" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】ポリゴンを作ってみた。【再編集版】</a></p><p>Blender(2.78a)でポリゴンを作り、平面の上に置いてみました。<br/>このポリゴンにテクスチャを貼っていきます。</p><p class="stats">7 views &amp; 1 like, Published at: 2017-08-13T22:20:05+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/wsEnZYFTOsg"><img src="https://i.ytimg.com/vi/wsEnZYFTOsg/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/wsEnZYFTOsg" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】 Blender(2.78a)で数式を2回転させてみた。【再編集版】</a></p><p>Blender(2.78a)でガウス積分の式を2回転させてみたのですが、結果は…</p><p class="stats">8 views &amp; 0 like, Published at: 2017-08-12T10:51:47+09:00</p><div style="clear:both;"></div></div>
@@ -171,9 +171,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/ijpSvCuhZgQ"><img src="https://i.ytimg.com/vi/ijpSvCuhZgQ/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/ijpSvCuhZgQ" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">pandanote.infoチャンネルのロゴ動画(take2)を作ってみた。</a></p><p>ポリゴンに動画を貼り付けることができることがわかったので、勢いでpandanote.infoチャンネルのロゴ動画(take2)を作ってみました。</p><p>BlenderとAviUtlとmusagiを駆使して作っています。</p><p class="stats">18 views &amp; 0 like, Published at: 2017-07-15T20:53:34+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/P4R_0QgeD8E"><img src="https://i.ytimg.com/vi/P4R_0QgeD8E/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/P4R_0QgeD8E" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】 直方体に動画を貼り付けてみた。</a></p><p>Blender(2.78a)で直方体に動画を貼り付けてみました。<br/>作業自体は直方体に普通の画像を貼り付ける作業と同程度の作業で行うことができます。</p><p class="stats">38 views &amp; 2 likes, Published at: 2017-07-13T20:55:54+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,6 +181,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/P4R_0QgeD8E"><img src="https://i.ytimg.com/vi/P4R_0QgeD8E/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/P4R_0QgeD8E" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】 直方体に動画を貼り付けてみた。</a></p><p>Blender(2.78a)で直方体に動画を貼り付けてみました。<br/>作業自体は直方体に普通の画像を貼り付ける作業と同程度の作業で行うことができます。</p><p class="stats">38 views &amp; 2 likes, Published at: 2017-07-13T20:55:54+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/ix0e10yvCzU"><img src="https://i.ytimg.com/vi/ix0e10yvCzU/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/ix0e10yvCzU" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">pandanote.infoチャンネルのロゴ動画を作ってみた。</a></p><p>動画の先頭にロゴ動画がないのはちょっと寂しいかなと思ったので、AviUtlで1時間くらいでロゴ動画をサクッと作ってみました。<br/>ハイケンスのセレナーデはmusagiを使って作っています。</p><p class="stats">92 views &amp; 0 like, Published at: 2017-06-29T22:15:28+09:00</p><div style="clear:both;"></div></div>
@@ -201,9 +201,6 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/XKWt9rdD2Hg"><img src="https://i.ytimg.com/vi/XKWt9rdD2Hg/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/XKWt9rdD2Hg" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】Blenderで透過PNG画像を作成し、AviUtlで作成した背景と合成する。</a></p><p>Blenderで透明なフレーム画像を作成し、AviUtlで作成した背景と合成する方法を説明するためのサンプル動画を作成してみました。</p><p class="stats">282 views &amp; 0 like, Published at: 2017-06-07T22:53:21+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
-<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/igR8dMXDzkc"><img src="https://i.ytimg.com/vi/igR8dMXDzkc/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/igR8dMXDzkc" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】数式を16回転させてみた。</a></p><p>Blenderで数式(ガウス積分)を16回転させたものを作ってみました。</p><p class="stats">281 views &amp; 1 like, Published at: 2017-06-06T23:05:43+09:00</p><div style="clear:both;"></div></div>
-</div>
-<div style="border-top: solid 1px #1b3b8a; ">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -214,6 +211,9 @@ YouTubeにアップロードしている動画を絶賛ご紹介中です。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+</div>
+<div style="border-top: solid 1px #1b3b8a; ">
+<div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/igR8dMXDzkc"><img src="https://i.ytimg.com/vi/igR8dMXDzkc/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/igR8dMXDzkc" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【説明用動画】数式を16回転させてみた。</a></p><p>Blenderで数式(ガウス積分)を16回転させたものを作ってみました。</p><p class="stats">281 views &amp; 1 like, Published at: 2017-06-06T23:05:43+09:00</p><div style="clear:both;"></div></div>
 </div>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/3mKhC4KXv_E"><img src="https://i.ytimg.com/vi/3mKhC4KXv_E/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/3mKhC4KXv_E" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">【Blender】 カメラ・ランプ・オブジェクトの位置関係です。</a></p><p>カメラ・ランプとオブジェクトの位置関係です。</p><p class="stats">48 views &amp; 1 like, Published at: 2017-06-04T21:28:46+09:00</p><div style="clear:both;"></div></div>
