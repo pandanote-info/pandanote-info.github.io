@@ -7,7 +7,7 @@ description: pandanote.info大公式チャンネルポータルページ
 # いらっしゃいませ!!
 YouTubeにアップロードしている動画を絶賛ご紹介中です。
 
-<p class="stats">Count data is as of 2018-11-29T21:57:59.760019+09:00 with delay. Please check my <a href="https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg">YouTube channel</a> to see more accurate data.</p>
+<p class="stats">Count data is as of 2018-11-29T22:01:35.790911+09:00 with delay. Please check my <a href="https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg">YouTube channel</a> to see more accurate data.</p>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/oQax4_2sq-M"><img src="https://i.ytimg.com/vi/oQax4_2sq-M/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/oQax4_2sq-M" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">SikuliX-1.1.4: Taking a screenshot with GIMP-2.10 automatically / SikuliX-1.1.4を使ってGIMP-2.10を起動してみた。</a></p><p>SikuliX-1.1.4をインストールしてみました。<br/>さらにIDEを使用してGIMP-2.10を使ってスクリーンショットを取得するまでの動作を自動的に行うJythonのスクリプトを書き、実行した様子を録画しました。</p><p>詳細はこちら→ <a href="https://pandanote.info/?p=3338" style="color: #1b3b8a">https://pandanote.info/?p=3338</a></p><p class="stats">6 views &amp; 0 like, Published at: 2018-11-18T22:43:49+09:00</p><div style="clear:both;"></div></div>
 </div>
