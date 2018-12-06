@@ -8,3 +8,4 @@ github:
   owner_name: 'pandanote.info'
   owner_url: 'https://pandanote.info/'
 copyright: 'Copyright 2018, pandanote.info'
+include: ['about']
