@@ -31,4 +31,4 @@ description: 本サイトについて
 <div class="g-ytsubscribe" data-channelid="UC2CV_cEjBd81csrHy24Kytg" data-layout="full" data-count="default"></div>
 </div>
 
-[ポータルページ] \| [panda大学習帳](https://pandanote.info/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
+[ポータルページ](https://sidestory.pandanote.info/) \| [panda大学習帳](https://pandanote.info/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
