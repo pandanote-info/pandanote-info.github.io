@@ -2,7 +2,7 @@
 title: panda大学習帳外伝
 description: 本サイトについて
 ---
-[ポータルページ] \| [panda大学習帳](https://pandanote.info/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
+[ポータルページ](https://sidestory.pandanote.info/about/) \| [panda大学習帳](https://pandanote.info/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
 
 # 本サイトについて
 「[panda大学習帳](https://pandanote.info/)」用の動画置き場も兼ねている[pandanote.infoチャンネル](https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg)の動画の一覧を公開しています。なお、表示速度向上のため、前記のページには動画を埋め込まず、かわりに動画へのリンクを埋め込んでおります。
