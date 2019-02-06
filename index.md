@@ -11,7 +11,7 @@ YouTubeにアップロードしている動画を[こちら](https://sidestory.p
 ## ここで、お知らせです。(｀・ω・´)
 本サイトでもMathJax始めました。
 
-記述例は[こちら](https://sidestory.pandanote.info/3657bis.html)[こちら]や(https://sidestory.pandanote.info/3810bis.html)をご参照ください。
+記述例は[こちら](https://sidestory.pandanote.info/3657bis.html)や[こちら](https://sidestory.pandanote.info/3810bis.html)をご参照ください。
 
 {% include thirdintervalad.html %}
 
