@@ -7,7 +7,7 @@ description: panda大学習帳外伝 大ポータルページ
 # いらっしゃいませ!!
 「panda大学習帳外伝」のページにようこそ!!
 
-YouTubeにアップロードしている動画を[こちら](https://sidestory.pandanote.info.youtube.html)で絶賛ご紹介中です。
+YouTubeにアップロードしている動画を[こちら](https://sidestory.pandanote.info/youtube.html)で絶賛ご紹介中です。
 ## ここで、お知らせです。(｀・ω・´)
 本サイトでもMathJax始めました。
 
