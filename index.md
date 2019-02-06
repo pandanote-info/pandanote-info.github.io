@@ -7,7 +7,7 @@ description: panda大学習帳外伝 大ポータルページ
 # いらっしゃいませ!!
 「panda大学習帳外伝」のページにようこそ!!
 
-YouTubeにアップロードしている動画を[こちら](https://sidestory.pandanote.info.youtube.html)で絶賛ご紹介中です。
+YouTubeにアップロードしている動画を[こちら](https://sidestory.pandanote.info/youtube.html)で絶賛ご紹介中です。
 ## ここで、お知らせです。(｀・ω・´)
 本サイトでもMathJax始めました。
 
@@ -16,7 +16,9 @@ YouTubeにアップロードしている動画を[こちら](https://sidestory.p
 {% include thirdintervalad.html %}
 
 ## 趣味の園芸
+GitHubのリポジトリにおけるアクティビティを箱庭の草みたいな感じで表現できるとのことだったので、試してみました。
 
+アクティビティのほとんどが本サイトの更新なので、これでプログラミングの能力を評価されても困る訳ですが…(´・ω・`)
 <img src="https://grass-graph.moshimo.works/images/pandanote-info.png">
 
 {% include fourthintervalad.html %}
