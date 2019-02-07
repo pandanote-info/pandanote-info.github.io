@@ -8,6 +8,8 @@ description: panda大学習帳外伝 大ポータルページ
 「panda大学習帳外伝」のページにようこそ!!
 
 YouTubeにアップロードしている動画を[こちら](https://sidestory.pandanote.info/youtube.html)で絶賛ご紹介中です。
+## 本サイトの記事一覧
+ただいま準備中です。(´・ω・`)
 ## ここで、お知らせです。(｀・ω・´)
 本サイトでもMathJax始めました。
 
