@@ -21,6 +21,7 @@ YouTubeにアップロードしている動画を[こちら](https://sidestory.p
 GitHubのリポジトリにおけるアクティビティを箱庭の草みたいな感じで表現できるとのことだったので、試してみました。
 
 アクティビティのほとんどが本サイトの更新なので、これでプログラミングの能力を評価されても困る訳ですが…(´・ω・`)
+
 <img src="https://grass-graph.moshimo.works/images/pandanote-info.png">
 
 {% include fourthintervalad.html %}
