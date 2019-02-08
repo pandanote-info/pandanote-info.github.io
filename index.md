@@ -2,7 +2,7 @@
 title: panda大学習帳外伝
 description: panda大学習帳外伝 大ポータルページ
 ---
-[panda大学習帳](https://pandanote.info/) \| [本サイトについて](https://sidestory.pandanote.info/about/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
+{% include homelink.md %}
 
 # いらっしゃいませ!!
 「panda大学習帳外伝」のページにようこそ!!
@@ -27,4 +27,5 @@ GitHubのリポジトリにおけるアクティビティを箱庭の草みた�
 
 {% include fourthintervalad.html %}
 
-[panda大学習帳](https://pandanote.info/) \| [本サイトについて](https://sidestory.pandanote.info/about/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
+## リンク
+{% include homelink.md %}
