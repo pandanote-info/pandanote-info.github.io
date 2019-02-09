@@ -8,7 +8,9 @@ description: 本サイトについて
 本サイトは以下の情報を公開しています。
 * 「[panda大学習帳](https://pandanote.info/)」の一部の記事に関連した記事。
 * [pandanote.info大公式チャンネル](https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg)の動画の一覧(次節参照)
+
 {% include thirdintervalad.html %}
+
 # 「pandanote.info大公式チャンネル」について
 「[panda大学習帳](https://pandanote.info/)」用の動画置き場も兼ねている[pandanote.info大公式チャンネル](https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg)の動画の一覧を[こちら](https://sidestory.pandanote.info/youtube.html)で公開しています。なお、表示速度向上のため、前記のページには動画を埋め込まず、かわりに動画へのリンクを埋め込んでおります。
 
