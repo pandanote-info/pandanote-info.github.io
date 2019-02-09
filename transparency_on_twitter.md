@@ -4,7 +4,7 @@ description: Twitterのウィジェットで透明な背景の画像が黒く表
 mathjax: true
 encoding: UTF-8
 ---
-[panda大学習帳](https://pandanote.info/) \| [panda大学習帳外伝](https://sidestory.pandanote.info/) \| [本サイトについて](https://sidestory.pandanote.info/about/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
+{% include pagelink.md %}
 
 # Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。
 
@@ -14,7 +14,7 @@ encoding: UTF-8
 
 この件についてはTwitter側の問題と考えられるため、背景を白くした画像ファイルを別途用意する等の対策を講じることなく放置しています。
 
-## リンク 
-[panda大学習帳](https://pandanote.info/) \| [panda大学習帳外伝](https://pandanote.info/) \| [本サイトについて](https://sidestory.pandanote.info/about/) \| [プライバシーポリシー](https://pandanote.info/?page_id=69)
+## リンク
+{% include pagelink.md %}
 
 {% include fourthintervalad.html %}
