@@ -14,9 +14,11 @@ encoding: UTF-8
 
 この件についてはTwitter側の問題と考えられるため、背景を白くした画像ファイルを別途用意する等の対策を講じることなく放置しています。
 
-# Twitter
+# Twitterのウィジェット
 
 ということで、Twitterのウィジェットを貼っておきます。
+
+ちょっと大きめです。
 
 <a class="twitter-timeline" href="https://twitter.com/Pandanote_info?ref_src=twsrc%5Etfw" height="500px">Tweets by Pandanote_info</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

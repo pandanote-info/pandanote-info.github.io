@@ -4,7 +4,7 @@ description: panda大学習帳外伝 大ポータルページ
 ---
 {% include homelink.md %}
 
-# いらっしゃいませ!!
+# Welcome!! / いらっしゃいませ!!
 「panda大学習帳外伝」のページにようこそ!!
 
 YouTubeにアップロードしている動画を[こちら](https://sidestory.pandanote.info/youtube.html)で絶賛ご紹介中です。
