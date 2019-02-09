@@ -36,6 +36,6 @@ description: 本サイトについて
 <div class="g-ytsubscribe" data-channelid="UC2CV_cEjBd81csrHy24Kytg" data-layout="full" data-count="default"></div>
 </div>
 
-{% includes pagelink.md %}
+{% include pagelink.md %}
 
-{% includes fourthintervalad.html %}
+{% include fourthintervalad.html %}
