@@ -1,4 +1,4 @@
-<p class="stats">Count data is as of 2019-02-19T23:16:51.775759+09:00 with delay. Please check my <a href="https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg">YouTube channel</a> to see more accurate data.</p>
+<p class="stats">Count data is as of 2019-02-19T23:35:22.995909+09:00 with delay. Please check my <a href="https://www.youtube.com/channel/UC2CV_cEjBd81csrHy24Kytg">YouTube channel</a> to see more accurate data.</p>
 <div style="border-top: solid 1px #1b3b8a; ">
 <div style="border: 0pt; margin-right:10px;"><a href="https://youtu.be/alo69-fpLaE"><img src="https://i.ytimg.com/vi/alo69-fpLaE/default.jpg" align="left" style="border:0;margin-right:0.5em;"/></a></div><div><p><a href="https://youtu.be/alo69-fpLaE" style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">An announcement in Narita Express, approaching to Yokohama station.</a></p><p>An announcement in Narita Express in four languages, approaching to Yokohama station.</p><p class="stats">27 views &amp; 1 like, Published at: 2018-12-23T00:00:41+09:00</p><div style="clear:both;"></div></div>
 </div>

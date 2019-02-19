@@ -1,7 +1,7 @@
 * [本サイトについて](https://sidestory.pandanote.info/about/index.html)
 * [標準正規分布に従う独立な2個の確率変数の積が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3657bis.html)
 * [標準正規分布に従う独立な2個の確率変数の商が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3810bis.html)
-* [用語集](https://sidestory.pandanote.info/glossary.html)
+* [用語集📒 ](https://sidestory.pandanote.info/glossary.html)
 * [panda大学習帳外伝 大ポータルページ](https://sidestory.pandanote.info/index.html)
 * [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)
 * [pandanote.info大公式チャンネルポータルページ](https://sidestory.pandanote.info/youtube.html)

@@ -1,11 +1,14 @@
 ---
 title: panda大学習帳外伝
-description: 用語集
+description: 用語集📒 
 ---
 {% include pagelink.md %}
 
-# panda大学習帳 & panda大学習帳外伝 用語集
+# panda大学習帳 & panda大学習帳外伝 用語集📒 
 panda大学習帳及びpanda大学習帳外伝で使用する用語についての定義づけのようなものを書いてみました。
+
+{% include firstad.html %}
+
 ## ディレクトリ
 Windowsでは「ディレクトリ」のかわりに「フォルダ」という用語が使われますが、本サイトでは、「ディレクトリ」で統一しています。
 ## root権限とsudo
