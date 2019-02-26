@@ -63,7 +63,7 @@ I_{-n}(x)-I_{n}(x) &= \sum_{p=0}^{\infty}\frac{1}{(p+n)!\Gamma(p+1)}\left(\frac{
 $n,p$はともに整数で、(\ref{eq:mbf1diffxpn})式右辺の$\Gamma$関数の引数はすべて正の数ですから、(\ref{eq:mbf1diffxpn})式右辺に登場している$\Gamma$関数はすべて階乗の形で表すことができます。よって、(\ref{eq:mbf1diffxpn})式の右辺は…
 
 \begin{align}
-I_{-n}(x)-I_{n}(x) &= \sum_{p=0}^{\infty}\frac{1}{(p+n)!p!}\left(\frac{x}{2}\right)^{2p+n} - \sum_{p=0}^{\infty}\frac{1}{p!(n+p)!}\left(\frac{x}{2}\right)^{2p+n} \nonumber \\
+I_{-n}(x)-I_{n}(x) &= \sum_{p=0}^{\infty}\frac{1}{(p+n)!p!}\left(\frac{x}{2}\right)^{2p+n} - \sum_{p=0}^{\infty}\frac{1}{p!(n+p)!}\left(\frac{x}{2}\right)^{2p+n} \nonumber \cr
 {} &= 0 \label{eq:mbf1diffqed}
 \end{align}
 
