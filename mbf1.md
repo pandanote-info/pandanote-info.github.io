@@ -64,7 +64,7 @@ $n,p$はともに整数で、(\ref{eq:mbf1diffxpn})式右辺の$\Gamma$関数の
 
 \begin{align}
 I_{-n}(x)-I_{n}(x) &= \sum_{p=0}^{\infty}\frac{1}{(p+n)!p!}\left(\frac{x}{2}\right)^{2p+n} - \sum_{p=0}^{\infty}\frac{1}{p!(n+p)!}\left(\frac{x}{2}\right)^{2p+n} \nonumber \\
-&= 0 \label{eq:mbf1diffqed}
+{} &= 0 \label{eq:mbf1diffqed}
 \end{align}
 
 と計算できて、右辺は$0$になります。
