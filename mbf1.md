@@ -1,4 +1,4 @@
-﻿---
+---
 title: panda大学習帳外伝
 description: 第1種変形Bessel関数の次数が整数のときに成り立つ関係式を証明してみた。
 mathjax: true
