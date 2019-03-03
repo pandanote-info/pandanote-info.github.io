@@ -44,6 +44,7 @@ panda大学習帳等では時々数式が登場します。
 ## log vs ln
 自然対数は「$\ln$」の代わりに「$\log$」と表記しています。したがって、常用対数は「$\log_{10}$」と表記することとなりますが、今のところ使用例はありません。
 
+## リンク
 {% include pagelink.md %}
 
 {% include fourthintervalad.html %}
