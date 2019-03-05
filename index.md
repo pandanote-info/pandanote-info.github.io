@@ -11,7 +11,7 @@ description: panda大学習帳外伝 大ポータルページ
 
 {% include firstad.html %}
 
-## ここで、お知らせです。(｀・ω・´)
+## ここで、お知らせです。😎
 本サイトでもMathJax始めました。
 
 記述例は[こちら](https://sidestory.pandanote.info/3657bis.html)や[こちら](https://sidestory.pandanote.info/3810bis.html)をご参照ください。
