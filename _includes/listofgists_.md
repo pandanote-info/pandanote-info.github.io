@@ -1,3 +1,8 @@
+## gist2md_sample.py
+* Created at: 2019-03-23T22:35:35Z
+* Descrption: GitHub APIのアクセストークンを使ってGistにアップロードしたファイルについての情報を読み出し、そのリストをmarkdown形式で生成するためのPython3のプログラム。Gistの貼り付け先となるWordpressの記事の情報はMariaDBより取得している。
+* [Link to Gist](https://gist.github.com/309a0555d3d0603fa515b33fe0335824)
+
 ## sqlcheck.sh
 * Created at: 2019-03-16T04:14:18Z
 * Descrption: MariaDBのプロセスがOOMKillerにkillされる等の理由で動いていなかった場合に再起動を行い、それをTwitterに起動するためのプログラムを起動するシェルスクリプト。
