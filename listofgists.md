@@ -7,6 +7,7 @@ description: List of Gists for pandanote.info.
 # List of Gists for pandanote.info.
 ## 前置き
 「[panda大学習帳](https://pandanote.info/)」にはGistにアップロードされているコード例またはコード例のようなものが多数掲載されていますが、そろそろ過去にどのようなコード例またはコード例のようなものをアップロードしたのかの記憶が曖昧になってきているので、GitHub APIを使ってそれらについての情報を取得して、そのリストを作成することにしました。
+{% include firstad.html %}
 
 # List of gists
 {% include listofgists_.md %}
