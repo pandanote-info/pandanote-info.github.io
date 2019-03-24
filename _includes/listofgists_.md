@@ -604,7 +604,6 @@
 * [Link to Gist](https://gist.github.com/71cf14ee30a7de16f5cfc8ef24269a91)
 * Referenced from: 
     * [プラグインのPHPのコードを直接編集してYARPP(Yet Another Related Posts Plugin)をカスタマイズする。](https://pandanote.info/?p=872)
-    * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
 
 ## wordpress-ssl.conf
 * Created at: 2017-08-22T12:29:51Z
@@ -613,7 +612,6 @@
 * [Link to Gist](https://gist.github.com/554ade8e0917915a62806d157336b330)
 * Referenced from: 
     * [最初に、常時HTTPS接続にしてみた。](https://pandanote.info/?p=1)
-    * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -630,7 +628,6 @@
 * Descrption: Wordpressのデータベースへのアクセスエラーの表示用ページのカスタマイズ用ファイルのサンプル。
 * Referenced from: 
     * [データベース接続確立エラーが発生したときに表示されるメッセージを使ってユーザビリティを上げてみる。](https://pandanote.info/?p=753)
-    * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
 
 ## movielist.py
 * Created at: 2017-08-16T13:19:09Z
@@ -639,7 +636,6 @@
 * [Link to Gist](https://gist.github.com/196df40df0f8d8aba25c8227b1a4035e)
 * Referenced from: 
     * [【コード例を更新しました。】google-api-python-clientとPython3でちょっと遊んでみる。](https://pandanote.info/?p=791)
-    * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
     * [python-gistを使ってGitHub Gistにアップロードしたファイルを編集してみる(おまけつき)。](https://pandanote.info/?p=997)
 
 ## sesman.ini.f26.diff
@@ -648,7 +644,6 @@
 * [Link to Gist](https://gist.github.com/6e12988c72047b0e3b93622bc8e3df05)
 * Referenced from: 
     * [Fedora 25から26へのアップグレード](https://pandanote.info/?p=715)
-    * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
 
 ## MediaWiki_PHP_7_0.diff
 * Created at: 2017-07-29T04:34:06Z
@@ -656,7 +651,6 @@
 * [Link to Gist](https://gist.github.com/6cfb588bffa0e2a62aaff3246449ff3f)
 * Referenced from: 
     * [Fedora 25へアップグレードしたら PHP が 7.0 になって、いろいろとハマった件](https://pandanote.info/?p=707)
-    * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -673,8 +667,6 @@
 * Updated at: 2017-07-26T22:18:25Z
 * Descrption: MediaWikiのPHP 7.0以降対応用のtemporary patch
 * [Link to Gist](https://gist.github.com/d9493b8a39abc02a66129881db63e255)
-* Referenced from: 
-    * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
 
 ## lupin3rdtwexo.py
 * Created at: 2017-06-27T12:36:21Z
@@ -683,7 +675,6 @@
 * [Link to Gist](https://gist.github.com/7e0eb5fc5c14160999a19c708e33fb03)
 * Referenced from: 
     * [AviUtlでルパン三世風タイトルのタイプライターの部分だけを手軽に作るスクリプトをPythonで書いてみた。](https://pandanote.info/?p=552)
-    * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
     * [AviUtl用ルパン三世風タイトルパーツメーカーをちょっと改造してみた。](https://pandanote.info/?p=2634)
 
 ## content.php.diff
@@ -693,7 +684,6 @@
 * [Link to Gist](https://gist.github.com/a97113568dad1308bc387696ee333bc8)
 * Referenced from: 
     * [Iconic Oneテーマが適用されているWordPressの各記事に最終更新日(または日時)を追加する方法](https://pandanote.info/?p=455)
-    * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
 
 ## ssl_multi_tenant_example.conf
 * Created at: 2017-06-19T21:25:37Z
@@ -701,7 +691,6 @@
 * [Link to Gist](https://gist.github.com/dde4dc1d1d2d5507dbd45aa022371d9b)
 * Referenced from: 
     * [Let's encryptから取得した異なるドメインに対するSSL/TLS証明書を同一のWebサーバで共存させて使用するための設定の方法](https://pandanote.info/?p=436)
-    * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -720,5 +709,4 @@
 * [Link to Gist](https://gist.github.com/130c7e9f0bf863b8907ab586fabd3338)
 * Referenced from: 
     * [AviUtlのエキスポートファイルから字幕ファイルを作る](https://pandanote.info/?p=29)
-    * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
 
