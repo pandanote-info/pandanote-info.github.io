@@ -124,7 +124,7 @@
 * Referenced from: 
     * [Fedora 29のGeoLite2を使って、アクセス元に応じてページの表示内容を微妙に変えるようにしてみた。](https://pandanote.info/?p=3551)
 
-## update_by_regexp_<br/>sql.txt
+## update_by_regexp_sql.txt
 * Created at: 2018-12-03T12:03:24Z
 * Updated at: 2018-12-03T12:03:25Z
 * Descrption: Wordpressで画像のサムネイルを後付けで設定するために実際に実行したSQL文。なお、動作についてはいっさい保証できません。
@@ -242,14 +242,14 @@
 * Referenced from: 
     * [複数のフォントを使ったAviUtlのテキストオブジェクトを量産するために、Python3用のregexモジュールを使ってみた。](https://pandanote.info/?p=2988)
 
-## scala_ide_on_<br/>fedora28_with_eclipse_photon_subtitles.txt
+## scala_ide_on_fedora28_<br/>with_eclipse_photon_subtitles.txt
 * Created at: 2018-10-01T01:55:50Z
 * Descrption: Fedora 28にEclipse 2018-09 (4.9.0)をインストールして、さらにPhoton対応のScala IDEをインストールした際の様子を録画した動画を作成する際に使用する予定の字幕の原稿。
 * [Link to Gist](https://gist.github.com/1a52523aeea7e2f1de1295cbd9b06aa9)
 * Referenced from: 
     * [複数のフォントを使ったAviUtlのテキストオブジェクトを量産するために、Python3用のregexモジュールを使ってみた。](https://pandanote.info/?p=2988)
 
-## dump_movie_sidestory_<br/>sample.py
+## dump_movie_sidestory_sample.py
 * Created at: 2018-09-19T21:56:20Z
 * Updated at: 2018-11-03T12:10:20Z
 * Descrption: YouTube Data API (v3)を使って、アップロードした動画についてのメタ情報を取得し、HTMLフォーマットで出力するPython3のスクリプト。
@@ -450,7 +450,7 @@
 * Referenced from: 
     * [Eclipseを使って複素数を扱うクラス等をScalaで実装しつつ、ちょっと改造してみた。](https://pandanote.info/?p=1829)
 
-## show_engines_result_<br/>with_mroonga.txt
+## show_engines_result_with_<br/>mroonga.txt
 * Created at: 2018-01-13T07:48:07Z
 * Descrption: Mroongaをインストールした後のshow enginesの実行結果。
 * [Link to Gist](https://gist.github.com/1cfe94960e5319f7f7d3821e6ac4ea13)
@@ -563,7 +563,7 @@
 * Descrption: Apache httpdでIPアドレスやUserAgentでアクセス制御を行うための設定例
 * [Link to Gist](https://gist.github.com/8d6fcfa992c08776e4970d1863432254)
 
-## total_characters_on_<br/>wordpress_excluding_examples.sql
+## total_characters_on_wordpress_<br/>excluding_examples.sql
 * Created at: 2017-09-27T13:54:18Z
 * Descrption: WordPressに記事として書かれている文章のうち、設定ファイル、プログラム例及びコマンドの出力結果などを除いた部分のおおよその総文字数を求めるSQL文
 * [Link to Gist](https://gist.github.com/481e8fb47e45a04e519ef19128f22d22)
@@ -580,7 +580,7 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-## total_characters_on_<br/>wordpress.sql
+## total_characters_on_wordpress.sql
 * Created at: 2017-09-26T21:29:45Z
 * Updated at: 2017-09-27T13:50:39Z
 * Descrption: WordPressに記事として書かれている文章のおおよその総文字数を求めるSQL文
@@ -650,7 +650,7 @@
     * [Fedora 25から26へのアップグレード](https://pandanote.info/?p=715)
     * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
 
-## MediaWiki_PHP_7_<br/>0.diff
+## MediaWiki_PHP_7_0.diff
 * Created at: 2017-07-29T04:34:06Z
 * Descrption: MediaWikiのPHP 7.0以降対応用のtemporary patch
 * [Link to Gist](https://gist.github.com/6cfb588bffa0e2a62aaff3246449ff3f)
@@ -695,7 +695,7 @@
     * [Iconic Oneテーマが適用されているWordPressの各記事に最終更新日(または日時)を追加する方法](https://pandanote.info/?p=455)
     * [python-gistを使ってコマンドライン経由でGistにアクセスしてみる。](https://pandanote.info/?p=981)
 
-## ssl_multi_tenant_<br/>example.conf
+## ssl_multi_tenant_example.conf
 * Created at: 2017-06-19T21:25:37Z
 * Descrption: Let's encryptから取得した異なるドメインに対するSSL/TLS証明書を同一のWebサーバで共存させて使用するための設定例
 * [Link to Gist](https://gist.github.com/dde4dc1d1d2d5507dbd45aa022371d9b)
