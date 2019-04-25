@@ -4,7 +4,7 @@
 * [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)
 * [pandanote.info大公式チャンネルポータルページ](https://sidestory.pandanote.info/youtube.html)
 * [整数次数の第2種変形Bessel関数が収束することの証明のうち、ディガンマ関数が登場する項が収束することの証明。](https://sidestory.pandanote.info/4022bis.html)
-* [用語集📒 ](https://sidestory.pandanote.info/glossary.html)
 * [panda大学習帳外伝 大ポータルページ](https://sidestory.pandanote.info/index.html)
 * [第1種変形Bessel関数の次数が整数のときに成り立つ関係式を証明してみた。](https://sidestory.pandanote.info/mbf1.html)
 * [List of Gists for pandanote.info.](https://sidestory.pandanote.info/listofgists.html)
+* [用語集📒 ](https://sidestory.pandanote.info/glossary.html)

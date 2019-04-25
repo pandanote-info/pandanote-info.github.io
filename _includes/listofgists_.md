@@ -15,6 +15,7 @@
 
 ## sqlcheck.sh
 * Created at: 2019-03-16T04:14:18Z
+* Updated at: 2019-04-23T15:12:07Z
 * Descrption: MariaDBのプロセスがOOMKillerにkillされる等の理由で動いていなかった場合に再起動を行い、それをTwitterに起動するためのプログラムを起動するシェルスクリプト。
 * [Link to Gist](https://gist.github.com/3182327b1584d76d26910f0feb28a024)
 * Referenced from: 
