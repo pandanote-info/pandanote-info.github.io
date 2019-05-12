@@ -28,6 +28,7 @@ description: 本サイトについて
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
+---
 # 本サイトのサブタイトルについて
 本サイトのサブタイトルは「[panda大学習帳](https://pandanote.info/)」の「[サブタイトルネタ帳](https://pandanote.info/catchphrase)」にあるサブタイトル中から1個が選択されて表示されます。なお、サブタイトルの変更は不定期に行われます。
 <div style="border-top: solid 1px #1b3b8a; ">
