@@ -9,7 +9,5 @@ MathJaxの記述例は以下の記事をご参照ください。🐼
 
 ### それ以外の記事
 * [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)
-* [panda大学習帳外伝 大ポータルページ](https://sidestory.pandanote.info/index.html)
 * [List of Gists for pandanote.info.](https://sidestory.pandanote.info/listofgists.html)
 * [pandanote.info大公式チャンネルポータルページ](https://sidestory.pandanote.info/youtube.html)
-* [本サイトについて](https://sidestory.pandanote.info/about/index.html)
