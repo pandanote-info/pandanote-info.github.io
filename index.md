@@ -7,14 +7,12 @@ description: panda大学習帳外伝 大ポータルページ
 # Welcome!! / いらっしゃいませ!!
 「panda大学習帳外伝」のページにようこそ!!
 
-最初はYouTubeにアップロードしている動画を[こちらのページ](https://sidestory.pandanote.info/youtube.html)で絶賛ご紹介するだけの簡単なWebサイトとしてスタートした本Webサイトですが、GitHub Pages+MathJaxで書いた記事を置いたりするようになったので、2019年2月にサイトの構成を見直しました。
+最初はYouTubeにアップロードしている動画を[こちらのページ](https://sidestory.pandanote.info/youtube.html)で絶賛ご紹介するだけの簡単なWebサイトとしてスタートした本Webサイトですが、GitHub Pages+MathJaxで書いた「昔大学の授業でやったような気がするけど、なんでそうなるのか忘れてしまったので、計算してみた。」系の記事を置いたりするようになったので、2019年2月にサイトの構成を見直しました。
 
 {% include firstad.html %}
 
-## ここで、お知らせです。😎
-本サイトでもMathJax始めました。
-
-記述例は[こちら](https://sidestory.pandanote.info/3657bis.html)や[こちら](https://sidestory.pandanote.info/3810bis.html)をご参照ください。
+## MathJaxの記述例😎
+MathJaxの記述例は[こちら](https://sidestory.pandanote.info/3657bis.html)や[こちら](https://sidestory.pandanote.info/3810bis.html)をご参照ください。
 
 ## 本サイトの記事一覧
 本サイトで掲載している記事の一覧です。
