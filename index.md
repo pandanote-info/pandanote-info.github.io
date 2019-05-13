@@ -29,7 +29,7 @@ GitHubのリポジトリにおけるアクティビティを箱庭の草みた�
 
 アクティビティのほとんどが本サイトの更新なので、これでプログラミングの能力を評価されても困る訳ですが…(´・ω・`)
 
-<img src="https://grass-graph.moshimo.works/images/pandanote-info.png">
+<img src="https://grass-graph.moshimo.works/images/pandanote-info.png?width=800">
 
 {% include fourthintervalad.html %}
 
