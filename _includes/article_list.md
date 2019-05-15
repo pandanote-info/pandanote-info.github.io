@@ -1,5 +1,6 @@
 ### 数学系の記事
 MathJaxの記述例は以下の記事をご参照ください。🐼
+* [回らない複素積分。](https://sidestory.pandanote.info/4431bis.html)
 * [マルチカラーな積分経路。](https://sidestory.pandanote.info/4310bis.html)
 * [用語集📒 ](https://sidestory.pandanote.info/glossary.html)
 * [第1種変形Bessel関数の次数が整数のときに成り立つ関係式を証明してみた。](https://sidestory.pandanote.info/mbf1.html)
