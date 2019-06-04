@@ -11,9 +11,6 @@ description: panda大学習帳外伝 大ポータルページ
 
 {% include firstad.html %}
 
-## MathJaxの記述例😎
-MathJaxの記述例は[こちら](https://sidestory.pandanote.info/3657bis.html)や[こちら](https://sidestory.pandanote.info/3810bis.html)をご参照ください。
-
 ## 本サイトの記事一覧
 本サイトで掲載している記事の一覧です。
 {% include article_list.md %}
