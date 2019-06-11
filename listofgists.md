@@ -12,6 +12,8 @@ description: List of Gists for pandanote.info.
 
 # List of gists
 時刻はすべてGMT(JSTから9時間遅れ)で表示しています。
+
+なおファイル名が長い場合には、適当なところで改行しています。
 {% include listofgists_.md %}
 # リンク
 {% include pagelink.md %}
