@@ -1,11 +1,11 @@
 ---
 title: panda大学習帳外伝
-description: サブタイトル集Classic
+description: サブタイトルネタ帳Classic
 encoding: UTF-8
 ---
 {% include pagelink.md %}
 
-# サブタイトル集Classic
+# サブタイトルネタ帳Classic
 このページでは[panda大学習帳](https://pandanote.info/)で過去に使用したサブタイトルのうち、最初に使用した50件を公開しています。
 
 最初の方に使用したものについては、元ネタが古くなってきてしまうなどの理由でどうしても鮮度が下がってきてしまうものも出てきますので、比較的最近使用したものとは別のページを作成して公開することにしました。
@@ -65,5 +65,5 @@ encoding: UTF-8
 1. ε-δな暮らし。
 
 ## リンク
-[サブタイトル集](https://pandanote.info/catchphrase) \| {% include pagelink.md %}
+[サブタイトルネタ帳](https://pandanote.info/catchphrase) \| {% include pagelink.md %}
 {% include fourthintervalad.html %}
