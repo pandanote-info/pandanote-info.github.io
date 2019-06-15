@@ -10,6 +10,7 @@ MathJaxの記述例は以下の記事をご参照ください。🐼
 * [標準正規分布に従う独立な2個の確率変数の積が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3657bis.html)
 
 ### それ以外の記事
+* [サブタイトル集Classic](https://sidestory.pandanote.info/catchphraseclassic.html)
 * [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)
 * [List of Gists for pandanote.info.](https://sidestory.pandanote.info/listofgists.html)
 * [pandanote.info大公式チャンネルポータルページ](https://sidestory.pandanote.info/youtube.html)
