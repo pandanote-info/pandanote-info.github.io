@@ -65,5 +65,5 @@ encoding: UTF-8
 1. ε-δな暮らし。
 
 ## リンク
-[サブタイトル集] \| {% include pagelink.md %}
+[サブタイトル集](https://pandanote.info/catchphrase) \| {% include pagelink.md %}
 {% include fourthintervalad.html %}
