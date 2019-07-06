@@ -1,3 +1,10 @@
+## functions_snippet.php
+* Created at: 2019-06-24T13:05:55Z
+* Descrption: amazon_widget.phpの組み込みのためにfunctions.phpに記述が必要なコード。
+* [Link to Gist](https://gist.github.com/57a2ffe735654a7d23da46e7fc3a2711)
+* Referenced from: 
+    * [【補足情報を追加しました。】AmazonのProduct Advertising APIからデータを取り出して、ウィジェットに入れてみる。](https://pandanote.info/?p=893)
+
 ## total_characters_on_wordpress_<br/>without_wp_tags.sql
 * Created at: 2019-06-11T11:15:59Z
 * Descrption: WordPressに記事として書かれている文章のうち、設定ファイル、プログラム例、コマンドの出力結果及びWordpressの拡張タグなどを除いた部分のおおよその総文字数を求めるSQL文
