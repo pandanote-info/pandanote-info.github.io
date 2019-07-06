@@ -7,7 +7,6 @@ description: panda大学習帳外伝 大ポータルページ
 # Welcome!! / いらっしゃいませ!!
 「panda大学習帳外伝」のページにようこそ!!
 
-最初はYouTubeにアップロードしている動画を[こちらのページ](https://sidestory.pandanote.info/youtube.html)で絶賛ご紹介するだけの簡単なWebサイトとしてスタートした本Webサイトですが、GitHub Pages+MathJaxで書いた「昔大学の授業でやったような気がするけど、なんでそうなるのか忘れてしまったので、計算してみた。」系の記事を置いたりするようになったので、2019年2月にサイトの構成を見直しました。
 
 {% include firstad.html %}
 
