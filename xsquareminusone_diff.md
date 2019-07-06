@@ -5,6 +5,7 @@ mathjax: true
 encoding: UTF-8
 ---
 {% include pagelink.md %}
+# (x^2-1)^nを繰り返し微分してみた。
 ## はじめに
 何を言っているのかわからないと思いますが、さっそく微分していきます。
 
