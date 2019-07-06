@@ -1,5 +1,6 @@
 ### 数学系の記事
 MathJaxの記述例は以下の記事をご参照ください。🐼
+* [(x^2-1)^nをl回微分してみた。](https://sidestory.pandanote.info/xsquareminusone_diff.html)
 * [試験には出ないかもしれないWallis積分。](https://sidestory.pandanote.info/4591bis.html)
 * [回らない複素積分。](https://sidestory.pandanote.info/4431bis.html)
 * [マルチカラーな積分経路。](https://sidestory.pandanote.info/4310bis.html)
