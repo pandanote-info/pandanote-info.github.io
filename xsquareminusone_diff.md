@@ -1,6 +1,6 @@
 ---
 title: panda大学習帳外伝
-description: (x^2-1)^nを1,2,...,l回微分してみた。
+description: (x^2-1)^nを繰り返し微分してみた。
 mathjax: true
 encoding: UTF-8
 ---
