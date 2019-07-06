@@ -1,12 +1,14 @@
 ---
 title: panda大学習帳外伝
-description: (x^2-1)^nをl回微分してみた。
+description: (x^2-1)^nを1,2,...,l回微分してみた。
 mathjax: true
 encoding: UTF-8
 ---
 {% include pagelink.md %}
 ## はじめに
 何を言っているのかわからないと思いますが、さっそく微分していきます。
+
+なお、タイトルに普通に「$l$回」と書くと数字の1と区別がつきにくいので、タイトルは後付けで変更しています。
 ## とりあえず、1,2回微分してみる。
 \begin{align}
 (x^2-1)^n &= \sum_{k=1}^{n}\begin{pmatrix}
@@ -15,6 +17,8 @@ encoding: UTF-8
 \end{pmatrix} (-1)^{n-k}x^{2k}\label{xsquareminusone}
 \end{align}
 と展開できますので、とりあえず1,2回微分してみます。
+
+{% include firstad.html %}
 
 (\ref{xsquareminusone})式の右辺は項別に微分できますので…
 \begin{align}
@@ -29,6 +33,9 @@ encoding: UTF-8
 \end{align}
 となります。
 ## それで、$l$回微分するとどうなるの?
+
+{%include secondintervalad.html %}
+
 こうなりそうです。
 \begin{align}
   \frac{d^l}{dx^l}\left[(x^2-1)^n\right] &= \sum_{k=\left\lceil\frac{l}{2}\right\rceil}^{n}\begin{pmatrix}
