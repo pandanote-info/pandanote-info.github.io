@@ -1,17 +1,17 @@
-### 数学系の記事
-MathJaxの記述例は以下の記事をご参照ください。🐼
-* [(x^2-1)^nをl回微分してみた。](https://sidestory.pandanote.info/xsquareminusone_diff.html)
-* [試験には出ないかもしれないWallis積分。](https://sidestory.pandanote.info/4591bis.html)
-* [回らない複素積分。](https://sidestory.pandanote.info/4431bis.html)
-* [マルチカラーな積分経路。](https://sidestory.pandanote.info/4310bis.html)
-* [用語集📒 ](https://sidestory.pandanote.info/glossary.html)
-* [第1種変形Bessel関数の次数が整数のときに成り立つ関係式を証明してみた。](https://sidestory.pandanote.info/mbf1.html)
-* [整数次数の第2種変形Bessel関数が収束することの証明のうち、ディガンマ関数が登場する項が収束することの証明。](https://sidestory.pandanote.info/4022bis.html)
-* [標準正規分布に従う独立な2個の確率変数の商が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3810bis.html)
-* [標準正規分布に従う独立な2個の確率変数の積が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3657bis.html)
+6d60a3be57a70b0f540f22ae3a23c99a275e12b8 2019-07-06T06:31:09Z 0
+本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
-### それ以外の記事
-* [サブタイトルネタ帳Classic](https://sidestory.pandanote.info/catchphraseclassic.html)
-* [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)
-* [List of Gists for pandanote.info.](https://sidestory.pandanote.info/listofgists.html)
-* [pandanote.info大公式チャンネルポータルページ](https://sidestory.pandanote.info/youtube.html)
+なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
+* [(x^2-1)^nをl回微分してみた。](https://sidestory.pandanote.info/xsquareminusone_diff.html)(2019/07/05,last update: 2019/07/06)
+* [試験には出ないかもしれないWallis積分。](https://sidestory.pandanote.info/4591bis.html)(2019/06/04,last update: 2019/06/23)
+* [サブタイトルネタ帳Classic](https://sidestory.pandanote.info/catchphraseclassic.html)(2019/06/16)
+* [List of Gists for pandanote.info.](https://sidestory.pandanote.info/listofgists.html)(2019/03/23,last update: 2019/06/11)
+* [回らない複素積分。](https://sidestory.pandanote.info/4431bis.html)(2019/05/15,last update: 2019/06/04)
+* [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)(2019/01/18,last update: 2019/05/15)
+* [マルチカラーな積分経路。](https://sidestory.pandanote.info/4310bis.html)(2019/04/26)
+* [用語集📒 ](https://sidestory.pandanote.info/glossary.html)(2019/02/19,last update: 2019/04/09)
+* [整数次数の第2種変形Bessel関数が収束することの証明のうち、ディガンマ関数が登場する項が収束することの証明。](https://sidestory.pandanote.info/4022bis.html)(2019/03/03,last update: 2019/03/05)
+* [第1種変形Bessel関数の次数が整数のときに成り立つ関係式を証明してみた。](https://sidestory.pandanote.info/mbf1.html)(2019/02/26,last update: 2019/03/04)
+* [pandanote.info大公式チャンネルポータルページ](https://sidestory.pandanote.info/youtube.html)(2019/02/06,last update: 2019/02/20)
+* [標準正規分布に従う独立な2個の確率変数の商が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3810bis.html)(2019/02/06,last update: 2019/02/09)
+* [標準正規分布に従う独立な2個の確率変数の積が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3657bis.html)(2019/01/12,last update: 2019/02/09)
