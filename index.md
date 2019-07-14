@@ -11,8 +11,9 @@ description: panda大学習帳外伝 大ポータルページ
 
 {% include firstad.html %}
 
-## 本サイトの記事一覧
-本サイトで掲載している記事の一覧です。
+## 本Webサイトの記事一覧
+本Webサイトで掲載している記事の一覧です。
+
 {% include article_list.md %}
 
 {% include thirdintervalad.html %}
