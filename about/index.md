@@ -5,7 +5,9 @@ description: 本サイトについて
 {% include pagelink.md %}
 
 # 本Webサイトについて
-本Webサイトは、最初はYouTubeにアップロードしている動画を[こちらのページ](https://sidestory.pandanote.info/youtube.html)で絶賛ご紹介するだけの簡単なWebサイトとしてスタートした本Webサイトですが、GitHub Pages+MathJaxで書いた「昔大学の授業でやったような気がするけど、なんでそうなるのか忘れてしまったので、計算してみた。」系の記事を置いたりするようになったので、2019年2月にWebサイトの構成を見直しました。
+本Webサイトは、最初はYouTubeにアップロードしている動画を[こちらのページ](https://sidestory.pandanote.info/youtube.html)で絶賛ご紹介するだけの簡単なWebサイトとして2018年にスタートしました。
+
+その後、GitHub Pages+MathJaxで書いた「昔大学の授業でやったような気がするけど、なんでそうなるのか忘れてしまったので、計算してみた。」系のような[panda大学習帳](https://pandanote.info/)とは別に取り扱った方が良さそうな記事を置いくするようになったので、2019年2月にWebサイトの構成を見直しました。
 
 本Webサイトは主に以下の情報を公開しています。
 * 「[panda大学習帳](https://pandanote.info/)」の一部の記事に関連した記事。
@@ -32,7 +34,9 @@ description: 本サイトについて
 </div>
 ---
 ## 本サイトのサブタイトルについて
-本サイトのサブタイトルは「[panda大学習帳](https://pandanote.info/)」の「[サブタイトルネタ帳](https://pandanote.info/catchphrase)」にあるサブタイトル中から1個が選択されて表示されます。なお、サブタイトルの変更は不定期に行われます。
+本サイトのサブタイトルは「[panda大学習帳](https://pandanote.info/)」の「[サブタイトルネタ帳](https://pandanote.info/catchphrase)」にあるサブタイトル([サブタイトルネタ帳Classic](https://sidestory.pandanote.info/catchphraseclassic.html)に移動したものを除きます。)中から1個が選択されて表示されます。
+
+なお、サブタイトルの変更は不定期に行われます。
 <div style="border-top: solid 1px #1b3b8a; ">
 <p style="color:#1b3b8a; font-size:1.5em; font-weight: bold;">チャンネル登録をよろしくお願いいたします!!</p>
 <p>↓のボタンを押していただくとチャンネルを登録できます。</p>
