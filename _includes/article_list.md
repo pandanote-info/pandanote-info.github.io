@@ -1,8 +1,8 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
+* [本サイトについて](https://sidestory.pandanote.info/about/index.html)(2018/12/06, Last update: 2019/07/15)
 * [(x^2-1)^nを繰り返し微分してみた。](https://sidestory.pandanote.info/xsquareminusone_diff.html)(2019/07/05, Last update: 2019/07/06)
-* [本サイトについて](https://sidestory.pandanote.info/about/index.html)(2018/12/06, Last update: 2019/07/06)
 * [試験には出ないかもしれないWallis積分。](https://sidestory.pandanote.info/4591bis.html)(2019/06/04, Last update: 2019/06/23)
 * [サブタイトルネタ帳Classic](https://sidestory.pandanote.info/catchphraseclassic.html)(2019/06/16)
 * [List of Gists for pandanote.info.](https://sidestory.pandanote.info/listofgists.html)(2019/03/23, Last update: 2019/06/11)
