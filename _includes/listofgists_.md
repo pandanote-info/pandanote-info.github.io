@@ -7,6 +7,7 @@
 
 ## dump_articles_list_sample.py
 * Created at: 2019-07-14T12:59:01Z
+* Updated at: 2019-07-15T12:35:16Z
 * Descrption: GitHub APIを使ってGitHub Pagesのコミット情報を取得後に、ファイルの更新情報を抽出してその結果のデータベースへ保管及びmarkdownファイルの作成を行うスクリプト。
 * [Link to Gist](https://gist.github.com/581d6f303a7ac9873b58a4023a785796)
 * Referenced from: 
@@ -727,9 +728,6 @@
 * Updated at: 2018-08-29T13:51:46Z
 * Descrption: AviUtlのエクスポートファイル版ルパン三世風タイトルパーツメーカー
 * [Link to Gist](https://gist.github.com/7e0eb5fc5c14160999a19c708e33fb03)
-* Referenced from: 
-    * [AviUtlでルパン三世風タイトルのタイプライターの部分だけを手軽に作るスクリプトをPythonで書いてみた。](https://pandanote.info/?p=552)
-    * [AviUtl用ルパン三世風タイトルパーツメーカーをちょっと改造してみた。](https://pandanote.info/?p=2634)
 
 ## content.php.diff
 * Created at: 2017-06-24T15:20:33Z
