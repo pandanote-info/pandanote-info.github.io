@@ -1,3 +1,25 @@
+## build.sbt.for.emacs
+* Created at: 2019-09-08T04:02:52Z
+* Descrption: EmacsでScalaのプロジェクトを編集して保存すると発生するバックアップファイルをsbtのcleanタスクで削除するためのbuild.sbtの設定例。
+* [Link to Gist](https://gist.github.com/82291d4e23b4671b7ceeb38324c8edf8)
+* Referenced from: 
+    * [EmacsでScalaのコードを編集すると次々と作成されるバックアップファイルを"sbt clean"で削除するための設定。](https://pandanote.info/?p=5285)
+
+## UTF8StdinTest.scala
+* Created at: 2019-09-04T13:41:32Z
+* Descrption: 標準入力からのデータ読み込みのテスト用のScalaのプログラム。
+* [Link to Gist](https://gist.github.com/fc3da4553f3d94b51a5bdce40c875e79)
+* Referenced from: 
+    * [Windows 10 Homeでsbt-assemblyを使ってFat JARファイルを作ったところ、クラスファイルが不足していて実行できなかった件。](https://pandanote.info/?p=5265)
+
+## HelloMain.scala
+* Created at: 2019-08-27T22:26:05Z
+* Updated at: 2019-08-27T22:26:06Z
+* Descrption: ScalaのHelloWorld的なコード。foreachの使用例です。
+* [Link to Gist](https://gist.github.com/a6b91a5776ba77b611fb932729d1b380)
+* Referenced from: 
+    * [Windows 10+Emacs 26+SBT-1.3.0-RC1でScalaの統合開発環境のようなものを整備してみる。](https://pandanote.info/?p=4567)
+
 ## github_pages.sql
 * Created at: 2019-07-14T13:04:10Z
 * Descrption: GitHub APIから取得したGitHub Pagesの更新状況を格納するためのテーブルを作成するSQL文。
@@ -5,6 +27,16 @@
 * Referenced from: 
     * [GitHub Pagesのトップページの記事一覧をMariaDBの力を借りて作成日時と最終更新日時(のようなもの)順に並べてみた。](https://pandanote.info/?p=4942)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## dump_articles_list_sample.py
 * Created at: 2019-07-14T12:59:01Z
 * Updated at: 2019-07-15T12:35:16Z
@@ -20,16 +52,6 @@
 * Referenced from: 
     * [【補足情報を追加しました。】AmazonのProduct Advertising APIからデータを取り出して、ウィジェットに入れてみる。](https://pandanote.info/?p=893)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## total_characters_on_wordpress_<br/>without_wp_tags.sql
 * Created at: 2019-06-11T11:15:59Z
 * Descrption: WordPressに記事として書かれている文章のうち、設定ファイル、プログラム例、コマンドの出力結果及びWordpressの拡張タグなどを除いた部分のおおよその総文字数を求めるSQL文
@@ -44,6 +66,16 @@
 * Referenced from: 
     * [Apache Solr 8用のkuromoji(NEologd入り)の動作確認のためにテキストファイルを1個だけインポートしてみた。](https://pandanote.info/?p=4648)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## sqlite3init.bas
 * Created at: 2019-03-30T09:14:18Z
 * Descrption: 32bit版及び64bit版のExcelで使用できるSQLite3のDLL(sqlite3.dll)をオープンするためのExcel VBAの関数。
@@ -59,16 +91,6 @@
 * Referenced from: 
     * [GitHub APIを使ってGistにアップロードしたファイルのリストにひと手間かけたものを表示するページを作ったところ、割といいもの(本Webサイト比)ができた件。](https://pandanote.info/?p=4139)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## sqlcheck.sh
 * Created at: 2019-03-16T04:14:18Z
 * Updated at: 2019-04-23T15:12:07Z
@@ -84,6 +106,16 @@
 * Referenced from: 
     * [GitHub APIを使って、GitHub上の自分のリポジトリの一覧を表示する簡易なウィジェットを作ってみた。](https://pandanote.info/?p=3389)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## letsencrypt.cron
 * Created at: 2019-02-04T12:27:14Z
 * Descrption: Let's encryptから取得した証明書を更新するコマンドを起動するためのcronの設定ファイル。
@@ -100,16 +132,6 @@
     * [Let's encryptのドメイン認証の方法を証明書の更新にあわせてHTTP-01に変更してみた(おまけつき)。](https://pandanote.info/?p=3842)
     * [GitHub APIを使ってGistにアップロードしたファイルのリストにひと手間かけたものを表示するページを作ったところ、割といいもの(本Webサイト比)ができた件。](https://pandanote.info/?p=4139)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## virtualhost-for-letsencrypt.conf
 * Created at: 2019-01-19T07:47:24Z
 * Descrption: Let's encryptから証明書を取得または更新するためのApache httpdの設定例。
@@ -124,6 +146,16 @@
 * Referenced from: 
     * [Python3でCamelCase変換: 後で思い出せない予感がしたので、メモしてみた。](https://pandanote.info/?p=3738)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## camelcasetest2.py
 * Created at: 2019-01-16T12:11:00Z
 * Updated at: 2019-01-16T12:11:01Z
@@ -139,16 +171,6 @@
 * Referenced from: 
     * [Python3でCamelCase変換: 後で思い出せない予感がしたので、メモしてみた。](https://pandanote.info/?p=3738)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## mathjax.html
 * Created at: 2019-01-13T03:59:15Z
 * Descrption: GitHub PagesでMathJaxを使用するためのコード例。
@@ -164,6 +186,16 @@
 * Referenced from: 
     * [Fedora 29のGeoLite2を使って、アクセス元に応じてページの表示内容を微妙に変えるようにしてみた。](https://pandanote.info/?p=3551)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## GeoLite2-country-example-test.php
 * Created at: 2018-12-08T10:51:36Z
 * Updated at: 2018-12-08T10:51:53Z
@@ -179,16 +211,6 @@
 * Referenced from: 
     * [Fedora 29のGeoLite2を使って、アクセス元に応じてページの表示内容を微妙に変えるようにしてみた。](https://pandanote.info/?p=3551)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## update_by_regexp_sql.txt
 * Created at: 2018-12-03T12:03:24Z
 * Updated at: 2018-12-03T12:03:25Z
@@ -204,6 +226,16 @@
 * Referenced from: 
     * [画像のサムネイルからもとの画像へのリンクを設定していなかったような気がするので、SQL文で追加を試みたところ、正規表現でハマったのでメモ。](https://pandanote.info/?p=3510)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## regexp_result_bad.txt
 * Created at: 2018-12-03T11:19:09Z
 * Descrption: MariaDBで否定先読みを実行しようと試み、失敗した際の出力ファイル。
@@ -218,16 +250,6 @@
 * Referenced from: 
     * [Leafletでワインの産地というか地域をプロットしてみる(その2): Leaflet上の地図にpolygonを描き、それをWordpressのページに埋め込むためのショートコード例。](https://pandanote.info/?p=3468)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## githubrepo_widget_sample.php
 * Created at: 2018-11-25T22:27:40Z
 * Descrption: データベースからGitHubについての情報を読み出し、Wordpress用の簡易ウィジェットを作成するためのPython3のプログラム。
@@ -243,6 +265,16 @@
 * Referenced from: 
     * [【コード例を更新しました。】google-api-python-clientとPython3でちょっと遊んでみる。](https://pandanote.info/?p=791)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## dump_catchphrase.php
 * Created at: 2018-11-17T00:36:36Z
 * Descrption: Wordpressが使用しているデータベース上に作ったテーブル(catchphraseテーブル)からデータを取り出してHTMLに変換するためのショートコード。
@@ -258,16 +290,6 @@
     * [Twitter APIでGitHub Pagesの更新情報を投稿するためのPython3のプログラムを書いてみた。](https://pandanote.info/?p=3079)
     * [MariaDBのプロセスを再起動させたら、その旨をTwitterに投稿する簡易システムを構築してみた👷](https://pandanote.info/?p=4090)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## pandanote_publisher_v1.py
 * Created at: 2018-10-18T22:08:00Z
 * Descrption: Twitter APIからタイムラインを取得し、その結果を標準出力に出力するPython3のプログラム例。
@@ -282,6 +304,16 @@
 * Referenced from: 
     * [Twitter APIでGitHub Pagesの更新情報を投稿するためのPython3のプログラムを書いてみた。](https://pandanote.info/?p=3079)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## www.conf.diff
 * Created at: 2018-10-16T14:29:13Z
 * Updated at: 2018-10-17T13:29:13Z
@@ -297,16 +329,6 @@
 * Referenced from: 
     * [複数のフォントを使ったAviUtlのテキストオブジェクトを量産するために、Python3用のregexモジュールを使ってみた。](https://pandanote.info/?p=2988)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## scala_ide_on_fedora28_<br/>with_eclipse_photon_subtitles.txt
 * Created at: 2018-10-01T01:55:50Z
 * Descrption: Fedora 28にEclipse 2018-09 (4.9.0)をインストールして、さらにPhoton対応のScala IDEをインストールした際の様子を録画した動画を作成する際に使用する予定の字幕の原稿。
@@ -322,6 +344,16 @@
 * Referenced from: 
     * [【リンク先を修正しました。】GitHub Pagesでちょっと遊んでみる(2): Youtube Data API (v3)でデータを取得して、channel紹介のWebサイトを作ってみた。](https://pandanote.info/?p=2872)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## mathjax_hub_config.php
 * Created at: 2018-09-18T14:40:20Z
 * Descrption: MathJaxの設定例。Wordpressのheader.phpのheadタグの下に設定する。
@@ -336,16 +368,6 @@
 * Referenced from: 
     * [数式表示用のプラグインをWP-QuickLaTeXからMathJaxに変更しました。](https://pandanote.info/?p=2751)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## latex_equation_scroll.php
 * Created at: 2018-09-18T13:31:23Z
 * Updated at: 2018-09-18T13:31:24Z
@@ -362,6 +384,16 @@
 * Referenced from: 
     * [標準正規分布の確率密度関数をテイラー展開してから積分して累積分布関数を求めてみた。](https://pandanote.info/?p=2588)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## solrconfig-dih.xml
 * Created at: 2018-08-07T13:21:00Z
 * Updated at: 2018-08-07T13:21:01Z
@@ -377,16 +409,6 @@
 * Referenced from: 
     * [Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## SevenZFileDataSource.java
 * Created at: 2018-08-06T13:43:36Z
 * Updated at: 2018-08-06T13:45:00Z
@@ -402,6 +424,16 @@
 * Referenced from: 
     * [Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## test_output_utf8.exo
 * Created at: 2018-07-21T08:34:39Z
 * Descrption: AviUtl用字幕の量産ツールtxt2exo.pyによる出力例をUTF-8に変換したファイル。実際に使用する際には文字コードをShift JISに変換すること。
@@ -417,16 +449,6 @@
 * Referenced from: 
     * [【プログラムを更新しました。】Python3でAviUtl用テキストオブジェクト量産用ツールを作ってみた。](https://pandanote.info/?p=2422)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## QuaternionTest.scala
 * Created at: 2018-07-16T13:44:36Z
 * Updated at: 2018-07-16T13:44:37Z
@@ -443,6 +465,16 @@
 * Referenced from: 
     * [夏が来れば思い出す、Euler角、四元数(2): Scalaで実装してみた。](https://pandanote.info/?p=2399)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## recolog-sample.php
 * Created at: 2018-07-08T13:27:29Z
 * Updated at: 2018-07-08T13:27:30Z
@@ -457,16 +489,6 @@
 * Referenced from: 
     * [【設定例を変更しました。】固定ページのURLをナウなヤングにバカうけなやつにしようと思いRewriteRuleの設定を試みたところ、かなりハマった件。](https://pandanote.info/?p=2364)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## catchphrase-sample.conf
 * Created at: 2018-07-06T02:45:13Z
 * Updated at: 2018-11-07T13:06:10Z
@@ -482,6 +504,16 @@
 * Referenced from: 
     * [Eclipse+SBTでScalaのテストコードを書いて動かそうとしたところ、かなりハマったのでメモ。](https://pandanote.info/?p=1861)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## build.sbt
 * Created at: 2018-05-01T08:47:35Z
 * Descrption: ScalaTestを使用するためのbuild.sbtの設定例。
@@ -497,16 +529,6 @@
 * Referenced from: 
     * [EclipseでScalaのプログラムをmainメソッドから動かしてみました。](https://pandanote.info/?p=1849)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## ComplexNumber.scala
 * Created at: 2018-04-25T12:53:21Z
 * Updated at: 2018-06-22T04:15:12Z
@@ -522,6 +544,16 @@
 * Referenced from: 
     * [Wikipedia日本語版の記事のダンプファイルをダウンロードして、MediaWikiサーバにインポートする方法のメモ書き。](https://pandanote.info/?p=1562)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## findmp4inuvdl.py
 * Created at: 2017-12-31T09:40:03Z
 * Descrption: moviefilelist.pyを使って生成したJSONのスクリプトを読み込んで、ちょっとおしゃれなexoファイルを生成するためのPython3のプログラム。
@@ -537,16 +569,6 @@
 * Referenced from: 
     * [リアルに忙しい時のためのちょっとおしゃれなまとめ的な動画の作り方](https://pandanote.info/?p=1510)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## copytag.py
 * Created at: 2017-12-12T14:22:52Z
 * Updated at: 2017-12-31T09:38:19Z
@@ -561,6 +583,16 @@
 * Referenced from: 
     * [AmazonへのリンクがクリックされたかどうかをリンクのURLを書き換えることなく確認する方法](https://pandanote.info/?p=1383)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## gallery_sample.js
 * Created at: 2017-11-29T22:38:28Z
 * Updated at: 2017-11-29T22:38:29Z
@@ -575,16 +607,6 @@
 * Referenced from: 
     * [WP-QuickLaTeXで記事中に数式などを書くときに調べたことn選](https://pandanote.info/?p=1352)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## mediawiki_example.conf
 * Created at: 2017-11-05T09:17:22Z
 * Updated at: 2017-11-05T14:12:43Z
@@ -598,6 +620,16 @@
 * Descrption: Amazon Product Advertising APIを使った広告で、現在までに作成したものを蓄積するためのMariaDBのテーブルの作成用のSQL文のサンプル
 * [Link to Gist](https://gist.github.com/9b45cb34bc04a6f3704bea81fa28a93f)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## simple_leaflet_demo.php
 * Created at: 2017-10-04T14:47:26Z
 * Descrption: プラグインを使わずにHTTPS接続で運用されているWordpressの記事内にLeafletで地図を表示させるためのショートコードのサンプル。
@@ -613,16 +645,6 @@
 * Referenced from: 
     * [Leafletを使ってOpenStreetMapに地点データをプロットし、それを常時HTTPS接続のWordpressの記事に埋め込んでみる。](https://pandanote.info/?p=1049)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## wordpress_acl_example.conf
 * Created at: 2017-09-28T22:18:38Z
 * Descrption: Apache httpdでIPアドレスやUserAgentでアクセス制御を行うための設定例
@@ -635,6 +657,16 @@
 * Referenced from: 
     * [WordPressに記事として書かれている文章のうち、設定ファイル、プログラム例及びコマンドの出力結果などを除いた部分のおおよその総文字数をSQL文だけで求める方法の例](https://pandanote.info/?p=1023)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## total_characters_on_wordpress.sql
 * Created at: 2017-09-26T21:29:45Z
 * Updated at: 2017-09-27T13:50:39Z
@@ -652,16 +684,6 @@
 * Referenced from: 
     * [【補足情報を追加しました。】AmazonのProduct Advertising APIからデータを取り出して、ウィジェットに入れてみる。](https://pandanote.info/?p=893)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## styles_thumbnails.css.php.diff
 * Created at: 2017-08-30T22:38:21Z
 * Updated at: 2017-09-05T13:03:23Z
@@ -678,6 +700,16 @@
 * Referenced from: 
     * [最初に、常時HTTPS接続にしてみた。](https://pandanote.info/?p=1)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## db-error.php.sample
 * Created at: 2017-08-16T13:46:34Z
 * Descrption: Wordpressのデータベースへのアクセスエラーの表示用ページのカスタマイズ用ファイルのサンプル。
@@ -693,16 +725,6 @@
     * [【コード例を更新しました。】google-api-python-clientとPython3でちょっと遊んでみる。](https://pandanote.info/?p=791)
     * [python-gistを使ってGitHub Gistにアップロードしたファイルを編集してみる(おまけつき)。](https://pandanote.info/?p=997)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## sesman.ini.f26.diff
 * Created at: 2017-07-29T14:34:07Z
 * Descrption: TigerVNC 1.8.0以降のクリップボードサポートを無効にするためのpatch.
@@ -717,6 +739,16 @@
 * Referenced from: 
     * [Fedora 25へアップグレードしたら PHP が 7.0 になって、いろいろとハマった件](https://pandanote.info/?p=707)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## EditPage.php.diff
 * Created at: 2017-07-26T22:12:08Z
 * Updated at: 2017-07-26T22:18:25Z
@@ -729,16 +761,6 @@
 * Descrption: AviUtlのエクスポートファイル版ルパン三世風タイトルパーツメーカー
 * [Link to Gist](https://gist.github.com/7e0eb5fc5c14160999a19c708e33fb03)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## content.php.diff
 * Created at: 2017-06-24T15:20:33Z
 * Updated at: 2017-06-25T01:57:17Z
@@ -754,6 +776,16 @@
 * Referenced from: 
     * [Let's encryptから取得した異なるドメインに対するSSL/TLS証明書を同一のWebサーバで共存させて使用するための設定の方法](https://pandanote.info/?p=436)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## exo2srt.py
 * Created at: 2017-06-18T09:20:49Z
 * Updated at: 2017-06-18T09:53:24Z
