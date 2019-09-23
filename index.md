@@ -18,7 +18,7 @@ description: panda大学習帳外伝 大ポータルページ
 
 {% include thirdintervalad.html %}
 
-## Activities on GitHub / 周波数低め系趣味の園芸
+# Activities on GitHub / 周波数低め系趣味の園芸
 Not quite frequent :-)
 
 GitHubのリポジトリにおけるアクティビティを箱庭の草みたいな感じで表現できるとのことだったので、試してみました。
