@@ -10,7 +10,7 @@
 * Descrption: 標準入力からのデータ読み込みのテスト用のScalaのプログラム。
 * [Link to Gist](https://gist.github.com/fc3da4553f3d94b51a5bdce40c875e79)
 * Referenced from: 
-    * [Windows 10 Homeでsbt-assemblyを使ってFat JARファイルを作ったところ、クラスファイルが不足していて実行できなかった件。](https://pandanote.info/?p=5265)
+    * [Windows 10 Homeでsbt-assemblyを使ってFat JARファイルを作ったところ、パスの文字列長が長すぎてクラスファイルが不足していて実行できなかった件。](https://pandanote.info/?p=5265)
 
 ## HelloMain.scala
 * Created at: 2019-08-27T22:26:05Z
