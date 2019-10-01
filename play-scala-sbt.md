@@ -47,6 +47,7 @@ println("x="+(if(y.equals("")){null}else{"'"+y+"'"}))
 val l = ListBuffer.empty[ExampleClass]
 ```
 1. キーと値の組み合わせでデータを格納する場合に、キーの順序にソートしてデータを格納することが必要になることがある。そのような場合にはListMapを使用するとキーの順序にソートしてデータを格納することができる。
+
 ## sbt
 
 1. sbt-1.3.0-RC1でPlay Frameworkのプロジェクトをコンパイルするとviews.htmlが見つからないといわれる。なお、sbt-1.2.8ではビルドできる。
