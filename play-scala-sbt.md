@@ -8,7 +8,7 @@ encoding: UTF-8
 
 # Play FrameworkやScalaやsbtのメモ書き。
 
-情報が少ないのでハマったところから順番にまとめてみました。
+Play FrameworkやScalaやsbtについては情報が少ないので、ハマったところから順番にまとめてみました。
 
 なお、ある程度情報がまとまった部分については「panda大学習帳」に新規の記事を作った上で移転する可能性があります。
 
@@ -17,9 +17,9 @@ encoding: UTF-8
 ## Play Framework
 
 ### バージョンについて
-本節の記述はVersion 2.7を前提とした記述である。
+本節の記述はVersion 2.7を前提とした記述としています。
 
-Version 2.6以降でAPIの仕様が変更されているので、注意が必要である。
+Version 2.6以降でAPIの仕様が比較的大幅に変更されているので、注意が必要です。
 ### 本編のメモ書き。
 
 1. routesファイルに定義していないURLをcontrollersパッケージのコードから参照しようとすると、「controllers.routesにコントローラクラスは見つかりません。」というエラーメッセージが表示されて、コンパイルができない。よって、routesファイルへの設定が必要。
@@ -66,5 +66,3 @@ val l = ListBuffer.empty[ExampleClass]
 [panda大学習帳のScalaのカテゴリ](https://pandanote.info/?cat=17) \| {% include pagelink.md %}
 
 {% include fourthintervalad.html %}
-
-
