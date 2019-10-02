@@ -8,7 +8,7 @@ encoding: UTF-8
 
 # Play FrameworkやScalaやsbtのメモ書き。
 
-Play FrameworkやScalaやsbtについては情報が少ないので、ハマったところから順番にまとめてみました。
+[Play Framework](https://amzn.to/2olnVQt)や[Scala](https://amzn.to/2olnVQt)や[sbt](https://amzn.to/2nG5WE9)については情報が少ないので、ハマったところから順番にまとめてみました。
 
 なお、ある程度情報がまとまった部分については「panda大学習帳」に新規の記事を作った上で移転する可能性があります。
 
