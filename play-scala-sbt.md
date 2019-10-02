@@ -10,7 +10,7 @@ encoding: UTF-8
 
 [Play Framework](https://amzn.to/2olnVQt)や[Scala](https://amzn.to/2olnVQt)や[sbt](https://amzn.to/2nG5WE9)については情報が少ないので、ハマったところから順番にまとめてみました。
 
-なお、ある程度情報がまとまった部分については「panda大学習帳」に新規の記事を作った上で移転する可能性があります。
+なお、ある程度情報がまとまった部分については「[panda大学習帳](https://pandanote.info/)」に新規の記事を作った上で移転する可能性があります。
 
 {% include firstad.html %}
 
@@ -26,7 +26,7 @@ Version 2.6以降でAPIの仕様が比較的大幅に変更されているので
 1. データベースに対するSQL文の発行はanormまたはSlickを使うと良い。ただ、Framework側ではSQL文のパラメータを置き換える程度の処理しかしないので、複雑なSQL文が必要になったとき(っていうか、そこそこ実用的なWebアプリケーションを作るときにはほぼ必要になります。)にはSlickだと厳しいかもしれないので、anormの方が無難かもです。
 1. where ~ in 句のin句にパラメータを設定する際にはSeq型のデータを指定する。
 1. Webアプリケーションの実行テストの際に「controllersパッケージのReverse&lt;コントローラのクラス名&gt;のvalueが見つからない」というエラーページが表示される場合にはroutesファイルへの設定が行われていないので、設定を確認する。
-1. テンプレートでif文を書くときに、"@if"の後ろにはスペースを入れないこと。
+1. テンプレートでif文を書くときに、"@if"の後ろにはスペースを入れないこと。また、波括弧は省略しないこと。
 1. エラーハンドラ以外のところでエラーを発生させ、かつ自前のエラーページを作成するとき等のためにステータスコードを取得するには、RequestHeaderクラスのstatusメソッドを実行すると取得できる。
 1. MessagesRequestHandlerやMessageRequestはかなりの高確率でMessageRequestHandlerとかMessageRequestと書きがちですので、よくわからないエラーが発生したときには、最初に確認すべきところかも。
 
@@ -63,6 +63,6 @@ val l = ListBuffer.empty[ExampleClass]
 {% include thirdintervalad.html %}
 
 # リンク
-[panda大学習帳のScalaのカテゴリ](https://pandanote.info/?cat=17) \| {% include pagelink.md %}
+[Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。](https://sidestory.pandanote.info/play-scala-svn.html) \| [panda大学習帳のScalaのカテゴリ](https://pandanote.info/?cat=17) \| {% include pagelink.md %}
 
 {% include fourthintervalad.html %}

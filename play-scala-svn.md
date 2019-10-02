@@ -8,9 +8,9 @@ encoding: UTF-8
 
 # Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリに収容してみた。
 ## はじめに
-Play FrameworkのチュートリアルをもとにしてリアルなWebアプリケーションを作ってみました。
+[Play Framework](https://amzn.to/2olnVQt)のチュートリアルをもとにしてリアルなWebアプリケーションを作ってみました。
 
-Play FrameworkのアプリケーションはJavaでも書けますが、新しもの好きな本サイトの管理人たるpandaはScalaで書いてみました。
+Play FrameworkのアプリケーションはJavaでも書けますが、新しもの好きな本サイトの管理人たるpandaは[Scala](https://amzn.to/2olnVQt)で書いてみました。
 
 ScalaはJavaに比べると簡潔な記述ができますが、それでもリアルなWebアプリケーションを作るとなるとコードやファイルの量が増えてきて、それらを収容するプロジェクト内部のディレクトリ構成も複雑になってきます。そこで、それらの修正履歴の管理を行うためにSubversionなどのリポジトリにプロジェクトごとインポートすることにしました。
 
@@ -24,7 +24,7 @@ ScalaはJavaに比べると簡潔な記述ができますが、それでもリ�
 ## リポジトリに入れるべきでないディレクトリの削除。
 sbtコマンドを実行すると以下のディレクトリが作成され、そのディレクトリの下に得体の知れないファイルが作成されます。
 
-なお、logsはlogbackを使用していて、かつログファイルをlogsの下に出力するように設定している場合に限り作成される場合があるものです。
+なお、logsはlogbackを使用していて、かつログファイルをlogsの下に出力するようにlogback.xmlにおいて設定している場合に限り作成される場合があるものです。
 ```
 logs
 project/project
@@ -62,6 +62,6 @@ Subversionのリポジトリへのインポート前に不要と思われるフ�
 {% include thirdintervalad.html %}
 
 # リンク
-[panda大学習帳のScalaのカテゴリ](https://pandanote.info/?cat=17) \| {% include pagelink.md %}
+[Play FrameworkやScalaやsbtのメモ書き。](https://sidestory.pandanote.info/play-scala-sbt.html) \| [panda大学習帳のScalaのカテゴリ](https://pandanote.info/?cat=17) \| {% include pagelink.md %}
 
 {% include fourthintervalad.html %}
