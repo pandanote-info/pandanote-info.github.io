@@ -59,6 +59,15 @@ val l = ListBuffer.empty[ExampleClass]
 
 1. DB Browser for SQLiteでデータの中身を確認しながらWebアプリケーションを実行していると、"SQLITE_BUSY"というエラーが発生することがある(データベースのデータをupdate文などで変更すると発生するようである)。そんなときには、DB Browser for SQLiteのメニューバーから「File」→「Close Database」と選択して変更を保存しつつデータベースの接続を終了すると、Webアプリケーション側のエラーが解消される。
 1. セッションに保持されているデータは、sbtによるビルドを実行すると破棄されてしまうようなので、セッションのデータがなくても実行できる状態(例:ログイン前)からやり直すこと。
+1. ScalaのプロジェクトのディレクトリをEmacsのミニバッファからタイプするのは少々面倒なので、Emacsの設定ファイル(init.el等)に以下の設定を追加する("your scala directory"の部分は適当に置き換えること。)と、F9キーを押すとneotreeのバッファが起動された際に設定したディレクトリを表示させることができるようになる。
+```
+(global-set-key [f9] 'open-scala-workspace)
+(defun open-scala-workspace ()
+  "Open scala workspace"
+  (interactive)
+  (neo-global--open-dir "your scala directory")
+  (neo-global--select-window))
+```
 
 {% include thirdintervalad.html %}
 
