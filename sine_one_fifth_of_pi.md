@@ -8,7 +8,7 @@ encoding: UTF-8
 
 # $\sin\dfrac{\pi}{5}$及び$\cos\dfrac{\pi}{5}$を計算してみた。
 ## はじめに
-ちょいと野暮用で必要になりそうなので、$\sin\dfrac{\pi}{5}$及び$\cos\dfrac{\pi}{5}$を計算してみました。
+ちょいと野暮用で必要になりそうなので、$\sin\dfrac{\pi}{5}$及び$\cos\dfrac{\pi}{5}$の値を計算してみました。
 ## まずはcosから。
 $\cos\dfrac{\pi}{5} = t$とおくと、cosの2倍角及び3倍角の公式より、
 \begin{align}
@@ -57,13 +57,15 @@ $\cos\dfrac{\pi}{5} = t$とおくと、cosの2倍角及び3倍角の公式より
 \end{align}
 になります。
 
+(\ref{eq:doubletriple})式が成り立ちそうです。������
+
 {% include secondintervalad.html %}
 
 ## 次にsinを求めます。
 $\sin\dfrac{2}{5}\pi$は$\sin\dfrac{2}{5}\pi > 0$であることと、前節の結果より、
 \begin{align}
   \sin\dfrac{2}{5}\pi &= \sqrt{1-\cos^2\frac{2}{5}\pi} \nonumber \cr
-  &= \sqrt{\frac{5-\frac{5}}{8}} \nonumber \cr
+  &= \sqrt{\frac{5-\sqrt{5}}{8}} \nonumber \cr
   &= \frac{\sqrt{10-2\sqrt{5}}}{4}
 \end{align}
 となります。$\blacksquare$
