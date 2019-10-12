@@ -44,7 +44,7 @@ $\cos\dfrac{\pi}{5} = t$とおくと、cosの2倍角及び3倍角の公式より
 
 \begin{align}
   \cos\dfrac{2}{5}\pi &= 2t^2-1 \nonumber \cr
-  &= 2\frac{6+2\sqrt{5}}{16}-1 \nonumber \cr
+  &= 2\cdot\frac{6+2\sqrt{5}}{16}-1 \nonumber \cr
   &= \frac{3+\sqrt{5}}{4}-1 \nonumber \cr
   &= \frac{\sqrt{5}-1}{4} \cr
   \cos\dfrac{3}{5}\pi &= t(4t^2-3) \nonumber \cr
