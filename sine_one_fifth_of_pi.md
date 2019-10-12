@@ -28,13 +28,13 @@ $\cos\dfrac{\pi}{5} = t$とおくと、cosの2倍角及び3倍角の公式より
 \begin{align}
   4t^3+2t^2-3t-1 &= 0 \label{eq:cosequation}
 \end{align}
-(\ref{eq:cosequation})式は$t=-1$を解の1つとして持ちますが、$0 \gt \cos\dfrac{\pi}{5} \gt 1$ですので、両辺を$t+1$で割ることができて、
+(\ref{eq:cosequation})式は$t=-1$を解の1つとして持ちますが、$0 \lt \cos\dfrac{\pi}{5} \lt 1$ですので、両辺を$t+1$で割ることができて、
 \begin{align}
   4t^2-2t-1 &= 0 \label{eq:cosequationsecond}
 \end{align}
 となります。
 
-(\ref{eq:cosequationsecond})式を解き、$t \lt 0$の解を求めると、
+(\ref{eq:cosequationsecond})式を解き、$t \gt 0$の解を求めると、
 \begin{align}
   t &= \frac{1+\sqrt{5}}{4}
 \end{align}
