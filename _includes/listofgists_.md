@@ -1,3 +1,10 @@
+## toRowCell.scala
+* Created at: 2019-10-19T02:44:01Z
+* Descrption: A1形式の文字列をApache POIのgetRow及びgetCellメソッドの引数に指定できる数値の組(Tuple)に変換するためのScalaのメソッド。
+* [Link to Gist](https://gist.github.com/3fce90441b420fa4a6c40d47889d7bbc)
+* Referenced from: 
+    * [Javaのクラス名を考えたり、思い出したりするのに疲れた頭には、Scalaのタプルが効くかもしれない件。](https://pandanote.info/?p=5424)
+
 ## SampleWebErrorHandler.scala
 * Created at: 2019-09-29T14:18:52Z
 * Descrption: Play frameworkのカスタムエラーページにmessagesファイルに定義されている文字列を読み込んで表示するためのコードを組み込んだエラーハンドラ。
