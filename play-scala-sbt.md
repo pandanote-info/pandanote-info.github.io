@@ -68,6 +68,11 @@ val l = ListBuffer.empty[ExampleClass]
   (neo-global--open-dir "your scala directory")
   (neo-global--select-window))
 ```
+1. ネットに接続されていないPCにPlay frameworkの実行環境をインストールすると起動に時間がかかるかもしれないので、play.http.secret.keyはapplication.confなどの設定ファイルに設定すること。play.http.secret.keyキーに設定される文字列は適当な文字列で良いが、あまり長さの短いものを設定すると「キーの文字列長が短過ぎる。」と怒られるので、Linuxで以下のコマンドを実行するなどして長めのものを設定する。
+```
+$ head -c 32 /dev/urandom | base64
+NUWoceVNSiwbPA1+PgY8GT0yGhEBk41oKP3dKedkQKI=
+```
 
 {% include thirdintervalad.html %}
 
