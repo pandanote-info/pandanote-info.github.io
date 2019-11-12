@@ -65,7 +65,7 @@ alphanumericメソッドはStreamインスタンスを返すが、Streamイン�
 
 ## sbt
 
-1. sbt-1.3.0-RC1でPlay Frameworkのプロジェクトをコンパイルするとviews.htmlが見つからないといわれる。なお、sbt-1.2.8ではビルドできる。
+1. sbt-1.3.0-RC1でPlay Frameworkのプロジェクトをコンパイルするとviews.htmlが見つからないといわれる。なお、sbt-1.2.8及び1.3.3ではビルドできる。
 1. sbt.bat自体はバッチプログラムなので、ビルド関連のコマンドを自動化する等の目的で別のバッチファイルからsbtを呼び出す場合には"call sbt &lt;command&gt;"のように記述すること。
 
 ## その他、または複合的なやつ。
