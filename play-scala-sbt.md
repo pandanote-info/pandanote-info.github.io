@@ -56,7 +56,8 @@ val s = new scala.util.Random(new java.security.SecureRandom).
 また、英語の大文字小文字のみでランダムな文字列を作成する場合にはちょっと工夫が必要で、以下のように記述する(10文字の文字列を作成する場合)。
 ```
 val s = new scala.util.Random(new java.security.SecureRandom).
-        alphanumeric.filterNot(c => c >= '0' && c <= '9').take(10).mkString
+        alphanumeric.filterNot(c => c >= '0' && c <= '9').take(10).
+        mkString
 ```
 alphanumericメソッドはStreamインスタンスを返すが、StreamインスタンスでもfilterNotメソッドが利用可能であることに留意すること。
 
