@@ -48,6 +48,17 @@ println("x="+(if(y.equals("")){null}else{"'"+y+"'"}))
 val l = ListBuffer.empty[ExampleClass]
 ```
 1. キーと値の組み合わせでデータを格納する場合に、キーの順序にソートしてデータを格納することが必要になることがある。そのような場合にはListMapを使用するとキーの順序にソートしてデータを格納することができる。
+1. 英語の大文字小文字及び数字でランダムな文字列を作成するには以下のように記述すればよい(10文字の文字列を作成する場合)。以下の記述例では2行に分割しているが、(かなり横長にはなるものの)1行で書くこともできる。
+```
+val s = new scala.util.Random(new java.security.SecureRandom).
+        alphanumeric.take(10).mkString
+```
+また、英語の大文字小文字のみでランダムな文字列を作成する場合にはちょっと工夫が必要で、以下のように記述する(10文字の文字列を作成する場合)。
+```
+val s = new scala.util.Random(new java.security.SecureRandom).
+        alphanumeric.filterNot(c => c >= '0' && c <= '9').take(10).mkString
+```
+alphanumericメソッドはStreamインスタンスを返すが、StreamインスタンスでもfilterNotメソッドが利用可能であることに留意すること。
 
 {% include secondintervalad.html %}
 
