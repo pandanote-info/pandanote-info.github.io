@@ -1,3 +1,10 @@
+## GetItems.php
+* Created at: 2019-11-06T11:02:24Z
+* Descrption: PA-APIv5のAPIを使った商品データ取得用関数の実装例。
+* [Link to Gist](https://gist.github.com/d8338da77d7df57dbc5985be7d9523bc)
+* Referenced from: 
+    * [AmazonのProduct Advertising API v5 に対応した商品紹介用のバナーを貼り付けるためのショートコードを作ってみた。](https://pandanote.info/?p=5463)
+
 ## toRowCell.scala
 * Created at: 2019-10-19T02:44:01Z
 * Descrption: A1形式の文字列をApache POIのgetRow及びgetCellメソッドの引数に指定できる数値の組(Tuple)に変換するためのScalaのメソッド。
@@ -414,7 +421,7 @@
 * Descrption: SevenZFileDataSourceを使用するためにsolrconfig.xmlに追記した設定例。configタグの内側に記述すること。
 * [Link to Gist](https://gist.github.com/8a6ea76dc2dd4b676eeef075b79d37fc)
 * Referenced from: 
-    * [Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
+    * [【追記しました。】Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -431,7 +438,7 @@
 * Descrption: SevenZFileDataSourceクラスを使ってデータをインポートする場合のDataImportHandler用の設定ファイルの設定例。
 * [Link to Gist](https://gist.github.com/6f1c112bf3281b0a6cf21594f9cb5f1d)
 * Referenced from: 
-    * [Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
+    * [【追記しました。】Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
 
 ## SevenZFileDataSource.java
 * Created at: 2018-08-06T13:43:36Z
@@ -439,14 +446,14 @@
 * Descrption: Apache SolrのDataImportHandlerで使用するDataSourceで、7-zipで圧縮されたファイルを読み込むことをできるように拡張したもの。
 * [Link to Gist](https://gist.github.com/b2345df83de14cd9e95b8412c0eb9879)
 * Referenced from: 
-    * [Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
+    * [【追記しました。】Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
 
 ## SevenZFileInputStream.java
 * Created at: 2018-08-06T13:42:38Z
 * Descrption: Apache SolrのDataImportHandlerに7-zipで圧縮されたファイルを読み込ませるために実装したInputStream。
 * [Link to Gist](https://gist.github.com/a583141ab8b2c2a00832d4a8702ad6e4)
 * Referenced from: 
-    * [Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
+    * [【追記しました。】Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
 
 ## test_output_utf8.exo
 * Created at: 2018-07-21T08:34:39Z
