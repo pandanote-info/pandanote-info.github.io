@@ -60,6 +60,7 @@ val s = new scala.util.Random(new java.security.SecureRandom).
         mkString
 ```
 alphanumericメソッドはStreamインスタンスを返すが、StreamインスタンスでもfilterNotメソッドが利用可能であることに留意すること。
+1. テキストファイルからの読み込みの際にはscala.io.Sourceクラスを使うと簡単に読めます。また、java.nio.file.Filesを使うとファイルへの書き出しを簡単に行うことができます。
 
 {% include secondintervalad.html %}
 
