@@ -1,5 +1,5 @@
 ---
-title: panda大学習帳外伝
+title: Play FrameworkやScalaやsbtのメモ書き。 - panda大学習帳外伝
 description: Play FrameworkやScalaやsbtのメモ書き。
 mathjax: true
 encoding: UTF-8

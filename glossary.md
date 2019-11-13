@@ -1,5 +1,5 @@
 ---
-title: panda大学習帳外伝
+title: 用語集📒  - panda大学習帳外伝
 description: 用語集📒 
 mathjax: true
 ---

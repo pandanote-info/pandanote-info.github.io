@@ -1,6 +1,6 @@
 ---
-title: panda大学習帳外伝
-description: panda大学習帳外伝 大ポータルページ
+title: Welcome!! / いらっしゃいませ!! - panda大学習帳外伝
+description: panda大学習帳外伝の大ポータルページです。
 ---
 {% include homelink.md %}
 

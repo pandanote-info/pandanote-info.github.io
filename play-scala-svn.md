@@ -1,5 +1,5 @@
 ---
-title: panda大学習帳外伝
+title: Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。 - panda大学習帳外伝
 description: Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。
 mathjax: true
 encoding: UTF-8

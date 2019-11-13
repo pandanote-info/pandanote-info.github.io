@@ -1,5 +1,5 @@
 ﻿---
-title: panda大学習帳外伝
+title: Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。 - panda大学習帳外伝
 description: Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。
 encoding: UTF-8
 ---

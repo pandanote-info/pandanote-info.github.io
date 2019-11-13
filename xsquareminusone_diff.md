@@ -1,5 +1,5 @@
 ---
-title: panda大学習帳外伝
+title: (x^2-1)^nを繰り返し微分してみた。 - panda大学習帳外伝
 description: (x^2-1)^nを繰り返し微分してみた。
 mathjax: true
 encoding: UTF-8

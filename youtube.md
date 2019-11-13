@@ -1,6 +1,6 @@
 ---
-title: panda大学習帳外伝
-description: pandanote.info大公式チャンネルポータルページ
+title: YouTubeチャンネルのちょっとおしゃれな動画リスト - panda大学習帳外伝
+description: YouTubeチャンネルのちょっとおしゃれな動画リスト
 ---
 {% include pagelink.md %}
 

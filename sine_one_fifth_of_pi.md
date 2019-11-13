@@ -1,5 +1,5 @@
 ---
-title: panda大学習帳外伝
+title: sin(pi/5)及びcos(pi/5)を計算してみた。 - panda大学習帳外伝
 description: sin(pi/5)及びcos(pi/5)を計算してみた。
 mathjax: true
 encoding: UTF-8

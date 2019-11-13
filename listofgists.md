@@ -1,5 +1,5 @@
 ---
-title: panda大学習帳外伝
+title: List of Gists for pandanote.info. - panda大学習帳外伝
 description: List of Gists for pandanote.info.
 ---
 {% include pagelink.md %}
