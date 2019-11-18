@@ -38,7 +38,7 @@ target
 ```
 ここまでのディレクトリについてはSubversionリポジトリへのインポート前に削除します。
 ```
-> rm -rf logs project/project project/target target
+> rm -rf logs project/project project/target target .bloop .metals
 ```
 EmacsでMetalsを使用している場合には、.metalsまたは.bloopという名前のディレクトリがいつの間にか作成されていることがありますので、
 プロジェクトのルートディレクトリで以下のコマンドを実行して削除しておきます。

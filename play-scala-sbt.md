@@ -61,6 +61,20 @@ val s = new scala.util.Random(new java.security.SecureRandom).
 ```
 alphanumericメソッドはStreamインスタンスを返すが、StreamインスタンスでもfilterNotメソッドが利用可能であることに留意すること。
 1. テキストファイルからの読み込みの際にはscala.io.Sourceクラスを使うと簡単に読めます。また、java.nio.file.Filesを使うとファイルへの書き出しを簡単に行うことができます。
+1. Version 2.13.0以降のScalaを用いて並列コレクションへの変換を行うparメソッドが含まれているコードをコンパイルしようとすると、
+```
+value par is not a member of List[String]
+```
+のようなエラーが出力されてコンパイルに失敗することがある。そんなときには、以下の設定等を行う。
+    1. build.sbtに以下の設定を追加する。
+```
+libraryDependencies += "org.scala-lang.modules" %% "scala-parallel-collections" % "0.2.0"
+```
+    1. 並列コレクションを使用しているプログラムの先頭に以下のimport文を追加する。
+```
+import scala.collection.parallel.CollectionConverters._
+```
+1. 並列コレクションにseqメソッド(toSeqメソッドではないことに注意!!)を作用させると順次コレクションに変換できる。
 
 {% include secondintervalad.html %}
 
