@@ -75,6 +75,16 @@ libraryDependencies += "org.scala-lang.modules" %% "scala-parallel-collections" 
 import scala.collection.parallel.CollectionConverters._
 ```
 1. 並列コレクションにseqメソッド(toSeqメソッドではないことに注意!!)を作用させると順次コレクションに変換できる。
+1. TupleのListBufferにTupleを追加するときに、
+```
+val a = ListBuffer.empty[(Int,Int)]
+a += (3,7)
+```
+と書いてしまうと、Scalaのコンパイラに「2個の引数を持つ+=演算子」と解釈されて、コンパイルエラーになってしまう。そんなときには以下のように書くと、コンパイラが「引数が1個→これはTupleに違いない」とよしなに解釈してくれる。
+```
+val a = ListBuffer.empty[(Int,Int)]
+a += ((3,7))
+```
 
 {% include secondintervalad.html %}
 
