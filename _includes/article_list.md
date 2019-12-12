@@ -1,14 +1,14 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
-* [Play FrameworkやScalaやsbtのメモ書き。](https://sidestory.pandanote.info/play-scala-sbt.html)(2019/09/08, Last update: 2019/11/18)
+* [マルチカラーな積分経路。](https://sidestory.pandanote.info/4310bis.html)(2019/04/26, Last update: 2019/12/12)
+* [Play FrameworkやScalaやsbtのメモ書き。](https://sidestory.pandanote.info/play-scala-sbt.html)(2019/09/08, Last update: 2019/12/12)
 * [Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。](https://sidestory.pandanote.info/play-scala-svn.html)(2019/09/28, Last update: 2019/11/18)
 * [(x^2-1)^nを繰り返し微分してみた。](https://sidestory.pandanote.info/xsquareminusone_diff.html)(2019/07/05, Last update: 2019/11/14)
 * [試験には出ないかもしれないWallis積分。](https://sidestory.pandanote.info/4591bis.html)(2019/06/04, Last update: 2019/11/14)
 * [サブタイトルネタ帳Classic](https://sidestory.pandanote.info/catchphraseclassic.html)(2019/06/16, Last update: 2019/11/14)
 * [回らない複素積分。](https://sidestory.pandanote.info/4431bis.html)(2019/05/15, Last update: 2019/11/14)
 * [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)(2019/01/18, Last update: 2019/11/14)
-* [マルチカラーな積分経路。](https://sidestory.pandanote.info/4310bis.html)(2019/04/26, Last update: 2019/11/14)
 * [用語集📒 ](https://sidestory.pandanote.info/glossary.html)(2019/02/19, Last update: 2019/11/14)
 * [List of Gists for pandanote.info.](https://sidestory.pandanote.info/listofgists.html)(2019/03/23, Last update: 2019/11/14)
 * [第1種変形Bessel関数の次数が整数のときに成り立つ関係式を証明してみた。](https://sidestory.pandanote.info/mbf1.html)(2019/02/26, Last update: 2019/11/14)
