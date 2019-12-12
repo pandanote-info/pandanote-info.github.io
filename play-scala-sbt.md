@@ -10,6 +10,8 @@ encoding: UTF-8
 
 [Play Framework](https://amzn.to/2olnVQt)や[Scala](https://amzn.to/2olnVQt)や[sbt](https://amzn.to/2nG5WE9)については情報が少ないので、ハマったところから順番にまとめてみました。
 
+中には一般常識レベルのものもあるかもしれませんが、中の人があまりよくわかっていなかったところですので、その点についてはご容赦願います。🙇
+
 なお、ある程度情報がまとまった部分については「[panda大学習帳](https://pandanote.info/)」に新規の記事を作った上で移転する可能性があります。
 
 {% include firstad.html %}
@@ -85,7 +87,14 @@ a += (3,7)
 val a = ListBuffer.empty[(Int,Int)]
 a += ((3,7))
 ```
-
+1. 1個以上の文字列を結合するときに、
+```
+s1+","+s2+","+s3
+```
+と書くよりも、以下のように書いた方が速く処理できるようです。
+```
+Array(s1,s2,s3).mkString(",")
+```
 {% include secondintervalad.html %}
 
 ## sbt
