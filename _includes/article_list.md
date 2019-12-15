@@ -1,6 +1,8 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
+* [Von Mises分布の確率密度関数を導出してみたときのメモ書きです。](https://sidestory.pandanote.info/5735bis.html)(2019/12/13, Last update: 2019/12/15)
+* [1/(x^3+a^3)を部分分数展開してみた。](https://sidestory.pandanote.info/5020bis.html)(2019/08/11, Last update: 2019/12/13)
 * [マルチカラーな積分経路。](https://sidestory.pandanote.info/4310bis.html)(2019/04/26, Last update: 2019/12/12)
 * [Play FrameworkやScalaやsbtのメモ書き。](https://sidestory.pandanote.info/play-scala-sbt.html)(2019/09/08, Last update: 2019/12/12)
 * [Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。](https://sidestory.pandanote.info/play-scala-svn.html)(2019/09/28, Last update: 2019/11/18)
@@ -17,5 +19,4 @@
 * [標準正規分布に従う独立な2個の確率変数の商が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3810bis.html)(2019/02/06, Last update: 2019/11/14)
 * [標準正規分布に従う独立な2個の確率変数の積が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3657bis.html)(2019/01/12, Last update: 2019/11/14)
 * [sin(pi/5)及びcos(pi/5)を計算してみた。](https://sidestory.pandanote.info/sine_one_fifth_of_pi.html)(2019/10/12, Last update: 2019/11/14)
-* [1/(x^3+a^3)を部分分数展開してみた。](https://sidestory.pandanote.info/5020bis.html)(2019/08/11, Last update: 2019/11/14)
 * [本サイトについて](https://sidestory.pandanote.info/about/index.html)(2018/12/06, Last update: 2019/07/15)
