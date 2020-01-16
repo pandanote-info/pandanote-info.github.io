@@ -1,3 +1,126 @@
+## nginx_growi.conf.example
+* Created at: 2020-01-14T22:26:57Z
+* Updated at: 2020-01-14T22:27:16Z
+* Descrption: nginxでHTTPS接続のリクエストを受け付けて、GROWIに転送するためのnginxの設定例。
+* [Link to Gist](https://gist.github.com/0c45fe148e5b4737a3f6b968ab8bf218)
+* Referenced from: 
+    * [オンプレミスなFedora 31でGROWIを動かしてみた(2/2): GROWIの設定とHTTPS経由で接続するための各種の設定。](https://pandanote.info/?p=5880)
+
+## startgrowi.sh
+* Created at: 2020-01-12T00:50:10Z
+* Descrption: GROWI起動用のスクリプト(Fedora 31用)。
+* [Link to Gist](https://gist.github.com/c2d2f434399c49c2e8bea46bb40eec40)
+* Referenced from: 
+    * [オンプレミスなFedora 31でGROWIを動かしてみた(1/2): GROWI等のインストール。](https://pandanote.info/?p=5864)
+
+## env.prod.js
+* Created at: 2020-01-12T00:47:03Z
+* Updated at: 2020-01-12T00:47:04Z
+* Descrption: リソースが少ないサーバのためのenv.prod.jsの設定例(Fedora 31用)。
+* [Link to Gist](https://gist.github.com/2d778338a8eb43f4807745f0bb88a94c)
+* Referenced from: 
+    * [オンプレミスなFedora 31でGROWIを動かしてみた(1/2): GROWI等のインストール。](https://pandanote.info/?p=5864)
+
+## growi.service
+* Created at: 2020-01-12T00:37:56Z
+* Descrption: GROWIを起動するためのサービスのユニット定義ファイル(Fedora 31用)。
+* [Link to Gist](https://gist.github.com/0d550673b70602712fd8ae069b31c5fd)
+* Referenced from: 
+    * [オンプレミスなFedora 31でGROWIを動かしてみた(1/2): GROWI等のインストール。](https://pandanote.info/?p=5864)
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+## growi
+* Created at: 2020-01-12T00:33:52Z
+* Updated at: 2020-01-12T14:56:05Z
+* Descrption: GROWIの設定用ファイル(Fedora 31用)。/etc/sysconfigの下に置いて使用する。
+* [Link to Gist](https://gist.github.com/7e3add3a139e5bde3e775ed626fbd8b5)
+* Referenced from: 
+    * [オンプレミスなFedora 31でGROWIを動かしてみた(1/2): GROWI等のインストール。](https://pandanote.info/?p=5864)
+
+## mongodb-org.repo
+* Created at: 2020-01-11T13:57:14Z
+* Descrption: MongoDBのリポジトリ定義用のファイル(Fedora 31用)。
+* [Link to Gist](https://gist.github.com/fde4ede67e6f80c8ae71409bee9a2482)
+* Referenced from: 
+    * [オンプレミスなFedora 31でGROWIを動かしてみた(1/2): GROWI等のインストール。](https://pandanote.info/?p=5864)
+
+## nginx_customized_404.conf
+* Created at: 2020-01-04T14:43:57Z
+* Updated at: 2020-01-04T14:43:58Z
+* Descrption: Wordpressで用意した404.phpを表示させるためのnginx.confの設定
+* [Link to Gist](https://gist.github.com/880db164b584cdb37629a4053ea88376)
+* Referenced from: 
+    * [Apache httpd+php-fpm+WordpressなサーバのApache httpdをnginxに取り換えてみた。](https://pandanote.info/?p=5821)
+
+## nginx_server_http_user_<br/>agent_example.conf
+* Created at: 2020-01-04T14:09:54Z
+* Updated at: 2020-01-04T14:09:55Z
+* Descrption: 特定のhttp_user_agent変数を設定する端末からのアクセスを無条件で許可するためのnginx.confの設定例。
+* [Link to Gist](https://gist.github.com/b157fe9595d667908e206b7c17e8f4e5)
+* Referenced from: 
+    * [Apache httpd+php-fpm+WordpressなサーバのApache httpdをnginxに取り換えてみた。](https://pandanote.info/?p=5821)
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+## nginx_server_map_example_<br/>part2.conf
+* Created at: 2020-01-04T14:04:02Z
+* Updated at: 2020-01-04T14:04:03Z
+* Descrption: mapを使ったIPアドレスによるアクセスコントロールリストの設定例(その2)。
+* [Link to Gist](https://gist.github.com/972c38e8742a24bdcb2a25adff3b0ea8)
+* Referenced from: 
+    * [Apache httpd+php-fpm+WordpressなサーバのApache httpdをnginxに取り換えてみた。](https://pandanote.info/?p=5821)
+
+## nginx_server_map_example.conf
+* Created at: 2020-01-04T09:44:47Z
+* Updated at: 2020-01-04T14:01:39Z
+* Descrption: mapを使ったIPアドレスによるアクセスコントロールリストの設定例(その1)。
+* [Link to Gist](https://gist.github.com/f83432edfc76784120638f367bed67ad)
+* Referenced from: 
+    * [Apache httpd+php-fpm+WordpressなサーバのApache httpdをnginxに取り換えてみた。](https://pandanote.info/?p=5821)
+
+## nginx_server_on_443.conf
+* Created at: 2020-01-04T07:08:16Z
+* Updated at: 2020-01-04T07:08:17Z
+* Descrption: nginxのHTTPSプロトコルを扱うポートへの接続用の設定の前半部。
+* [Link to Gist](https://gist.github.com/956d4b14c909145c67ba525f5bb584bf)
+* Referenced from: 
+    * [Apache httpd+php-fpm+WordpressなサーバのApache httpdをnginxに取り換えてみた。](https://pandanote.info/?p=5821)
+
+## nginx_forward_to_443.conf
+* Created at: 2020-01-04T05:47:46Z
+* Updated at: 2020-01-04T05:49:53Z
+* Descrption: nginxで80番ポートに来たアクセスを443番ポートに転送するための設定。
+* [Link to Gist](https://gist.github.com/1265ee51dc6e8f3ea279b622d78b4aeb)
+* Referenced from: 
+    * [Apache httpd+php-fpm+WordpressなサーバのApache httpdをnginxに取り換えてみた。](https://pandanote.info/?p=5821)
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## GetItems.php
 * Created at: 2019-11-06T11:02:24Z
 * Descrption: PA-APIv5のAPIを使った商品データ取得用関数の実装例。
