@@ -1,5 +1,5 @@
 ---
-title: Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。- panda大学習帳外伝
+title: Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。 - panda大学習帳外伝
 description: Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 image: https://pandanote.info/wordpress/wp-content/uploads/2019/12/P_20191224_202329_vHDR_On_HP_a.jpg
 twitter:
