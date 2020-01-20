@@ -1,8 +1,8 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
-* [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2019/12/25)
-* [Von Mises分布の確率密度関数を導出してみた。](https://sidestory.pandanote.info/5735bis.html)(2019/12/13, Last update: 2019/12/15)
+* [Von Mises分布の確率密度関数を導出してみた。](https://sidestory.pandanote.info/5735bis.html)(2019/12/13, Last update: 2020/01/20)
+* [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/01/20)
 * [1/(x^3+a^3)を部分分数展開してみた。](https://sidestory.pandanote.info/5020bis.html)(2019/08/11, Last update: 2019/12/13)
 * [マルチカラーな積分経路。](https://sidestory.pandanote.info/4310bis.html)(2019/04/26, Last update: 2019/12/12)
 * [Play FrameworkやScalaやsbtのメモ書き。](https://sidestory.pandanote.info/play-scala-sbt.html)(2019/09/08, Last update: 2019/12/12)
