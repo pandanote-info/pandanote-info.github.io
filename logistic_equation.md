@@ -75,7 +75,6 @@ encoding: UTF-8
 ## よく見かける式への変形。
 (\ref{eq:logistic})式で$\alpha = r, \beta = \dfrac{r}{K}$と置くとWikipediaとかに載っているロジスティック方程式になります。
 
-{%include thirdintervalad.html %}
 ## 別解。
 なお、(\ref{eq:logisticsecond})式の両辺を$\left(\dfrac{\alpha}{\beta}-x\right)x$で割ると…
 \begin{align}
@@ -110,6 +109,8 @@ x &= \frac{\alpha}{\beta}\cdot\frac{Ce^{\alpha t}}{1+Ce^{\alpha t}} \label{eq:ye
 と変形できます。
 
 (\ref{eq:yetanothersolutionsecond})式と(\ref{eq:solution})式はまだ相違があるようにも見えますが、(\ref{eq:yetanothersolutionsecond})式の$t$は$C$に依存しない定数であるので、$-\dfrac{1}{C}$を$C$と置き直すことで(\ref{eq:solution})式と形式的に一致させることができます。
+
+{%include thirdintervalad.html %}
 ## まとめ
 積分定数のとり方で一見違った形式の解になりますが、同じ解を表していることが確認できました。
 
