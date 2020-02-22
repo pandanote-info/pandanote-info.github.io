@@ -12,6 +12,7 @@ encoding: UTF-8
   \frac{dx}{dt} &= \alpha x - \beta x^2 \label{eq:logistic}
 \end{align}
 ($\alpha,\beta > 0$) を解いてみることにします。
+
 {% include firstad.html %}
 ## とりあえず、サクサク解きます。
 (\ref{eq:logistic})式の右辺をちょっと変形して、$x$と$\beta$を括り出すと…
@@ -40,7 +41,7 @@ encoding: UTF-8
 
 任意の$x \in \mathbb{R}$について(\ref{eq:identity})式を成立させるためには、$a = -b, -b \dfrac{\alpha}{\beta}-1 = 0$でなければならないので、
 \begin{align}
-  b &= -\frac{\beta}{\alpha} \label{eq:idb} \\
+  b &= -\frac{\beta}{\alpha} \label{eq:idb} \cr
   a &= -b = \frac{\beta}{\alpha} \label{eq:ida}
 \end{align}
 になります。(\ref{eq:idb}),(\ref{eq:ida})式を(\ref{eq:logisticsthird})式に代入すると…
@@ -69,9 +70,11 @@ encoding: UTF-8
   x &= \frac{\alpha}{\beta}\cdot\frac{1}{1-Ce^{-\alpha t}} \label{eq:solution}
 \end{align}
 となります。$\blacksquare$
+
 {%include secondintervalad.html %}
 ## よく見かける式への変形。
 (\ref{eq:logistic})式で$\alpha = r, \beta = \dfrac{r}{K}$と置くとWikipediaとかに載っている微分方程式になります。
+
 {%include thirdintervalad.html %}
 ## 別解。
 なお、(\ref{eq:logisticsecond})式の両辺を$\left(\dfrac{\alpha}{\beta}-x\right)x$で割ると…
