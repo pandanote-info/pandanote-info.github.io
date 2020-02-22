@@ -62,7 +62,7 @@ encoding: UTF-8
 \end{align}
 (\ref{eq:logisticsintsecond})式の自然対数を取りつつ絶対値記号を外し、$\pm e^c$を新たな定数$C$と置きなおすと…
 \begin{align}
-  1 - \dfrac{\alpha}{\beta x} &= \pm e^{-\alpha t+C} \nonumber \\
+  1 - \dfrac{\alpha}{\beta x} &= \pm e^{-\alpha t+C} \nonumber \cr
   &= Ce^{-\alpha t} \label{eq:solutionzero}
 \end{align}
 (\ref{eq:solutionzero})式を$x$について解くと…
