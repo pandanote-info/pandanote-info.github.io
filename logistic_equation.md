@@ -73,7 +73,7 @@ encoding: UTF-8
 
 {%include secondintervalad.html %}
 ## よく見かける式への変形。
-(\ref{eq:logistic})式で$\alpha = r, \beta = \dfrac{r}{K}$と置くとWikipediaとかに載っている微分方程式になります。
+(\ref{eq:logistic})式で$\alpha = r, \beta = \dfrac{r}{K}$と置くとWikipediaとかに載っているロジスティック方程式になります。
 
 {%include thirdintervalad.html %}
 ## 別解。
