@@ -19,7 +19,7 @@ encoding: UTF-8
 \begin{align}
   \frac{dx}{dt} &= \beta \left(\frac{\alpha}{\beta}-x\right)x \label{eq:logisticsecond}
 \end{align}
-として、(\ref{eq:logisticsecond})式の両辺を$\left(x- \dfrac{\alpha}{\beta}\right)x$で割ると…
+として、(\ref{eq:logisticsecond})式の両辺を$\left(x- \dfrac{\alpha}{\beta}\right)x$で割ると、右辺が$-\beta$になることに注意しつつ…
 \begin{align}
   \frac{1}{\left(x-\dfrac{\alpha}{\beta}\right)x}\frac{dx}{dt} &= -\beta \label{eq:logisticsthird}
 \end{align}
