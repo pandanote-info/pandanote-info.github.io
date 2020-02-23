@@ -1,6 +1,9 @@
 ---
 title: ロジスティック方程式のような微分方程式を解いてみた。 - panda大学習帳外伝
 description: ロジスティック方程式のような微分方程式を解いてみたら、計算途中の式変形の方法の相違により2通りの異なる形式の解が求まった件。
+image: https://pandanote.info/wordpress/wp-content/uploads/2020/02/logisitic_equation_solution.png
+twitter:
+  card: summary_large_image
 mathjax: true
 encoding: UTF-8
 ---
