@@ -2,7 +2,7 @@
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
 * [サブタイトルネタ帳Classic(1-50)](https://sidestory.pandanote.info/catchphraseclassic0.html)(2020/03/07)<br/>1-50件目のサブタイトルです。
-* [サブタイトルネタ帳Classic(51-100)](https://sidestory.pandanote.info/catchphraseclassic.html)(2019/06/16, Last update: 2020/03/07)<br/>None
+* [サブタイトルネタ帳Classic(51-100)](https://sidestory.pandanote.info/catchphraseclassic.html)(2020/03/07)<br/>51-100件目のサブタイトルです。
 * [ロジスティック方程式のような微分方程式を解いてみた。](https://sidestory.pandanote.info/logistic_equation.html)(2020/02/22, Last update: 2020/02/23)<br/>ロジスティック方程式のような微分方程式を解いてみたら、計算途中の式変形の方法の相違により2通りの異なる形式の解が求まった件。
 * [Von Mises分布の確率密度関数を導出してみた。](https://sidestory.pandanote.info/5735bis.html)(2019/12/13, Last update: 2020/01/20)<br/>Von Mises分布の確率密度関数を導出してみたときのメモ書きです。
 * [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/01/20)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
