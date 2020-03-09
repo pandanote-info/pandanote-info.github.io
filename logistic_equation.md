@@ -63,7 +63,7 @@ encoding: UTF-8
 \begin{align}
   \log\left|1-\dfrac{\alpha}{\beta x}\right| &= -\alpha t + C \label{eq:logisticsintsecond}
 \end{align}
-(\ref{eq:logisticsintsecond})式の自然対数を取りつつ絶対値記号を外し、$\pm e^c$を新たな定数$C$と置きなおすと…
+(\ref{eq:logisticsintsecond})式の自然対数を取りつつ絶対値記号を外し、$\pm e^C$を新たな定数$C$と置きなおすと…
 \begin{align}
   1 - \dfrac{\alpha}{\beta x} &= \pm e^{-\alpha t+C} \nonumber \cr
   &= Ce^{-\alpha t} \label{eq:solutionzero}
