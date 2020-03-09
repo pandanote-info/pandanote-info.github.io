@@ -111,7 +111,7 @@ x &= \frac{\alpha}{\beta}\cdot\frac{Ce^{\alpha t}}{1+Ce^{\alpha t}} \label{eq:ye
 \end{align}
 と変形できます。
 
-(\ref{eq:yetanothersolutionsecond})式と(\ref{eq:solution})式はまだ相違があるようにも見えますが、(\ref{eq:yetanothersolutionsecond})式の$t$は$C$に依存しない定数であるので、$-\dfrac{1}{C}$を$C$と置き直すことで(\ref{eq:solution})式と形式的に一致させることができます。
+(\ref{eq:yetanothersolutionsecond})式と(\ref{eq:solution})式はまだ相違があるようにも見えますが、(\ref{eq:yetanothersolutionsecond})式の$t$は$C$に依存しない定数であるので、$-\dfrac{1}{C}$を$C$と置き直すことで(\ref{eq:solution})式と形式的に一致させることができます。$\blacksquare$
 
 {%include thirdintervalad.html %}
 ## まとめ
