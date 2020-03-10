@@ -98,12 +98,12 @@ C &= \left(1-\dfrac{K}{N_0}\right)e^{rt_0} \label{eq:Cattzero}
 
 (\ref{eq:Cattzero})式を(\ref{eq:xtc})式に代入して、ちょっと整理すると…
 \begin{align}
-x(t) &= \frac{K}{1-\left(1-\dfrac{K}{N_0}\right)e^{-r(t-t_0)} \nonumber \cr
-&= \frac{K}{1+\left(\dfrac{K}{N_0}-1\right)e^{-r(t-t_0)} \label{eq:solutionone}
+x(t) &= \frac{K}{1-\left(1-\dfrac{K}{N_0}\right)e^{-r(t-t_0)}} \nonumber \cr
+&= \frac{K}{1+\left(\dfrac{K}{N_0}-1\right)e^{-r(t-t_0)}} \label{eq:solutionone}
 \end{align}
 となります。
 
-(\ref{eq:solution})式に$t_0=0$を代入するとWikipediaに記述されている式になります。
+(\ref{eq:solutionone})式に$t_0=0$を代入するとWikipediaに記述されている式になります。
 ## 別解。
 なお、(\ref{eq:logisticsecond})式の両辺を$\left(\dfrac{\alpha}{\beta}-x\right)x$で割ると…
 \begin{align}
