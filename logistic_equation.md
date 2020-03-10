@@ -84,6 +84,26 @@ x(t) &= r\cdot\frac{K}{r}\cdot\frac{1}{1-Ce^{^rt}} \nonumber \cr
 &= K\cdot\frac{1}{1-Ce^{^rt}} \label{eq:xtc}
 \end{align}
 となります。
+
+ここで、$t=t_0$のときに$x(t_0)=N_0$であるとすると…
+\begin{align}
+x(t_0) &= K\cdot\frac{1}{1-Ce^{^rt_0}} \nonumber \cr
+&= N_0 \label{eq:xtcinitial}
+\end{align}
+となります。(\ref{eq:xtcinitial})式は$C$について解くことができて…
+\begin{align}
+C &= \left(1-\dfrac{K}{N_0}\right)e^{rt_0} \label{eq:Cattzero}
+\end{align}
+となります。
+
+(\ref{eq:Cattzero})式を(\ref{eq:xtc})式に代入して、ちょっと整理すると…
+\begin{align}
+x(t) &= \frac{K}{1-\left(1-\dfrac{K}{N_0}\right)e^{-r(t-t_0)} \nonumber \cr
+&= \frac{K}{1+\left(\dfrac{K}{N_0}-1\right)e^{-r(t-t_0)} \label{eq:solutionone}
+\end{align}
+となります。
+
+(\ref{eq:solution})式に$t_0=0$を代入するとWikipediaに記述されている式になります。
 ## 別解。
 なお、(\ref{eq:logisticsecond})式の両辺を$\left(\dfrac{\alpha}{\beta}-x\right)x$で割ると…
 \begin{align}
