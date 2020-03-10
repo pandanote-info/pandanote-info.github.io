@@ -80,14 +80,14 @@ encoding: UTF-8
 
 (\ref{eq:solution})式に$\alpha = r, \beta = \dfrac{r}{K}$を代入し、本節に限り$x$を($x$が$t$の関数であることを明確にするために)$x(t)$と書くことにすると…
 \begin{align}
-x(t) &= r\cdot\frac{K}{r}\cdot\frac{1}{1-Ce^{^rt}} \nonumber \cr
-&= K\cdot\frac{1}{1-Ce^{^rt}} \label{eq:xtc}
+x(t) &= r\cdot\frac{K}{r}\cdot\frac{1}{1-Ce^{-rt}} \nonumber \cr
+&= K\cdot\frac{1}{1-Ce^{-rt}} \label{eq:xtc}
 \end{align}
 となります。
 
 ここで、$t=t_0$のときに$x(t_0)=N_0$であるとすると…
 \begin{align}
-x(t_0) &= K\cdot\frac{1}{1-Ce^{^rt_0}} \nonumber \cr
+x(t_0) &= K\cdot\frac{1}{1-Ce^{-rt_0}} \nonumber \cr
 &= N_0 \label{eq:xtcinitial}
 \end{align}
 となります。(\ref{eq:xtcinitial})式は$C$について解くことができて…
