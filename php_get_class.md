@@ -16,7 +16,7 @@ encoding: UTF-8
 
 {% include firstad.html %}
 ## 書いた、貼った、動かした。
-以下のようなプログラムを書いて、GitHub Gistに貼ってみました。
+テスト用に以下のプログラムを書いて、GitHub Gistに貼ってみました。
 <script src="https://gist.github.com/pandanote-info/15cfcabe7ee7c0af95e31f1c60e56ad8.js"></script>
 Hogeクラスが$C_0$に、HogeHogeクラスが$C_1$に相当します。get_class関数は$C_0$側に実装します。
 
