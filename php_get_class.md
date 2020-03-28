@@ -1,6 +1,9 @@
 ---
 title: GitHub GistにuploadしたPHPのget_class関数の使用例をGitHub Pagesに貼り付けてみた。- panda大学習帳外伝
-description: 
+description: PHPのget_class関数の使用方法を確認するための簡単なコードをGitHub Gistにuploadし、さらにそれをこのページに貼ってみました。
+image: https://pandanote.info/wordpress/wp-content/uploads/2020/03/P_20200328_093048_vHDR_On_HP.jpg
+twitter:
+  card: summary_large_image
 mathjax: true
 encoding: UTF-8
 ---
