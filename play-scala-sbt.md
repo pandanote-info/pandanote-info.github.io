@@ -101,6 +101,20 @@ Array(s1,s2,s3).mkString(",")
 
 1. sbt-1.3.0-RC1でPlay Frameworkのプロジェクトをコンパイルするとviews.htmlが見つからないといわれる。なお、sbt-1.2.8及び1.3.3ではビルドできる。
 1. sbt.bat自体はバッチプログラムなので、ビルド関連のコマンドを自動化する等の目的で別のバッチファイルからsbtを呼び出す場合には"call sbt &lt;command&gt;"のように記述すること。
+1. sbtでcompileを実行すると、
+```
+[warn] there was one deprecation warning (since 2.13.0); re-run with -deprecation for details
+```
+などと言われることがあります。そのようなときには、以下のうち少なくとも一方の設定を行う。
+    1. build.sbtに以下の設定を追加する。
+```
+scalacOptions ++= Seq("-deprecation", "-feature")
+```
+	1. sbtのプロンプトで、以下のコマンドを実行する。
+```
+set scalacOptions in ThisBuild ++= Seq("-deprecation", "-feature")
+```
+なお、上記のWarningは、String型以外の変数をString型と連結する場合に発生することが多いようです。
 
 ## その他、または複合的なやつ。
 
