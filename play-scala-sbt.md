@@ -2,7 +2,7 @@
 title: Play FrameworkやScalaやsbtのメモ書き。 - panda大学習帳外伝
 description: Play FrameworkやScalaやsbtのメモ書き。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2020/04/P_20200404_080006_vHDR_On_HP.jpg
+image: https://pandanote.info/wordpress/wp-content/uploads/2020/04/P_20200404_080006_vHDR_On_HP-scaled.jpg
 twitter:
   card: summary_large_image
 encoding: UTF-8
