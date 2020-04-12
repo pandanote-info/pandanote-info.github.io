@@ -1,6 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
+* [Play FrameworkやScalaやsbtのメモ書き。](https://sidestory.pandanote.info/play-scala-sbt.html)(2019/09/08, Last update: 2020/04/12)
 * [GitHub GistにuploadしたPHPのget_class関数の使用例をGitHub Pagesに貼り付けてみた。](https://sidestory.pandanote.info/php_get_class.html)(2020/03/28)<br/>PHPのget_class関数の使用方法を確認するための簡単なコードをGitHub Gistにuploadし、さらにそれをこのページに貼ってみました。
 * [ロジスティック方程式のような微分方程式を解いてみた。](https://sidestory.pandanote.info/logistic_equation.html)(2020/02/22, Last update: 2020/03/10)<br/>ロジスティック方程式のような微分方程式を解いてみたら、計算途中の式変形の方法の相違により2通りの異なる形式の解が求まった件。
 * [サブタイトルネタ帳Classic(1-50)](https://sidestory.pandanote.info/catchphraseclassic0.html)(2020/03/07)<br/>1-50件目のサブタイトルです。
@@ -9,7 +10,6 @@
 * [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/01/20)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [1/(x^3+a^3)を部分分数展開してみた。](https://sidestory.pandanote.info/5020bis.html)(2019/08/11, Last update: 2019/12/13)
 * [マルチカラーな積分経路。](https://sidestory.pandanote.info/4310bis.html)(2019/04/26, Last update: 2019/12/12)
-* [Play FrameworkやScalaやsbtのメモ書き。](https://sidestory.pandanote.info/play-scala-sbt.html)(2019/09/08, Last update: 2019/12/12)
 * [Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。](https://sidestory.pandanote.info/play-scala-svn.html)(2019/09/28, Last update: 2019/11/18)
 * [(x^2-1)^nを繰り返し微分してみた。](https://sidestory.pandanote.info/xsquareminusone_diff.html)(2019/07/05, Last update: 2019/11/14)
 * [試験には出ないかもしれないWallis積分。](https://sidestory.pandanote.info/4591bis.html)(2019/06/04, Last update: 2019/11/14)
