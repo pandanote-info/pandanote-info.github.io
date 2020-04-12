@@ -117,7 +117,7 @@ scalacOptions ++= Seq("-deprecation", "-feature")
 ```
 set scalacOptions in ThisBuild ++= Seq("-deprecation", "-feature")
 ```
-なお、上記のWarningは、String型以外の変数をString型と連結する場合に発生することが多いようです。
+なお、上記のWarningは、String型以外の変数をString型と連結する場合に発生することが多いようです(※個人の感想です。このような場合はString型以外の方の変数をas[String]等でString型に変換すると、上記のWarningが発生しなくなります)。
 
 ## その他、または複合的なやつ。
 
