@@ -1,5 +1,5 @@
 ---
-title: n-bonacci数列を出力するPython3のコードを書いてみた。- panda大学習帳外伝
+title: n-bonacci数列を出力するPython3のコードを書いてみた。 - panda大学習帳外伝
 description: n-bonacci数列を出力するPython3のコードを書いてみたところ、Python3のおさらいが捗った件。
 image: https://pandanote.info/wordpress/wp-content/uploads/2020/04/P_20200416_185914_vHDR_On_HP-scaled.jpg
 twitter:
