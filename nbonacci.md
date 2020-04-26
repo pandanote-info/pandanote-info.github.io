@@ -22,9 +22,9 @@ a_1 &= a_2 = 1,\quad a_{n+2} = a_{n+1} + a_n \label{eq:fibonacci}
 a_1 &= a_2 = a_3 = 1,\quad a_{n+3} = a_{n+2} + a_{n+1} + a_n \label{eq:tribonacci}
 \end{align}
 
-という漸化式を考えることもできます。\ref{eq:tribonacci}式で表される漸化式をトリボナッチ数列といいます。
+という漸化式を考えることもできます。(\ref{eq:tribonacci})式で表される漸化式をトリボナッチ数列といいます。
 
-それで、\ref{eq:tribonacci}式をさらに一般化して…
+それで、(\ref{eq:tribonacci})式をさらに一般化して…
 
 \begin{align}
 a_1 &= \cdots = a_n = 1,\quad a_{m+n} = \sum_{i=0}^{n-1} a_{m+i} \label{eq:nbonacci}
