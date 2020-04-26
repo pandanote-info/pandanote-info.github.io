@@ -981,9 +981,9 @@
 </script>
 ## exo2srt.py
 * Created at: 2017-06-18T09:20:49Z
-* Updated at: 2017-06-18T09:53:24Z
+* Updated at: 2020-04-13T13:45:09Z
 * Descrption: AviUtlのエキスポートファイルから字幕ファイル(srt)ファイルを作成するためのコード
 * [Link to Gist](https://gist.github.com/130c7e9f0bf863b8907ab586fabd3338)
 * Referenced from: 
-    * [AviUtlのエキスポートファイルから字幕ファイルを作る](https://pandanote.info/?p=29)
+    * [AviUtlのエキスポートファイルから字幕ファイルを作る。](https://pandanote.info/?p=29)
 
