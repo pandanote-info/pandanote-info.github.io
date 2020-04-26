@@ -10,7 +10,7 @@ encoding: UTF-8
 {% include pagelink.md %}
 # n-bonacci数列を出力するPython3のコードを書いてみた。
 ## はじめに
-突然で恐縮ですが、みんな大好きフィボナッチ数列$\left\{a_n\right\} (n \ge 1)$の漸化式は(\ref{eq:fibonacci})式で表すことができます。
+突然で恐縮ですが、みんな大好きフィボナッチ数列$\\{a_n\\} (n \ge 1)$の漸化式は(\ref{eq:fibonacci})式で表すことができます。
 
 \begin{align}
 a_1 &= a_2 = 1,\quad a_{n+2} = a_{n+1} + a_n \label{eq:fibonacci}
