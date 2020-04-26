@@ -30,7 +30,7 @@ a_1 &= a_2 = a_3 = 1,\quad a_{n+3} = a_{n+2} + a_{n+1} + a_n \label{eq:tribonacc
 a_1 &= \cdots = a_n = 1,\quad a_{m+n} = \sum_{i=0}^{n-1} a_{m+i} \label{eq:nbonacci}
 \end{align}
 
-という$(n+1)$項間漸化式で定義される数列$\{a_n\} (n \ge 1)$(nボナッチ数列)を考え、これを初項から指定した項までを計算するPython3のコードを書いてみました。
+という$(n+1)$項間漸化式で定義される数列$\\{a_n\\} (n \ge 1)$(nボナッチ数列)を考え、これを初項から指定した項までを計算するPython3のコードを書いてみました。
 
 {% include firstad.html %}
 
