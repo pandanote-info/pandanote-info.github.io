@@ -10,7 +10,7 @@ encoding: UTF-8
 {% include pagelink.md %}
 # n-bonacci数列を出力するPython3のコードを書いてみた。
 ## はじめに
-突然ですが、みんな大好きフィボナッチ数列${a_n} (n \ge 1)$の漸化式は(\ref{eq:fibonacci})式で表すことができます。
+突然で恐縮ですが、みんな大好きフィボナッチ数列$\{a_n\} (n \ge 1)$の漸化式は(\ref{eq:fibonacci})式で表すことができます。
 
 \begin{align}
 a_1 &= a_2 = 1,\quad a_{n+2} = a_{n+1} + a_n \label{eq:fibonacci}
@@ -30,7 +30,7 @@ a_1 &= a_2 = a_3 = 1,\quad a_{n+3} = a_{n+2} + a_{n+1} + a_n \label{eq:tribonacc
 a_1 &= \cdots = a_n = 1,\quad a_{m+n} = \sum_{i=0}^{n-1} a_{m+i} \label{eq:nbonacci}
 \end{align}
 
-という$(n+1)$項間漸化式で定義される数列${a_n} (n \ge 1)$(nボナッチ数列)を考え、これを初項から指定した項までを計算するPython3のコードを書いてみました。
+という$(n+1)$項間漸化式で定義される数列$\{a_n\} (n \ge 1)$(nボナッチ数列)を考え、これを初項から指定した項までを計算するPython3のコードを書いてみました。
 
 {% include firstad.html %}
 
