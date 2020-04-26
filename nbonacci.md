@@ -13,21 +13,21 @@ encoding: UTF-8
 突然ですが、みんな大好きフィボナッチ数列${a_n} (n \ge 1)$の漸化式は(\ref{eq:fibonacci})式で表すことができます。
 
 \begin{align}
-a_1 &= a_2 = 1, a_{n+2} = a_{n+1} + a_n \label{eq:fibonacci}
+a_1 &= a_2 = 1,\quad a_{n+2} = a_{n+1} + a_n \label{eq:fibonacci}
 \end{align}
 
 (\ref{eq:fibonacci})式は3項間漸化式ですが、これにもう一項付け足して4項間漸化式とすると…
 
 \begin{align}
-a_1 &= a_2 = a_3 = 1, a_{n+3} = a_{n+2} + a_{n+1} + a_n \label{eq:tribonacci}
+a_1 &= a_2 = a_3 = 1,\quad a_{n+3} = a_{n+2} + a_{n+1} + a_n \label{eq:tribonacci}
 \end{align}
 
-という漸化式を考えることもできます。(eq:tribonacci)式で表される漸化式をトリボナッチ数列といいます。
+という漸化式を考えることもできます。\ref{eq:tribonacci}式で表される漸化式をトリボナッチ数列といいます。
 
-それで、(eq:tribonacci)式をさらに一般化して…
+それで、\ref{eq:tribonacci}式をさらに一般化して…
 
 \begin{align}
-a_1 &= \cdots = a_n = 1, a_{m+n} = \sum_{i=0}^{n-1} a_{m+i} \label{eq:nbonacci}
+a_1 &= \cdots = a_n = 1,\quad a_{m+n} = \sum_{i=0}^{n-1} a_{m+i} \label{eq:nbonacci}
 \end{align}
 
 という$(n+1)$項間漸化式で定義される数列${a_n} (n \ge 1)$(nボナッチ数列)を考え、これを初項から指定した項までを計算するPython3のコードを書いてみました。
@@ -95,7 +95,7 @@ C:\Users\Pandanote\Documents>python3 nbonacci.py 4 15
 2500
 ```
 ### 第1引数: 5, 第2引数: 30
-$a_30$までのすべての項が奇数になってますね。
+$a_{30}$までのすべての項が奇数になってますね。
 ```
 C:\Users\Pandanote\Documents>python3 nbonacci.py 5 30
 1
