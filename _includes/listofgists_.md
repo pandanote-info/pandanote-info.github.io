@@ -1,3 +1,9 @@
+## nbonacci.py
+* Created at: 2020-04-26T07:53:05Z
+* Updated at: 2020-04-26T07:53:06Z
+* Descrption: nbonacci sequence (nボナッチ数列)の計算及び出力のためのPython3のコード例。
+* [Link to Gist](https://gist.github.com/8838de42bfe8cef428125cd810c452a1)
+
 ## ScalaJHttpClientSample.scala
 * Created at: 2020-04-04T14:15:51Z
 * Descrption: GROWIのAPIの実行用のScalaのプログラム例のサンプル。URLとAPI Tokenはダミーの値を設定している。
@@ -318,7 +324,7 @@
 
 ## letsencrypt.sh
 * Created at: 2019-02-03T21:43:59Z
-* Updated at: 2019-02-04T12:24:20Z
+* Updated at: 2020-04-19T00:46:42Z
 * Descrption: Let's encryptから取得した証明書を更新するためのコマンドを証明書が更新可能なタイミングでのみ更新するためのシェルスクリプト。
 * [Link to Gist](https://gist.github.com/5572114fd1d89465051db798f64501ff)
 * Referenced from: 
