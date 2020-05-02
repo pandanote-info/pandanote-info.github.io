@@ -10,16 +10,22 @@ encoding: UTF-8
 {% include pagelink.md %}
 # n-bonacci数列を出力するPython3のコードを書いてみた。
 ## はじめに
-突然で恐縮ですが、みんな大好きフィボナッチ数列$\\{a_n\\} (n \ge 1)$の漸化式は(\ref{eq:fibonacci})式で表すことができます。
+突然で恐縮ですが、みんな大好きフィボナッチ数列$\\{a_n\\} (n \ge 0)$の漸化式は(\ref{eq:fibonacci})式で表すことができます。
 
 \begin{align}
-a_1 &= a_2 = 1,\quad a_{n+2} = a_{n+1} + a_n \label{eq:fibonacci}
+a_0 &= 0, a_1 = 1,\quad a_{n+2} = a_{n+1} + a_n \label{eq:fibonacci}
+\end{align}
+
+フィボナッチ数列の漸化式は(\ref{eq:fibonacci_old})式のように表す場合もありますが、ここからの話の展開の都合上、ここでは(\ref{eq:fibonacci})式で表すことにします。
+
+\begin{align}
+a_1 &= a_2 = 1,\quad a_{n+2} = a_{n+1} + a_n \label{eq:fibonacci_old}
 \end{align}
 
 (\ref{eq:fibonacci})式は3項間漸化式ですが、これにもう一項付け足して4項間漸化式とすると…
 
 \begin{align}
-a_1 &= a_2 = a_3 = 1,\quad a_{n+3} = a_{n+2} + a_{n+1} + a_n \label{eq:tribonacci}
+a_0 &= a_1 = 0, a_2 = 1,\quad a_{n+3} = a_{n+2} + a_{n+1} + a_n \label{eq:tribonacci}
 \end{align}
 
 という漸化式を考えることもできます。(\ref{eq:tribonacci})式で表される漸化式をトリボナッチ数列といいます。
@@ -27,17 +33,17 @@ a_1 &= a_2 = a_3 = 1,\quad a_{n+3} = a_{n+2} + a_{n+1} + a_n \label{eq:tribonacc
 それで、(\ref{eq:tribonacci})式をさらに一般化して…
 
 \begin{align}
-a_1 &= \cdots = a_n = 1,\quad a_{m+n} = \sum_{i=0}^{n-1} a_{m+i} \label{eq:nbonacci}
+a_0 &= \cdots = a_{n-2} = 0, a_{n-1} = 1,\quad a_{m+n} = \sum_{i=0}^{n-1} a_{m+i} \label{eq:nbonacci}
 \end{align}
 
-という$(n+1)$項間漸化式で定義される数列$\\{a_n\\} (n \ge 1)$(nボナッチ数列)を考え、これを初項から指定した項までを計算するPython3のコードを書いてみました。
+という$(n+1)$項間漸化式で定義される数列$\\{a_n\\} (n \ge 0)$(nボナッチ数列,nナッチ数列)を考え、これを初項から指定した項までを計算するPython3のコードを書いてみました。
 
 {% include firstad.html %}
 
 ## 仕様を考えます。
 Python3のコードは以下の2つの引数を取ります。
 * 第1引数: 次の項を求めるために必要な項の数。3項間漸化式であれば2となります。
-* 第2引数: 計算の対象となる項の数。初項からの項数になります。
+* 第2引数: 計算の対象となる項の数。初項(第0項)からの項数になります。
 ## コード例
 以下のような感じのコードを書いてみました。
 
@@ -50,6 +56,7 @@ Windows 10にインストールしたPython3で実行すると、以下のよう
 ### 第1引数: 2, 第2引数: 10
 ```
 C:\Users\Pandanote\Documents>python3 nbonacci.py 2 10
+0
 1
 1
 2
@@ -59,75 +66,73 @@ C:\Users\Pandanote\Documents>python3 nbonacci.py 2 10
 13
 21
 34
-55
 ```
 ### 第1引数: 3, 第2引数: 10
 ```
 C:\Users\Pandanote\Documents>python3 nbonacci.py 3 10
+0
+0
 1
 1
-1
-3
-5
-9
-17
-31
-57
-105
+2
+4
+7
+13
+24
+44
 ```
 ### 第1引数: 4, 第2引数: 15
 ```
 C:\Users\Pandanote\Documents>python3 nbonacci.py 4 15
+0
+0
+0
 1
 1
-1
-1
+2
 4
-7
-13
-25
-49
-94
-181
-349
-673
-1297
-2500
+8
+15
+29
+56
+108
+208
+401
+773
 ```
 ### 第1引数: 5, 第2引数: 30
-$a_{30}$までのすべての項が奇数になってますね。
 ```
 C:\Users\Pandanote\Documents>python3 nbonacci.py 5 30
+0
+0
+0
+0
 1
 1
-1
-1
-1
-5
-9
-17
-33
-65
-129
-253
-497
-977
-1921
-3777
-7425
-14597
-28697
-56417
-110913
-218049
-428673
-842749
-1656801
-3257185
-6403457
-12588865
-24749057
-48655365
+2
+4
+8
+16
+31
+61
+120
+236
+464
+912
+1793
+3525
+6930
+13624
+26784
+52656
+103519
+203513
+400096
+786568
+1546352
+3040048
+5976577
+11749641
 ```
 ### 第1引数: 0, 第2引数: 300
 ※エラーメッセージとして使い方を表示します。
