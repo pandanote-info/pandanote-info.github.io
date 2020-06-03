@@ -49,10 +49,12 @@ HackGenNerdフォントのWindows10へのインストールは他のフォント
 なお、Windows10へのフォントのインストールに成功した時点で、Emacsから使用することができます。
 ### インストールの状況の確認
 インストールの状況の確認は、以下の手順で行うことができます。
+
 1. Emacsを起動して、メニューバーから「Options」を選択します。
 1. 表示されたメニューから「Set Default Font」を選択します。
 1. 下図のような「フォント」ポップアップが表示されます。
 1. 上部の検索窓に"Hack"くらいまで入力した時点で"HackGenNerd"が表示されていれば、EmacsからHackGenNerdが使用できる状態になっていることが確認できます。
+
 <a href="https://pandanote.info/?attachment_id=6334"><img src="https://pandanote.info/wordpress/wp-content/uploads/2020/06/ricty_from_scratch_scene7.png"/></a>
 ### init.elへの設定例
 インストールの状況が確認できたら、init.el(またはそれに相当する設定ファイル)に以下の例のように記述を追加して保存します。
@@ -71,8 +73,10 @@ HackGenNerdフォントのWindows10へのインストールは他のフォント
 ソーシャルディスタンスが削除されていますね。
 ## (おまけ)今回利用を試みたDiminishedじゃない方のRictyフォントの生成に使用した材料
 Diminishedじゃない方のRictyフォントのVersion 4.0.0以降のものはライセンスの関係で直接配布することができないため、今回Diminishedじゃない方のRictyフォントを作成するにあたり使用したフォントのファイル等を以下に示します。
+
 1. Inconsolata.zip (Google Fonts Inconsolataのページからダウンロードできるやつ)
 1. migu-1m-20200307.zip
+
 ## まとめ
 この記事はここまでに記述した方法によってHackGenNerdフォントを使用するように設定したEmacsで書いていますが、Courier New(+ビットマップ日本語フォント)と比較すると、見やすさが段違いですね。
 
