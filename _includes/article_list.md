@@ -1,6 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
+* [OpenVPNのためのSELinuxポリシーを変更する際にポリシー名を"openvpn"にしたところ、変更に失敗した件。](https://sidestory.pandanote.info/selinux_policy_for_openvpn_server_on_fedora32.html)(2020/06/23)<br/>ポリシー名のご利用は計画的に。
 * [Windows10のEmacsのフォントをHackGenNerdに変更してみた(おまけつき)。](https://sidestory.pandanote.info/hackgennerd.html)(2020/06/03)<br/>Windows10のEmacsのフォントをHackGenNerdに変更する方法です。
 * [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)(2019/01/18, Last update: 2020/05/22)
 * [n-bonacci数列を出力するPython3のコードを書いてみた。](https://sidestory.pandanote.info/nbonacci.html)(2020/04/26, Last update: 2020/05/02)<br/>n-bonacci数列を出力するPython3のコードを書いてみたところ、Python3のおさらいが捗った件。
