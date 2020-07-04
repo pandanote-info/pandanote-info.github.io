@@ -1,6 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
+* [Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。](https://sidestory.pandanote.info/play-scala-svn.html)(2019/09/28, Last update: 2020/07/05)
 * [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/07/04)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [kuromojiにいろいろな辞書を組み込んで、テストしてみた。](https://sidestory.pandanote.info/kuromoji-result.html)(2020/06/28)<br/>kuromojiに組み込む辞書を切り替えつつ、形態素解析を試みてみました。
 * [OpenVPNのためのSELinuxポリシーを変更する際にポリシー名を"openvpn"にしたところ、変更に失敗した件。](https://sidestory.pandanote.info/selinux_policy_for_openvpn_server_on_fedora32.html)(2020/06/23)<br/>ポリシー名のご利用は計画的に。
@@ -15,7 +16,6 @@
 * [Von Mises分布の確率密度関数を導出してみた。](https://sidestory.pandanote.info/5735bis.html)(2019/12/13, Last update: 2020/01/20)<br/>Von Mises分布の確率密度関数を導出してみたときのメモ書きです。
 * [1/(x^3+a^3)を部分分数展開してみた。](https://sidestory.pandanote.info/5020bis.html)(2019/08/11, Last update: 2019/12/13)
 * [マルチカラーな積分経路。](https://sidestory.pandanote.info/4310bis.html)(2019/04/26, Last update: 2019/12/12)
-* [Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。](https://sidestory.pandanote.info/play-scala-svn.html)(2019/09/28, Last update: 2019/11/18)
 * [(x^2-1)^nを繰り返し微分してみた。](https://sidestory.pandanote.info/xsquareminusone_diff.html)(2019/07/05, Last update: 2019/11/14)
 * [試験には出ないかもしれないWallis積分。](https://sidestory.pandanote.info/4591bis.html)(2019/06/04, Last update: 2019/11/14)
 * [回らない複素積分。](https://sidestory.pandanote.info/4431bis.html)(2019/05/15, Last update: 2019/11/14)
