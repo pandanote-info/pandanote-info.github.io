@@ -44,7 +44,7 @@ EmacsでMetalsを使用している場合には、.metalsまたは.bloopとい�
 プロジェクトのルートディレクトリで以下のコマンドを実行して削除しておきます。
 
 ```
-> find . \( -name .metals -a -name .bloop \) -a type d -prune -exec rm -rf '{}' \; 
+> find . \( -name .metals -o -name .bloop \) -a type d -prune -exec rm -rf '{}' \; 
 ```
 ## いよいよインポート。
 不要と思われるディレクトリが削除できたら、Subversionのリポジトリにインポートします。
