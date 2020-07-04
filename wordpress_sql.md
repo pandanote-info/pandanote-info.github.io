@@ -30,10 +30,10 @@ WordpressはRDBMS(通常はMariaDBかMySQL)に記事のデータを格納して�
 Wordpressで公開中の記事の中から特定の文字列(以下の例では"panda大学習帳")を含む記事のIDを得るためには以下のSQL文を実行します。
 
 ```
-select ID from wp_posts where post_status='publish' and post_content like '%panda大学習帳%';
+select ID from wp_posts where post_status='publish' and post_content like '%panda大学習帳%' and post_type in ('page','post');
 ```
 
-公開中の記事に対応するwp_postsテーブルのレコードではpost_statusカラムの値が'publish'になることを利用しています。
+公開中の記事に対応するwp_postsテーブルのレコードではpost_statusカラムの値が'publish'になることを利用しています。また、投稿タイプは公開中の記事(に対応すると思われる)固定ページ('page')及び投稿('post')に限定しています。
 
 ## 特定の文字列を別の文字列に置き換える。
 
