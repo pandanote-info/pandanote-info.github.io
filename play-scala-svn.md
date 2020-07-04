@@ -2,6 +2,9 @@
 title: Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。 - panda大学習帳外伝
 description: Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。
 mathjax: true
+image: https://pandanote.info/wordpress/wp-content/uploads/2020/07/P_20200629_210045_vHDR_On_HP-scaled.jpg
+twitter:
+  card: summary_large_image
 encoding: UTF-8
 ---
 {% include pagelink.md %}
