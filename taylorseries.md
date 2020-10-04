@@ -10,7 +10,7 @@ encoding: UTF-8
 {% include pagelink.md %}
 # sqrt(1-t)をx=0を中心にテイラー展開してみた。
 ## はじめに
-(\ref{eq:minushalftimesofoneminusx})式を$x=0$を中心にテイラー展開してみたら、いろいろあったので、ここにメモ書きすることにしました。
+(\ref{eq:minushalftimesofoneminusx})式を$x=0$を中心にテイラー展開しつついろいろと調べてみたところ、いくつか情報が入手できたので、ここにメモ書きすることにしました。
 \begin{align}
 f(x)&= (1-x)^{\frac{1}{2}} \label{eq:minushalftimesofoneminusx}
 \end{align}
@@ -65,7 +65,7 @@ f^{(n)}(0) &= -\frac{(2n-3)!!}{2^n} \label{eq:xatzero}
 ## 一般化二項係数で表してみる。
 (\ref{eq:expansionsolution})式が求まると、数値計算ができそうな感じになります。楕円積分の計算の際にはこの形式を使うことが一般的です。
 
-しかーし、もののWikipediaによりますと、一般化二項係数でもう少し簡潔な形で表現できるかもしれないっぽいので、(\ref{eq:expansionsolution})式の係数部を変形してみることにします。
+その一方で、もののWikipediaによりますと、一般化二項係数でもう少し簡潔な形で表現できるかもしれないっぽいので、(\ref{eq:expansionsolution})式の係数部を変形してみることにします。
 ### 説明しよう:-)
 ここで、一般化二項係数について説明しよう :-)
 
@@ -100,7 +100,9 @@ r
 \begin{align}
   -\frac{(2n-3)!!}{2^n n!} &= \underbrace{-\frac{1}{2}\cdot\frac{1}{2}\cdot\frac{3}{2}\cdots\frac{2n-3}{2}}_{n\mbox{個}}\cdots\frac{1}{n!} \label{eq:binomialtrysecond}
 \end{align}
-(\ref{eq:generalizedbinomialcoeffcient})式の右辺と(\ref{eq:binomialtrysecond})式の右辺をよーく比較すると、(\ref{eq:generalizedbinomialcoeffcient})式の右辺において$r$を$n$, $n$を$\displaystyle\frac{2n-3}{2}$とそれぞれおくと、(\ref{eq:binomialtrysecond})式の右辺と一致させることができることがわかります。
+といい感じに変形できます。
+
+そこで、(\ref{eq:generalizedbinomialcoeffcient})式の右辺と(\ref{eq:binomialtrysecond})式の右辺をよーく比較すると、(\ref{eq:generalizedbinomialcoeffcient})式の右辺において$r$を$n$, $n$を$\displaystyle\frac{2n-3}{2}$とそれぞれおくことにより、(\ref{eq:binomialtrysecond})式の右辺と一致させることができることがわかります。
 
 よって、$n \ge 1$の場合には、
 \begin{align}
