@@ -36,14 +36,14 @@ f^{(3)}(x) &= (-1)^3\cdot\frac{1}{2} \cdot \left( -\frac{1}{2} \right)\cdot \lef
 \end{align}
 となるので、$n \ge 1$の場合に限り、
 \begin{align}
-  f^{(n)}(x) &= (-1)^{2n-1} \frac{(2n-3)!!}{2^n}(1-t)^{-\frac{2n-1}{2}} \nonumber \\
+  f^{(n)}(x) &= (-1)^{2n-1} \frac{(2n-3)!!}{2^n}(1-t)^{-\frac{2n-1}{2}} \nonumber \cr
   &= -\frac{(2n-3)!!}{2^n}(1-t)^{-\frac{2n-1}{2}} \label{eq:taylorcoefficient}
 \end{align}
 となりそうな感じがします。なお、$(2n-3)!!$の$!!$は二重階乗を表しますが、$k \le 1$の場合は$k!! = 1$とします。
 
 念のため(\ref{eq:taylorcoefficient})式を1回微分すると…
 \begin{align}
-  f^{(n+1)}(x) &= (-1)^{2} \frac{(2n-3)!!}{2^n}\cdot\left(-\frac{2n-1}{2}\right)(1-t)^{-\frac{2n+1}{2}} \nonumber \\
+  f^{(n+1)}(x) &= (-1)^{2} \frac{(2n-3)!!}{2^n}\cdot\left(-\frac{2n-1}{2}\right)(1-t)^{-\frac{2n+1}{2}} \nonumber \cr
   &= -\frac{(2n-1)!!}{2^{n+1}}(1-t)^{-\frac{2n+1}{2}} \label{eq:nexttaylorcoefficient}
 \end{align}
 と計算できます。
@@ -76,8 +76,8 @@ f^{(n)}(0) &= -\frac{(2n-3)!!}{2^n} \label{eq:xatzero}
 n \cr
 r
 \end{pmatrix}
-\label{eq:binomialcoeffcientinpmatrix} \\
-&= \frac{n!}{(n-r)!r!} \label{eq:binomialcoeffcientinfactorial} \\
+\label{eq:binomialcoeffcientinpmatrix} \cr
+&= \frac{n!}{(n-r)!r!} \label{eq:binomialcoeffcientinfactorial} \cr
 &= \frac{1}{r!}\prod_{k=n-r+1}^{n}r! \label{eq:binomialcoeffcientinprod}
 \end{align}
 で表すことができます。これを$n$が負でない整数($m$と書きます。)以外の場合にも拡張することを考えると、
