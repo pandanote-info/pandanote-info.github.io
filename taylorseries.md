@@ -15,7 +15,9 @@ encoding: UTF-8
 f(x)&= (1-x)^{\frac{1}{2}} \label{eq:minushalftimesofoneminusx}
 \end{align}
 なお、$x$の定義域は$x \in [0,1]$とするので、テイラー展開を行った結果得られる関数は絶対収束するものと仮定し、絶対収束性についての議論は省略します。
+
 {% include firstad.html %}
+
 ## まず、普通にテイラー展開。
 $f(x)$を$x=0$を中心としたテイラー展開は(\ref{eq:taylorexpansion})式で表されます。
 \begin{align}
@@ -57,7 +59,9 @@ f^{(n)}(0) &= -\frac{(2n-3)!!}{2^n} \label{eq:xatzero}
 (1-x)^{\frac{1}{2}} &= 1 - \sum_{n=1}^{\infty} \frac{(2n-3)!!}{2^n n!}x^n \label{eq:expansionsolution}
 \end{align}
 となります。$\blacksquare$
+
 {%include secondintervalad.html %}
+
 ## 一般化二項係数で表してみる。
 (\ref{eq:expansionsolution})式が求まると、数値計算ができそうな感じになります。楕円積分の計算の際にはこの形式を使うことが一般的です。
 
@@ -121,7 +125,9 @@ n
 \end{pmatrix}x^n\label{eq:binominalfinal}
 \end{align}
 と書くことができます。$\blacksquare$
+
 {%include thirdintervalad.html %}
+
 ## まとめ
 それにしても「一般化二項係数」って「一酸化二窒素$(N_2O)$」みたいなネーミングですね。
 ## リンク
