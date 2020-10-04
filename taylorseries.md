@@ -69,14 +69,14 @@ f^{(n)}(0) &= -\frac{(2n-3)!!}{2^n} \label{eq:xatzero}
 ### 説明しよう:-)
 ここで、一般化二項係数について説明しよう :-)
 
-二項級数の係数は負でない整数$n,k$について、二項係数${}_nC_r$は
+二項級数の係数は負でない整数$n,r$について、
 
 \begin{align}
 \begin{pmatrix}
 n \cr
 r
-\end{pmatrix} &= {}_n C_r
-\label{eq:binomialcoeffcientinpmatrix}
+\end{pmatrix} &= \frac{n!}{(n-r)!r!} \label{eq:binomialcoeffcientinfactorial} \cr
+&= \frac{1}{r!}\prod_{k=n-r+1}^{n}r! \label{eq:binomialcoeffcientinprod}
 \end{align}
 で表すことができます。これを$n$が負でない整数($m$と書きます。)以外の場合にも拡張することを考えると、
 \begin{align}
