@@ -76,8 +76,8 @@ f^{(n)}(0) &= -\frac{(2n-3)!!}{2^n} \label{eq:xatzero}
 n \cr
 r
 \end{pmatrix}
-\label{eq:binomialcoeffcientinpmatrix} \cr
-&= \frac{n!}{(n-r)!r!} \label{eq:binomialcoeffcientinfactorial} \cr
+\cr \label{eq:binomialcoeffcientinpmatrix}
+&= \frac{n!}{(n-r)!r!} \cr \label{eq:binomialcoeffcientinfactorial}
 &= \frac{1}{r!}\prod_{k=n-r+1}^{n}r! \label{eq:binomialcoeffcientinprod}
 \end{align}
 で表すことができます。これを$n$が負でない整数($m$と書きます。)以外の場合にも拡張することを考えると、
@@ -86,7 +86,7 @@ r
 m \cr
 r
 \end{pmatrix}
-&= \frac{1}{r!}\underbrace{m\cdot(m-1)\cdots(m-r+1)}_{r\quad\mbox{factors}} \label{eq:generalizedbinomialcoeffcient}
+&= \frac{1}{r!}\cdot\underbrace{m\cdot(m-1)\cdots(m-r+1)}_{r\,\mbox{factors}} \label{eq:generalizedbinomialcoeffcient}
 \end{align}
 と書くことができます。これを一般化二項係数と呼びます。なお、(\ref{eq:generalizedbinomialcoeffcient})式の右辺はポッホパマーの記号$(\cdot)_k$を用いると、$(m)_r$と書くことができます。
 ### 変形してみた。
@@ -109,7 +109,7 @@ r
 -\frac{(2n-3)!!}{2^n n!} &= \begin{pmatrix}
 \frac{2n-3}{2} \cr
 n
-\end{pmatrix} \nonumber \\
+\end{pmatrix} \nonumber \cr
 &= \begin{pmatrix}
 n-\frac{3}{2} \cr
 n
