@@ -129,6 +129,8 @@ n
 {%include thirdintervalad.html %}
 
 ## まとめ
+楕円積分の計算等の関係で(\ref{eq:expansionsolution})式はよく登場しますが、これと(\ref{eq:binominalfinal})式が同じ式というのは直感的には違和感ありまくりですが、さらっと書けると格好良いかもしれません。
+
 それにしても「一般化二項係数」って「一酸化二窒素$(N_2O)$」みたいなネーミングですね。
 ## リンク
 {% include pagelink.md %}
