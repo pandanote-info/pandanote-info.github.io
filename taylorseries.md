@@ -72,7 +72,7 @@ f^{(n)}(0) &= -\frac{(2n-3)!!}{2^n} \label{eq:xatzero}
 二項級数の係数は負でない整数$n,k$について、二項係数${}_nC_r$は
 
 \begin{align}
-{}_nC_r &= \begin{pmatrix}
+a_nC_r &= \begin{pmatrix}
 n \cr
 r
 \end{pmatrix}
