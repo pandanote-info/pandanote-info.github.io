@@ -92,13 +92,13 @@ r
 
 いったん$n=0$の場合のことは忘れて、$n \ge 1$の場合について考えると、(\ref{eq:expansionsolution})式の右辺の係数部の分子では1から$2n-3$までの奇数が$(n-1)$個掛け合わされていて、分母には2が$n$個掛け合わされているので…
 \begin{align}
--\frac{(2n-3)!!}{2^n n!} &= -\underbrace{\frac{1}{2}\cdot\frac{3}{2}\cdots\frac{2n-3}{2}}_{(n-1)\mbox{個}}\frac{1}{2}\cdots\frac{1}{n!} \label{eq:binomialtryfirst}
+-\frac{(2n-3)!!}{2^n n!} &= -\underbrace{\frac{1}{2}\cdot\frac{3}{2}\cdots\frac{2n-3}{2}}_{(n-1)\mbox{個}}\cdot\frac{1}{2}\cdot\frac{1}{n!} \label{eq:binomialtryfirst}
 \end{align}
 と変形できます。
 
-さらに、(\ref{eq:binomialtryfirst})式の右辺の最初の部分と最後の部分に着目し、最後にくっついている$\displaystyle\frac{1}{2}$を先頭に移動すると…
+さらに、(\ref{eq:binomialtryfirst})式の右辺の最初の部分と最後の部分に着目し、最後にさり気なくくっついている$\displaystyle\frac{1}{2}$を先頭に移動すると…
 \begin{align}
-  -\frac{(2n-3)!!}{2^n n!} &= \underbrace{-\frac{1}{2}\cdot\frac{1}{2}\cdot\frac{3}{2}\cdots\frac{2n-3}{2}}_{n\mbox{個}}\cdots\frac{1}{n!} \label{eq:binomialtrysecond}
+  -\frac{(2n-3)!!}{2^n n!} &= \underbrace{-\frac{1}{2}\cdot\frac{1}{2}\cdot\frac{3}{2}\cdots\frac{2n-3}{2}}_{n\mbox{個}}\cdot\frac{1}{n!} \label{eq:binomialtrysecond}
 \end{align}
 といい感じに変形できます。
 
@@ -132,6 +132,8 @@ n
 楕円積分の計算等の関係で(\ref{eq:expansionsolution})式はよく登場しますが、これと(\ref{eq:binominalfinal})式が同じ式というのは直感的には違和感ありまくりですが、さらっと書けると格好良いかもしれません。
 
 それにしても「一般化二項係数」って「一酸化二窒素$(N_2O)$」みたいなネーミングですね。
+
+この記事は以上です。（｀・ω・´）
 ## リンク
 {% include pagelink.md %}
 
