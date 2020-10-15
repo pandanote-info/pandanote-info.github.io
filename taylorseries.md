@@ -119,7 +119,7 @@ n
 
 ここまでは$n \ge 1$の場合について考えましたが、$n = 0$の場合については(\ref{eq:binominaltrythird})式の左辺は-1、右辺は1となるため等式は成立しません。しかし、右辺は1となることから、一般化二項係数の形式で書く場合には$n = 0$の場合も$n \ge 1$の場合とまとめて扱うことができて…
 \begin{align}
-(1-x)^{\frac{1}{2}} &= \sum_{n=o}^{\infty} \begin{pmatrix}
+(1-x)^{\frac{1}{2}} &= \sum_{n=0}^{\infty} \begin{pmatrix}
 n-\frac{3}{2} \cr
 n
 \end{pmatrix}x^n\label{eq:binominalfinal}
