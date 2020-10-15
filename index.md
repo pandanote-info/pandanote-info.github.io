@@ -31,10 +31,10 @@ GitHubのリポジトリにおけるアクティビティを箱庭の草みた�
 
 {% include fourthintervalad.html %}
 
-# Links / リンク
-{% include homelink.md %}
-
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=12&l=ur1&category=amazonrotate&f=ifr&linkID=74ba4d7eca10219e9a995ec6f89e9bbf&t=karen99-22&tracking_id=karen99-22" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
 # Twitter
 {% include twitter.md %}
+
+# Links / リンク
+{% include homelink.md %}
