@@ -18,7 +18,7 @@ f(x)&= (1-x)^{\frac{1}{2}} \label{eq:minushalftimesofoneminusx}
 
 {% include firstad.html %}
 
-## まず、普通にテイラー展開。
+## まずは普通にテイラー展開。
 $f(x)$を$x=0$を中心としたテイラー展開は(\ref{eq:taylorexpansion})式で表されます。
 \begin{align}
 f(x) &= \sum_{n=0}^{\infty} \frac{f^{(n)}(0)}{n!}x^n \label{eq:taylorexpansion}
@@ -117,7 +117,17 @@ n
 \end{align}
 と書けて、一般化二項係数の形式で書けることがわかります。
 
-ここまでは$n \ge 1$の場合について考えましたが、$n = 0$の場合については(\ref{eq:binominaltrythird})式の左辺は-1、右辺は1となるため等式は成立しません。しかし、右辺は1となることから、一般化二項係数の形式で書く場合には$n = 0$の場合も$n \ge 1$の場合とまとめて扱うことができて…
+ここまでは$n \ge 1$の場合について考えましたが、$n = 0$の場合については(\ref{eq:binominaltrythird})式の左辺は-1、右辺は1となるため等式は成立しません。
+
+よって、
+
+\begin{align}
+(1-x)^{\frac{1}{2}} &= 1 - \sum_{n=1}^{\infty}\frac{(2n-3)!!}{2^nn!}x^n \label{eq:binominalsemifinal}
+\end{align}
+
+と書いてしまうのもありですが…
+
+(\ref{eq:binominaltrythird})式の右辺は1となることに着目すると、一般化二項係数の形式で書く場合には$n = 0$の場合も$n \ge 1$の場合とまとめて扱うことができて…
 \begin{align}
 (1-x)^{\frac{1}{2}} &= \sum_{n=0}^{\infty} \begin{pmatrix}
 n-\frac{3}{2} \cr
