@@ -25,11 +25,11 @@ GitHubのリポジトリにおけるアクティビティを箱庭の草みた�
 
 無理にボリュームを出すような感じにはしない方向です🐼
 
+{% include fourthintervalad.html %}
+
 アクティビティのほとんどが本サイトの更新なので、これでプログラミングの能力を評価されても困る訳ですが…(´・ω・`)
 
 <img src="https://grass-graph.moshimo.works/images/pandanote-info.png?width=800">
-
-{% include fourthintervalad.html %}
 
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=12&l=ur1&category=amazonrotate&f=ifr&linkID=74ba4d7eca10219e9a995ec6f89e9bbf&t=karen99-22&tracking_id=karen99-22" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
