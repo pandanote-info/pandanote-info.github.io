@@ -1,6 +1,6 @@
 ---
-title: sqrt(1-t)をx=0を中心にテイラー展開してみた。 - panda大学習帳外伝
-description: sqrt(1-t)をx=0を中心にテイラー展開してみたら一般化二項係数の形式で書くと簡潔に書けることがわかったので、φ(..)メモメモ
+title: sqrt(1-x)をx=0を中心にテイラー展開してみた。 - panda大学習帳外伝
+description: sqrt(1-x)をx=0を中心にテイラー展開してみたら一般化二項係数の形式で書くと簡潔に書けることがわかったので、φ(..)メモメモ
 mathjax: true
 image: https://pandanote.info/wordpress/wp-content/uploads/2018/08/P_20200629_202458_vHDR_On_HP-scaled.jpg
 twitter: 
@@ -8,7 +8,7 @@ twitter:
 encoding: UTF-8
 ---
 {% include pagelink.md %}
-# sqrt(1-t)をx=0を中心にテイラー展開してみた。
+# sqrt(1-x)をx=0を中心にテイラー展開してみた。
 ## はじめに
 (\ref{eq:minushalftimesofoneminusx})式を$x=0$を中心にテイラー展開しつついろいろと調べてみたところ、いくつか情報が入手できたので、ここにメモ書きすることにしました。
 \begin{align}
