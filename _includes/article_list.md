@@ -1,7 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
-* [sqrt(1-x)をx=0を中心にテイラー展開してみた。](https://sidestory.pandanote.info/taylorseries.html)(2020/10/04, Last update: 2020/10/16)<br/>sqrt(1-t)をx=0を中心にテイラー展開してみたら一般化二項係数の形式で書くと簡潔に書けることがわかったので、φ(..)メモメモ
+* [sqrt(1-x)をx=0を中心にテイラー展開してみた。](https://sidestory.pandanote.info/taylorseries.html)(2020/10/04, Last update: 2020/10/16)<br/>sqrt(1-x)をx=0を中心にテイラー展開してみたら一般化二項係数の形式で書くと簡潔に書けることがわかったので、φ(..)メモメモ
 * [Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。](https://sidestory.pandanote.info/play-scala-svn.html)(2019/09/28, Last update: 2020/07/05)
 * [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/07/04)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [kuromojiにいろいろな辞書を組み込んで、テストしてみた。](https://sidestory.pandanote.info/kuromoji-result.html)(2020/06/28)<br/>kuromojiに組み込む辞書を切り替えつつ、形態素解析を試みてみました。
