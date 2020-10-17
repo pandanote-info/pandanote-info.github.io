@@ -58,7 +58,12 @@ f^{(n)}(0) &= -\frac{(2n-3)!!}{2^n} \label{eq:xatzero}
 \begin{align}
 (1-x)^{\frac{1}{2}} &= 1 - \sum_{n=1}^{\infty} \frac{(2n-3)!!}{2^n n!}x^n \label{eq:expansionsolution}
 \end{align}
-となります。$\blacksquare$
+または、$2^nn! = (2n)!!$であることを利用して、
+
+\begin{align}
+(1-x)^{\frac{1}{2}} &= 1 - \sum_{n=1}^{\infty} \frac{(2n-3)!!}{(2n)!!}x^n \label{eq:expansionsolutionsecondform}
+\end{align}
+と表すことができます。$\blacksquare$
 
 {%include secondintervalad.html %}
 
@@ -122,7 +127,10 @@ n
 よって、
 
 \begin{align}
-(1-x)^{\frac{1}{2}} &= 1 - \sum_{n=1}^{\infty}\frac{(2n-3)!!}{2^nn!}x^n \label{eq:binominalsemifinal}
+(1-x)^{\frac{1}{2}} &= 1 + \sum_{n=1}^{\infty} \begin{pmatrix}
+n-\frac{3}{2} \cr
+n
+\end{pmatrix}x^n \label{eq:binominalsemifinal}
 \end{align}
 
 と書いてしまうのもありですが…
