@@ -11,6 +11,7 @@ encoding: UTF-8
 # 九州・大分フェア開催と聞いたのでCOMPASS@横浜ベイシェラトン ホテル&タワーズで夕食。 
 ## はじめに
 横浜ベイシェラトン ホテル&タワーズのCOMPASSで九州・大分フェアを開催していると聞いたので、行ってみることにしました。
+
 {% include firstad.html %}
 ## 早速食事です。
 ### New Normal Order Buffet
