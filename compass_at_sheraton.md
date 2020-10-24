@@ -39,7 +39,7 @@ COMPASSは緊急事態宣言解除の2020年6月に行って以来(当時のツ�
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B7%E3%82%A7%E3%83%A9%E3%83%88%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#シェラトン</a> のコンパスで夕食です。🍽️<br>久々です。<br>営業再開直後のせいか、メニューの種類が少なめでした。<br>飛騨牛とオマール海老と鮑おいしいです。<br>デザートもおいしいです。🍰 <a href="https://twitter.com/hashtag/lifeinyokohama?src=hash&amp;ref_src=twsrc%5Etfw">#lifeinyokohama</a> <a href="https://t.co/M82dDRVEIe">pic.twitter.com/M82dDRVEIe</a></p>&mdash; pandanote.info (@Pandanote_info) <a href="https://twitter.com/Pandanote_info/status/1273952690649722880?ref_src=twsrc%5Etfw">June 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-横浜ベイシェラトン ホテル&タワーズが自宅から徒歩圏内なので、タイミングを見てまた行きます。
+横浜ベイシェラトン ホテル&タワーズは自宅から徒歩圏内なので、タイミングを見てまた行きます。
 
 この記事は以上です。
 ## リンク
