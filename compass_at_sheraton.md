@@ -2,7 +2,7 @@
 title: 九州・大分フェア開催と聞いたのでCOMPASS@横浜ベイシェラトン ホテル&タワーズで夕食。  - panda大学習帳外伝
 description: 九州・大分フェア開催と聞いたので、食事してきました。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2020/10/P_20201009_183524_vHDR_On_HP-scaled.jpg
+image: https://pandanote.info/wordpress/wp-content/uploads/2020/10/P_20201009_183524_vHDR_On_HP_a.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
