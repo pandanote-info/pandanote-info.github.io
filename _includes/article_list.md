@@ -1,7 +1,8 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
-* [sqrt(1-x)をx=0を中心にテイラー展開してみた。](https://sidestory.pandanote.info/taylorseries.html)(2020/10/04, Last update: 2020/10/16)<br/>sqrt(1-x)をx=0を中心にテイラー展開してみたら一般化二項係数の形式で書くと簡潔に書けることがわかったので、φ(..)メモメモ
+* [九州・大分フェア開催と聞いたのでCOMPASS@横浜ベイシェラトン ホテル&タワーズで夕食。 ](https://sidestory.pandanote.info/compass_at_sheraton.html)(2020/10/24)<br/>九州・大分フェア開催と聞いたので、食事してきました。
+* [sqrt(1-x)をx=0を中心にテイラー展開してみた。](https://sidestory.pandanote.info/taylorseries.html)(2020/10/04, Last update: 2020/10/17)<br/>sqrt(1-x)をx=0を中心にテイラー展開してみたら一般化二項係数の形式で書くと簡潔に書けることがわかったので、φ(..)メモメモ
 * [Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。](https://sidestory.pandanote.info/play-scala-svn.html)(2019/09/28, Last update: 2020/07/05)
 * [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/07/04)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [kuromojiにいろいろな辞書を組み込んで、テストしてみた。](https://sidestory.pandanote.info/kuromoji-result.html)(2020/06/28)<br/>kuromojiに組み込む辞書を切り替えつつ、形態素解析を試みてみました。
@@ -10,7 +11,6 @@
 * [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)(2019/01/18, Last update: 2020/05/22)
 * [n-bonacci数列を出力するPython3のコードを書いてみた。](https://sidestory.pandanote.info/nbonacci.html)(2020/04/26, Last update: 2020/05/02)<br/>n-bonacci数列を出力するPython3のコードを書いてみたところ、Python3のおさらいが捗った件。
 * [Play FrameworkやScalaやsbtのメモ書き。](https://sidestory.pandanote.info/play-scala-sbt.html)(2019/09/08, Last update: 2020/04/12)
-* [GitHub GistにuploadしたPHPのget_class関数の使用例をGitHub Pagesに貼り付けてみた。](https://sidestory.pandanote.info/php_get_class.html)(2020/03/28)<br/>PHPのget_class関数の使用方法を確認するための簡単なコードをGitHub Gistにuploadし、さらにそれをこのページに貼ってみました。
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -23,6 +23,7 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+* [GitHub GistにuploadしたPHPのget_class関数の使用例をGitHub Pagesに貼り付けてみた。](https://sidestory.pandanote.info/php_get_class.html)(2020/03/28)<br/>PHPのget_class関数の使用方法を確認するための簡単なコードをGitHub Gistにuploadし、さらにそれをこのページに貼ってみました。
 * [ロジスティック方程式のような微分方程式を解いてみた。](https://sidestory.pandanote.info/logistic_equation.html)(2020/02/22, Last update: 2020/03/10)<br/>ロジスティック方程式のような微分方程式を解いてみたら、計算途中の式変形の方法の相違により2通りの異なる形式の解が求まった件。
 * [サブタイトルネタ帳Classic(1-50)](https://sidestory.pandanote.info/catchphraseclassic0.html)(2020/03/07)<br/>1-50件目のサブタイトルです。
 * [サブタイトルネタ帳Classic(51-100)](https://sidestory.pandanote.info/catchphraseclassic.html)(2020/03/07)<br/>51-100件目のサブタイトルです。
