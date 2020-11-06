@@ -6,9 +6,11 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2020/03/P_20200321_11
 twitter:
   card: summary_large_image
 encoding: UTF-8
+update: Sat Nov  7 01:31:13 2020 +0900
 ---
 {% include pagelink.md %}
 # kuromojiにいろいろな辞書を組み込んで、テストしてみた。
+{% if page.update %}最終更新日: {{ page.update }} {% endif %}
 ## はじめに
 kuromojiにいろいろな辞書を組み込む機能を持たせたプログラムを書いた件については[この記事](https://pandanote.info/?p=6393)に書きましたが、辞書によって形態素解析の結果がどのように変化するのかを調べてみることにしました。
 
