@@ -1,13 +1,13 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
-* [kuromojiにいろいろな辞書を組み込んで、テストしてみた。](https://sidestory.pandanote.info/kuromoji-result.html)(2020/06/28, Last update: 2020/11/06)<br/>kuromojiに組み込む辞書を切り替えつつ、形態素解析を試みてみました。
+* [Windows10のEmacsのフォントをHackGenNerdに変更してみた(おまけつき)。](https://sidestory.pandanote.info/hackgennerd.html)(2020/06/03, Last update: 2020/11/08)<br/>Windows10のEmacsのフォントをHackGenNerdに変更する方法です。
+* [kuromojiにいろいろな辞書を組み込んで、テストしてみた。](https://sidestory.pandanote.info/kuromoji-result.html)(2020/06/28, Last update: 2020/11/07)<br/>kuromojiに組み込む辞書を切り替えつつ、形態素解析を試みてみました。
 * [九州・大分フェア開催と聞いたのでCOMPASS@横浜ベイシェラトン ホテル&タワーズで夕食。 ](https://sidestory.pandanote.info/compass_at_sheraton.html)(2020/10/24)<br/>九州・大分フェア開催と聞いたので、食事してきました。
 * [sqrt(1-x)をx=0を中心にテイラー展開してみた。](https://sidestory.pandanote.info/taylorseries.html)(2020/10/04, Last update: 2020/10/17)<br/>sqrt(1-x)をx=0を中心にテイラー展開してみたら一般化二項係数の形式で書くと簡潔に書けることがわかったので、φ(..)メモメモ
 * [Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。](https://sidestory.pandanote.info/play-scala-svn.html)(2019/09/28, Last update: 2020/07/05)
 * [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/07/04)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [OpenVPNのためのSELinuxポリシーを変更する際にポリシー名を"openvpn"にしたところ、変更に失敗した件。](https://sidestory.pandanote.info/selinux_policy_for_openvpn_server_on_fedora32.html)(2020/06/23)<br/>ポリシー名のご利用は計画的に。
-* [Windows10のEmacsのフォントをHackGenNerdに変更してみた(おまけつき)。](https://sidestory.pandanote.info/hackgennerd.html)(2020/06/03)<br/>Windows10のEmacsのフォントをHackGenNerdに変更する方法です。
 * [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)(2019/01/18, Last update: 2020/05/22)
 * [n-bonacci数列を出力するPython3のコードを書いてみた。](https://sidestory.pandanote.info/nbonacci.html)(2020/04/26, Last update: 2020/05/02)<br/>n-bonacci数列を出力するPython3のコードを書いてみたところ、Python3のおさらいが捗った件。
 * [Play FrameworkやScalaやsbtのメモ書き。](https://sidestory.pandanote.info/play-scala-sbt.html)(2019/09/08, Last update: 2020/04/12)
