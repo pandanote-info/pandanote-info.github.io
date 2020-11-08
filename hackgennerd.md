@@ -6,9 +6,11 @@ twitter:
   card: summary_large_image
 mathjax: true
 encoding: UTF-8
+update: Sun Nov  8 17:49:15 2020 +0900
 ---
 {% include pagelink.md %}
 # Windows10のEmacsのフォントをHackGenNerdに変更してみた。
+{% if page.update %}最終更新日: {{ page.update }} {% endif %}
 ## ちょっと長めの前置き
 WindowsにEmacsをインストールすると、おそらく…
 
@@ -57,7 +59,7 @@ HackGenNerdフォントのWindows10へのインストールは他のフォント
 
 <a href="https://pandanote.info/?attachment_id=6334"><img src="https://pandanote.info/wordpress/wp-content/uploads/2020/06/ricty_from_scratch_scene7.png"/></a>
 ### init.elへの設定例
-インストールの状況が確認できたら、init.el(またはそれに相当する設定ファイル)に以下の例のように記述を追加して保存します。
+インストールの状況が確認できたら、init.el(またはそれに相当する設定ファイル)に以下の例のような記述を追加して保存します。
 
 <script src="https://gist.github.com/pandanote-info/7a0c4a7380083a683d7a4538f03e95d1.js"></script>
 
