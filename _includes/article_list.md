@@ -1,6 +1,6 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
-なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示はUTC(JSTより9時間遅れです。)としています。)
+なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
 * [忙しい人のためのmatplotlibのAxes3Dのbar3d関数の引数の設定方法のメモ。](https://sidestory.pandanote.info/6890bis.html)(2020/11/21)<br/>mpl_toolkits.mplot3d.axes3d.Axes3Dクラスのbar3d関数の引数の設定の方法についてのメモです。
 * [Windows10のEmacsのフォントをHackGenNerdに変更してみた(おまけつき)。](https://sidestory.pandanote.info/hackgennerd.html)(2020/06/03, Last update: 2020/11/08)<br/>Windows10のEmacsのフォントをHackGenNerdに変更する方法です。
 * [kuromojiにいろいろな辞書を組み込んで、テストしてみた。](https://sidestory.pandanote.info/kuromoji-result.html)(2020/06/28, Last update: 2020/11/07)<br/>kuromojiに組み込む辞書を切り替えつつ、形態素解析を試みてみました。
