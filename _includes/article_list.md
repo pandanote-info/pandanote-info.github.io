@@ -1,6 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
+* [平方根の記号の高さをいい感じに揃えるために、mathstrutコマンド及びsmashコマンドを追加してみた。](https://sidestory.pandanote.info/6970bis.html)(2020/11/29)<br/>平方根の記号の高さをいい感じに揃えるために、試行錯誤した時の記録です。
 * [忙しい人のためのmatplotlibのAxes3Dのbar3d関数の引数の設定方法のメモ。](https://sidestory.pandanote.info/6890bis.html)(2020/11/21)<br/>mpl_toolkits.mplot3d.axes3d.Axes3Dクラスのbar3d関数の引数の設定の方法についてのメモです。
 * [Windows10のEmacsのフォントをHackGenNerdに変更してみた(おまけつき)。](https://sidestory.pandanote.info/hackgennerd.html)(2020/06/03, Last update: 2020/11/08)<br/>Windows10のEmacsのフォントをHackGenNerdに変更する方法です。
 * [kuromojiにいろいろな辞書を組み込んで、テストしてみた。](https://sidestory.pandanote.info/kuromoji-result.html)(2020/06/28, Last update: 2020/11/07)<br/>kuromojiに組み込む辞書を切り替えつつ、形態素解析を試みてみました。
@@ -10,7 +11,6 @@
 * [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/07/04)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [OpenVPNのためのSELinuxポリシーを変更する際にポリシー名を"openvpn"にしたところ、変更に失敗した件。](https://sidestory.pandanote.info/selinux_policy_for_openvpn_server_on_fedora32.html)(2020/06/23)<br/>ポリシー名のご利用は計画的に。
 * [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)(2019/01/18, Last update: 2020/05/22)
-* [n-bonacci数列を出力するPython3のコードを書いてみた。](https://sidestory.pandanote.info/nbonacci.html)(2020/04/26, Last update: 2020/05/02)<br/>n-bonacci数列を出力するPython3のコードを書いてみたところ、Python3のおさらいが捗った件。
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -23,6 +23,7 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+* [n-bonacci数列を出力するPython3のコードを書いてみた。](https://sidestory.pandanote.info/nbonacci.html)(2020/04/26, Last update: 2020/05/02)<br/>n-bonacci数列を出力するPython3のコードを書いてみたところ、Python3のおさらいが捗った件。
 * [Play FrameworkやScalaやsbtのメモ書き。](https://sidestory.pandanote.info/play-scala-sbt.html)(2019/09/08, Last update: 2020/04/12)
 * [GitHub GistにuploadしたPHPのget_class関数の使用例をGitHub Pagesに貼り付けてみた。](https://sidestory.pandanote.info/php_get_class.html)(2020/03/28)<br/>PHPのget_class関数の使用方法を確認するための簡単なコードをGitHub Gistにuploadし、さらにそれをこのページに貼ってみました。
 * [ロジスティック方程式のような微分方程式を解いてみた。](https://sidestory.pandanote.info/logistic_equation.html)(2020/02/22, Last update: 2020/03/10)<br/>ロジスティック方程式のような微分方程式を解いてみたら、計算途中の式変形の方法の相違により2通りの異なる形式の解が求まった件。
