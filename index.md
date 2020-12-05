@@ -27,7 +27,7 @@ GitHubのリポジトリにおけるアクティビティを箱庭の草みた�
 
 {% include fourthintervalad.html %}
 
-アクティビティのほとんどが本サイトの更新なので、これでプログラミングの能力を評価されても困る訳ですが…(´・ω・`)
+アクティビティのほとんどが本サイトの更新だったりするのと、GitHub Gistに貼り付けているコードの更新頻度の方がどちらかというと多いので、これでプログラミングの能力を評価されても困る訳ですが…(´・ω・`)
 
 <img src="https://grass-graph.moshimo.works/images/pandanote-info.png?width=800">
 
