@@ -1,12 +1,12 @@
 ---
 title: MariaDBで文字コードの設定が原因で"Foreign key constraint is incorrectly formed"と言われてしまった話。 - panda大学習帳外伝
-description: 
+description: MariaDBで文字コードの設定が原因でテーブルの作成ができなかった件を解決するまでの記録です。
 mathjax: true
 image: https://pandanote.info/wordpress/wp-content/uploads/2020/12/P_20201130_123127_vHDR_On_HP-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Dec  5 09:29:36 2020 +0900
+update: Sat Dec  5 09:31:25 2020 +0900
 ---
 {% include pagelink.md %}
 # MariaDBで文字コードの設定が原因で"Foreign key constraint is incorrectly formed"と言われてしまった話。
