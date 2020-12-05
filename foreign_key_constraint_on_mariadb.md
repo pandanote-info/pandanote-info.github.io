@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2020/12/P_20201130_12
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Dec  5 09:31:25 2020 +0900
+update: Sat Dec  5 18:35:20 2020 +0900
 ---
 {% include pagelink.md %}
 # MariaDBで文字コードの設定が原因で"Foreign key constraint is incorrectly formed"と言われてしまった話。
@@ -18,7 +18,7 @@ MariaDB 10.4.14でテーブルを後付けで追加しつつ、そのテーブ�
 "Foreign key constraint is incorrectly formed"
 ```
 
-と返されてしまい、解決に手間取ってしまって大変に遺憾であったのでここに記します。
+と返されてしまい、解決に手間取ってしまって大変に遺憾であったので、現象、原因及び解決策をここに記します。
 
 {% include firstad.html %}
 
