@@ -6,9 +6,11 @@ twitter:
   card: summary_large_image
 mathjax: true
 encoding: UTF-8
+update: Sun Dec  6 13:10:51 2020 +0900
 ---
 {% include pagelink.md %}
 # OpenVPNのためのSELinuxポリシーを変更する際にポリシー名を"openvpn"にしたところ、変更に失敗した件。
+{% if page.update %}最終更新日: {{ page.update }} {% endif %}
 ## はじめに
 [panda大学習帳のWebサーバ](https://pandanote.info/)のFedoraのバージョンを32に変更してしばらくたってからのこと。
 
@@ -57,7 +59,7 @@ SELinuxに邪魔されているようです…
 ## audit2allowでポリシーファイルを作成
 ここまでの作業はソファに寝つつ、スマホ(Zenfone4(ZE554KL))を使って作業していましたが、ここからは複雑なコマンドを入力せねばならないので、PCの前に移動です。
 
-<a href="https://pandanote.info/?attachment_id=1774"><img src="https://pandanote.info/wordpress/wp-content/uploads/2018/04/P_20180417_211403_vHDR_Auto_a.jpg"/></a>
+<a href="https://pandanote.info/?attachment_id=1774"><img width="480" src="https://pandanote.info/wordpress/wp-content/uploads/2018/04/P_20180417_211403_vHDR_Auto_a.jpg"/></a>
 
 ↑がここからの作業を行うPC(端末)になります。
 
