@@ -10,7 +10,7 @@ encoding: UTF-8
 {% include pagelink.md %}
 # OpenVPNのためのSELinuxポリシーを変更する際にポリシー名を"openvpn"にしたところ、変更に失敗した件。
 ## はじめに
-panda大学習帳のWebサーバ(https://pandanote.info/)のFedoraのバージョンを32に変更してしばらくたってからのこと。
+[panda大学習帳のWebサーバ](https://pandanote.info/)のFedoraのバージョンを32に変更してしばらくたってからのこと。
 
 スマホから上記サーバにログインしてipコマンドを実行してみたところ…
 
