@@ -56,6 +56,11 @@ Jun 21 00:00:01 pnr systemd[1]: openvpn-server@server.service: Failed with resul
 SELinuxに邪魔されているようです…
 ## audit2allowでポリシーファイルを作成
 ここまでの作業はソファに寝つつ、スマホ(Zenfone4(ZE554KL))を使って作業していましたが、ここからは複雑なコマンドを入力せねばならないので、PCの前に移動です。
+
+<a href="https://pandanote.info/?attachment_id=1774"><img src="https://pandanote.info/wordpress/wp-content/uploads/2018/04/P_20180417_211403_vHDR_Auto_a.jp"/></a>
+
+↑がここからの作業を行うPC(端末)になります。
+
 ### うまくいかなかった例
 早速、root権限で以下のコマンドを実行です。
 
