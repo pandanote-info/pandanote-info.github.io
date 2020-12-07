@@ -9,7 +9,7 @@ description: panda大学習帳外伝の大ポータルページです。
 # Welcome!! / いらっしゃいませ!!
 「panda大学習帳外伝」のページにようこそ!!
 
-このWebサイトは何者なのかについての説明は[こちら](https://sidestory.pandanote.info/about/)をご覧ください。
+このWebサイトはいったい何者なのかといったような感じについての説明は[こちら](https://sidestory.pandanote.info/about/)をご覧ください。
 
 {% include firstad.html %}
 
