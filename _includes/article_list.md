@@ -1,6 +1,8 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
+* [Python3でMariaDBのデータベースのテーブルから1個のカラムのデータを抽出する際にはひと手間かける必要があるというお話。](https://sidestory.pandanote.info/7030bis.html)(2020/12/06)<br/>Python3を使ってデータベースから1個のカラムを抽出するときは注意が必要かもしれないというお話です。
+* [OpenVPNのためのSELinuxポリシーを変更する際にポリシー名を"openvpn"にしたところ、変更に失敗した件。](https://sidestory.pandanote.info/selinux_policy_for_openvpn_server_on_fedora32.html)(2020/06/23, Last update: 2020/12/06)<br/>ポリシー名のご利用は計画的に。
 * [MariaDBで文字コードの設定が原因で"Foreign key constraint is incorrectly formed"と言われてしまった話。](https://sidestory.pandanote.info/foreign_key_constraint_on_mariadb.html)(2020/12/05)<br/>MariaDBで文字コードの設定が原因でテーブルの作成ができなかった件を解決するまでの記録です。
 * [LaTeXの平方根の記号の高さをいい感じに揃えるために、mathstrutコマンド及びsmashコマンドを追加してみた。](https://sidestory.pandanote.info/6970bis.html)(2020/11/29)<br/>平方根の記号の高さをいい感じに揃えるために、試行錯誤した時の記録です。
 * [忙しい人のためのmatplotlibのAxes3Dのbar3d関数の引数の設定方法のメモ。](https://sidestory.pandanote.info/6890bis.html)(2020/11/21)<br/>mpl_toolkits.mplot3d.axes3d.Axes3Dクラスのbar3d関数の引数の設定の方法についてのメモです。
@@ -9,8 +11,6 @@
 * [九州・大分フェア開催と聞いたのでCOMPASS@横浜ベイシェラトン ホテル&タワーズで夕食。 ](https://sidestory.pandanote.info/compass_at_sheraton.html)(2020/10/24)<br/>九州・大分フェア開催と聞いたので、食事してきました。
 * [sqrt(1-x)をx=0を中心にテイラー展開してみた。](https://sidestory.pandanote.info/taylorseries.html)(2020/10/04, Last update: 2020/10/17)<br/>sqrt(1-x)をx=0を中心にテイラー展開してみたら一般化二項係数の形式で書くと簡潔に書けることがわかったので、φ(..)メモメモ
 * [Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。](https://sidestory.pandanote.info/play-scala-svn.html)(2019/09/28, Last update: 2020/07/05)
-* [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/07/04)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
-* [OpenVPNのためのSELinuxポリシーを変更する際にポリシー名を"openvpn"にしたところ、変更に失敗した件。](https://sidestory.pandanote.info/selinux_policy_for_openvpn_server_on_fedora32.html)(2020/06/23)<br/>ポリシー名のご利用は計画的に。
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -23,6 +23,7 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+* [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/07/04)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [Twitterのウィジェットで透明な背景の画像が黒く表示されてしまう件。](https://sidestory.pandanote.info/transparency_on_twitter.html)(2019/01/18, Last update: 2020/05/22)
 * [n-bonacci数列を出力するPython3のコードを書いてみた。](https://sidestory.pandanote.info/nbonacci.html)(2020/04/26, Last update: 2020/05/02)<br/>n-bonacci数列を出力するPython3のコードを書いてみたところ、Python3のおさらいが捗った件。
 * [Play FrameworkやScalaやsbtのメモ書き。](https://sidestory.pandanote.info/play-scala-sbt.html)(2019/09/08, Last update: 2020/04/12)
