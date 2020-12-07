@@ -3,7 +3,7 @@ title: Welcome!! / いらっしゃいませ!! - panda大学習帳外伝
 description: panda大学習帳外伝の大ポータルページです。
 ---
 {% include homelink.md %}
-<div id="gcse-ad-sidestory">
+<div id="gcse-at-sidestory">
 <script async src="https://cse.google.com/cse.js?cx=0d55e505b0fb63f1f"></script>
 <div class="gcse-search"></div>
 </div>
