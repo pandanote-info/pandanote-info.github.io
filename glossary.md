@@ -1,6 +1,6 @@
 ---
 title: 用語集📒  - panda大学習帳外伝
-description: 用語集📒 
+description: 「ディレクトリ vs フォルダ」のようなもの。
 mathjax: true
 image: https://pandanote.info/wordpress/wp-content/uploads/2020/11/P_20201102_180710_vHDR_On_HP-scaled.jpg
 twitter: 
