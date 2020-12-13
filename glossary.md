@@ -2,10 +2,17 @@
 title: 用語集📒  - panda大学習帳外伝
 description: 用語集📒 
 mathjax: true
+image: https://pandanote.info/wordpress/wp-content/uploads/2020/11/P_20201102_180710_vHDR_On_HP-scaled.jpg
+twitter: 
+  card: summary_large_image
+encoding: UTF-8
+update: Sun Dec 13 16:44:18 2020 +0900
 ---
 {% include pagelink.md %}
 
 # panda大学習帳 & panda大学習帳外伝 用語集📒 
+{% if page.update %}最終更新日: {{ page.update }} {% endif %}
+## はじめに
 [panda大学習帳](https://pandanote.info/)及び[panda大学習帳外伝](https://sidestory.pandanote.info/)(以下「panda大学習帳等」と書きます。)で使用する用語についての定義づけのようなものを書いてみました。
 
 {% include firstad.html %}
@@ -46,6 +53,9 @@ panda大学習帳等では時々数式が登場します。
 
 ## コンピュータ vs コンピューター
 電子計算機方面の外来語の技術用語で、末尾に長音記号をつけてもつけなくても良いものについては、原則としてつけないで記述する方向です。
+
+## SSDやHDD等の記憶装置
+SSDやHDD等の記憶装置については、カタカナ表示を原則「ストレージ」に統一し、画面上の記載と合わせる必要がある場合に限りその他の用語を使用しています。
 
 ## リンク
 {% include pagelink.md %}
