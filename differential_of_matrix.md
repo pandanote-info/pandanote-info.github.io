@@ -1,12 +1,12 @@
 ---
 title: ちょっと気になる行列の微分の公式 - panda大学習帳外伝
-description: 
+description: 要素ごとに書き下して計算してみました。
 mathjax: true
 image: https://pandanote.info/wordpress/wp-content/uploads/2020/12/P_20201217_134242_vHDR_On_HP-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Dec 27 10:50:11 2020 +0900
+update: Sun Dec 27 10:54:19 2020 +0900
 ---
 {% include pagelink.md %}
 # ちょっと気になる行列の微分の公式
