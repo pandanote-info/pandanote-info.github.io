@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2020/12/P_20201217_13
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Dec 27 10:41:43 2020 +0900
+update: Sun Dec 27 10:43:56 2020 +0900
 ---
 {% include pagelink.md %}
 # ちょっと気になる行列の微分の公式
@@ -30,7 +30,7 @@ u_{ij} &= \sum_{k=1}^{n_2} x_{ik}w_{kj} - y_{ij} \label{eq:ufirst}
 \end{align}
 となります。
 
-したがって、$\\| XW-Y \\|^2_F$のフロベニウスノルムは(\ref{eq:ufirst})式を用いて、
+したがって、$\\| XW-Y \\|^2\_F$のフロベニウスノルムは(\ref{eq:ufirst})式を用いて、
 \begin{align}
 \\| XW-Y \\|^2_F &= \sum_{i=1}^{n_1}\sum_{j=1}^{n_3}\left(\sum_{k=1}^{n_2} x_{ik}w_{kj} - y_{ij}\right)^2 \label{eq:usecond}
 \end{align}
