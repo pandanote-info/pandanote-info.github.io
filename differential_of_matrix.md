@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2020/12/P_20201217_13
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Dec 27 10:26:24 2020 +0900
+update: Sun Dec 27 10:29:09 2020 +0900
 ---
 {% include pagelink.md %}
 # ちょっと気になる行列の微分の公式
@@ -14,9 +14,9 @@ update: Sun Dec 27 10:26:24 2020 +0900
 ## はじめに
 機械学習の本や論文を読んでいると時々登場するかもしれない行列の微分ですが、多変数(かつ多出力)の線形回帰分析を行う際に登場する、
 \begin{align}
-\frac{\partial \| XW - Y \|^2_F}{\partial W} &= 2X^T (XW-Y) \label{eq:frobeniusnorm}
+\frac{\partial \\| XW - Y \\|^2_F}{\partial W} &= 2X^T (XW-Y) \label{eq:frobeniusnorm}
 \end{align}
-($X \in \mathbb{R}^{n_1\times n_2}, W \in \mathbb{R}^{n_2\times n_3}, Y \in \mathbb{R}^{n_1\times n_3}, n_1,n_2,n_3 \in \mathbb{N}, \|\cdot\|_F\mbox{は$\cdot$のフロベニウスノルムを表します。}$)の導出方法が気になったので、成分ごとに書き下して計算してみることにします。
+($X \in \mathbb{R}^{n_1\times n_2}, W \in \mathbb{R}^{n_2\times n_3}, Y \in \mathbb{R}^{n_1\times n_3}, n_1,n_2,n_3 \in \mathbb{N},\|\cdot\|_F$は$\cdot$のフロベニウスノルムを表します。)の導出方法が気になったので、成分ごとに書き下して計算してみることにします。
 
 {% include firstad.html %}
 
