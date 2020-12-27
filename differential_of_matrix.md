@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2020/12/P_20201217_13
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Dec 27 10:46:29 2020 +0900
+update: Sun Dec 27 10:48:05 2020 +0900
 ---
 {% include pagelink.md %}
 # ちょっと気になる行列の微分の公式
@@ -55,7 +55,7 @@ u_{ij} &= \sum_{k=1}^{n_2} x_{ik}w_{kj} - y_{ij} \label{eq:ufirst}
 
 ここで、(\ref{eq:frobeniusnormthird})式右辺の括弧内に(\ref{eq:ufirst})式を用いて$w_{\alpha\beta}$で偏微分すると…
 \begin{align}
-  \frac{\partial u_{i\beta}}{\partial w_{\alpha\beta}}\,\cdot\,\frac{\partial}{\partial u_{i\beta}}u_{i\beta}^2 &= x_{i\alpha}\,\cdot\,2u_{i\beta} \nonumber \\
+  \frac{\partial u_{i\beta}}{\partial w_{\alpha\beta}}\,\cdot\,\frac{\partial}{\partial u_{i\beta}}u_{i\beta}^2 &= x_{i\alpha}\,\cdot\,2u_{i\beta} \nonumber \cr
   &= 2x_{i\alpha}\left(\sum_{k=1}^{n_2} x_{ik}w_{k\beta} - y_{i\beta}\right) \label{eq:frobeniusnormfourth}
 \end{align}
 (\ref{eq:frobeniusnormfourth})式を使って(\ref{eq:frobeniusnormthird})式を書き換えると…
