@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2020/12/P_20201217_13
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Dec 27 10:48:05 2020 +0900
+update: Sun Dec 27 10:50:11 2020 +0900
 ---
 {% include pagelink.md %}
 # ちょっと気になる行列の微分の公式
@@ -16,7 +16,7 @@ update: Sun Dec 27 10:48:05 2020 +0900
 \begin{align}
 \frac{\partial \\| XW - Y \\|^2_F}{\partial W} &= 2X^T (XW-Y) \label{eq:frobeniusnorm}
 \end{align}
-($X \in \mathbb{R}^{n_1\times n_2}, W \in \mathbb{R}^{n_2\times n_3}, Y \in \mathbb{R}^{n_1\times n_3}, n_1,n_2,n_3 \in \mathbb{N},\\|\cdot\\|_F$は$\cdot$のフロベニウスノルムを表します。)の導出方法が気になったので、成分ごとに書き下して計算してみることにします。
+($X \in \mathbb{R}^{n_1\times n_2}, W \in \mathbb{R}^{n_2\times n_3}, Y \in \mathbb{R}^{n_1\times n_3}, X^T$は$X$の転置行列、$n_1,n_2,n_3 \in \mathbb{N},\\|\cdot\\|_F$は$\cdot$のフロベニウスノルムを表します。)の導出方法が気になったので、成分ごとに書き下して計算してみることにします。
 
 {% include firstad.html %}
 
@@ -68,7 +68,7 @@ $x_{i\alpha}$は$X$の$(i,\alpha)$成分を表しますが、$X$の転置行列$
 \begin{align}
   \frac{\partial \\| XW - Y \\|^2\_F}{\partial w_{\alpha\beta}} &= 2\sum_{i=1}^{n_1}x_{\alpha i}^T\left(\sum_{k=1}^{n_2} x_{ik}w_{k\beta} - y_{i\beta}\right) \label{eq:frobeniusnormfinal}
 \end{align}
-と表すことができます。(\ref{eq:frobeniusnormfinal})式の右辺は行列$X^T(XW-Y)$の$(\alpha,\beta)$成分を表しますので、(\ref{eq:frobeniusnorm})式が成り立つことがわかります。$\blacksquare$
+と書き換えることができます。(\ref{eq:frobeniusnormfinal})式の右辺は行列$X^T(XW-Y)$の$(\alpha,\beta)$成分を表しますので、(\ref{eq:frobeniusnorm})式が成り立つことがわかります。$\blacksquare$
 
 {%include thirdintervalad.html %}
 
