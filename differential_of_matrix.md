@@ -2,11 +2,11 @@
 title: ちょっと気になる行列の微分の公式 - panda大学習帳外伝
 description: 
 mathjax: true
-image: 
+image: https://pandanote.info/wordpress/wp-content/uploads/2020/12/P_20201217_134242_vHDR_On_HP-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Dec 27 10:22:12 2020 +0900
+update: Sun Dec 27 10:26:24 2020 +0900
 ---
 {% include pagelink.md %}
 # ちょっと気になる行列の微分の公式
