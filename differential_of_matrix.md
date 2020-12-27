@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2020/12/P_20201217_13
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Dec 27 10:29:09 2020 +0900
+update: Sun Dec 27 10:30:50 2020 +0900
 ---
 {% include pagelink.md %}
 # ちょっと気になる行列の微分の公式
@@ -30,9 +30,9 @@ u_{ij} &= \sum_{k=1}^{n_2} x_{ik}w_{kj} - y_{ij} \label{eq:ufirst}
 \end{align}
 となります。
 
-したがって、$\| XW-Y \|_F^2$は(\ref{eq:ufirst})式を用いて、
+したがって、$\\| XW-Y \\|_F^2$は(\ref{eq:ufirst})式を用いて、
 \begin{align}
-\| XW-Y \|_F^2 &= \sum_{i=1}^{n_1}\sum_{j=1}^{n_3}\left(\sum_{k=1}^{n_2} x_{ik}w_{kj} - y_{ij}\right)^2 \label{eq:usecond}
+\\| XW-Y \\|_F^2 &= \sum_{i=1}^{n_1}\sum_{j=1}^{n_3}\left(\sum_{k=1}^{n_2} x_{ik}w_{kj} - y_{ij}\right)^2 \label{eq:usecond}
 \end{align}
 と書くことができます。
 
@@ -43,13 +43,13 @@ u_{ij} &= \sum_{k=1}^{n_2} x_{ik}w_{kj} - y_{ij} \label{eq:ufirst}
 
 すると…
 \begin{align}
-  \frac{\partial \| XW - Y \|^2_F}{\partial w_{\alpha\beta}} &= \frac{\partial}{\partial w_{\alpha\beta}} \left[ \sum_{i=1}^{n_1}\sum_{j=1}^{n_3}\left(\sum_{k=1}^{n_2} x_{ik}w_{kj} - y_{ij}\right)^2 \right] \label{eq:frobeniusnormsecond}
+  \frac{\partial \\| XW - Y \\|^2_F}{\partial w_{\alpha\beta}} &= \frac{\partial}{\partial w_{\alpha\beta}} \left[ \sum_{i=1}^{n_1}\sum_{j=1}^{n_3}\left(\sum_{k=1}^{n_2} x_{ik}w_{kj} - y_{ij}\right)^2 \right] \label{eq:frobeniusnormsecond}
 \end{align}
 となります。ここで、(\ref{eq:frobeniusnormsecond})式右辺のsummationのうち、2番目のものについては$j=\beta$の場合のみ$w_{\alpha\beta}$を含む項が存在し、かつそれらの項は$w_{\alpha\beta}$で偏微分しても0になりません。
 
 したがって、(\ref{eq:frobeniusnormsecond})式の右辺は、
 \begin{align}
-\frac{\partial \| XW - Y \|^2_F}{\partial w_{\alpha\beta}} &= \frac{\partial}{\partial w_{\alpha\beta}} \left[ \sum_{i=1}^{n_1}\left(\sum_{k=1}^{n_2} x_{ik}w_{k\beta} - y_{i\beta}\right)^2 \right] \label{eq:frobeniusnormthird}
+\frac{\partial \\| XW - Y \\|^2_F}{\partial w_{\alpha\beta}} &= \frac{\partial}{\partial w_{\alpha\beta}} \left[ \sum_{i=1}^{n_1}\left(\sum_{k=1}^{n_2} x_{ik}w_{k\beta} - y_{i\beta}\right)^2 \right] \label{eq:frobeniusnormthird}
 \end{align}
 と書き換えることができます。
 
@@ -66,7 +66,7 @@ $x_{i\alpha}$は$X$の$(i,\alpha)$成分を表しますが、$X$の転置行列$
 
 よって、
 \begin{align}
-  \frac{\partial \| XW - Y \|^2_F}{\partial w_{\alpha\beta}} &= 2\sum_{i=1}^{n_1}x_{\alpha i}^T\left(\sum_{k=1}^{n_2} x_{ik}w_{k\beta} - y_{i\beta}\right) \label{eq:frobeniusnormfinal}
+  \frac{\partial \\| XW - Y \\|^2_F}{\partial w_{\alpha\beta}} &= 2\sum_{i=1}^{n_1}x_{\alpha i}^T\left(\sum_{k=1}^{n_2} x_{ik}w_{k\beta} - y_{i\beta}\right) \label{eq:frobeniusnormfinal}
 \end{align}
 と表すことができます。(\ref{eq:frobeniusnormfinal})式の右辺は行列$X^T(XW-Y)$の$(\alpha,\beta)$成分を表しますので、(\ref{eq:frobeniusnorm})式が成り立つことがわかります。$\blacksquare$
 
@@ -77,7 +77,7 @@ $W$は重みづけ関数、$X$は変数、$Y$は出力の意味合いでそれ�
 
 また、$X$を$n_2$の横ベクトル(入力ベクトル)を$n_1$個積み重ねたものと考えると、(\ref{eq:frobeniusnorm})式において、
 \begin{align}
-\frac{1}{n_1}\|XW-Y\|_F^2 &= L(W) \label{eq:lossfunction}
+\frac{1}{n_1}\\|XW-Y\\|_F^2 &= L(W) \label{eq:lossfunction}
 \end{align}
 とおくと、$L(W)$は損失関数そのものを表していたりします。
 
