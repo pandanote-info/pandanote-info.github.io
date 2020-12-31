@@ -29,7 +29,7 @@ WordpressはRDBMS(通常はMariaDBかMySQL)に記事のデータを格納して�
 
 Wordpressで公開中の記事の中から特定の文字列(以下の例では"panda大学習帳")を含む記事のIDを得るためには以下のSQL文を実行します。
 
-```
+```SQL
 select ID from wp_posts where post_status='publish' and post_content like '%panda大学習帳%' and post_type in ('page','post');
 ```
 
