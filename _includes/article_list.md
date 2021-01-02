@@ -1,6 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
+* [convert everything to "struct proc_ops"する必要が生じたので、Intel NUCのLED操作用のドライバのコードを書き換えてみた。](https://sidestory.pandanote.info/7132bis.html)(2021/01/02)<br/>久々にLinuxのドライバのコードを触ってみました。
 * [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/12/31)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [ちょっと気になる行列の微分の公式](https://sidestory.pandanote.info/differential_of_matrix.html)(2020/12/27)<br/>要素ごとに書き下して計算してみました。
 * [用語集📒 ](https://sidestory.pandanote.info/glossary.html)(2019/02/19, Last update: 2020/12/13)
@@ -10,7 +11,6 @@
 * [LaTeXの平方根の記号の高さをいい感じに揃えるために、mathstrutコマンド及びsmashコマンドを追加してみた。](https://sidestory.pandanote.info/6970bis.html)(2020/11/29)<br/>平方根の記号の高さをいい感じに揃えるために、試行錯誤した時の記録です。
 * [忙しい人のためのmatplotlibのAxes3Dのbar3d関数の引数の設定方法のメモ。](https://sidestory.pandanote.info/6890bis.html)(2020/11/21)<br/>mpl_toolkits.mplot3d.axes3d.Axes3Dクラスのbar3d関数の引数の設定の方法についてのメモです。
 * [Windows10のEmacsのフォントをHackGenNerdに変更してみた(おまけつき)。](https://sidestory.pandanote.info/hackgennerd.html)(2020/06/03, Last update: 2020/11/08)<br/>Windows10のEmacsのフォントをHackGenNerdに変更する方法です。
-* [kuromojiにいろいろな辞書を組み込んで、テストしてみた。](https://sidestory.pandanote.info/kuromoji-result.html)(2020/06/28, Last update: 2020/11/07)<br/>kuromojiに組み込む辞書を切り替えつつ、形態素解析を試みてみました。
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -23,6 +23,7 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+* [kuromojiにいろいろな辞書を組み込んで、テストしてみた。](https://sidestory.pandanote.info/kuromoji-result.html)(2020/06/28, Last update: 2020/11/07)<br/>kuromojiに組み込む辞書を切り替えつつ、形態素解析を試みてみました。
 * [九州・大分フェア開催と聞いたのでCOMPASS@横浜ベイシェラトン ホテル&タワーズで夕食。 ](https://sidestory.pandanote.info/compass_at_sheraton.html)(2020/10/24)<br/>九州・大分フェア開催と聞いたので、食事してきました。
 * [sqrt(1-x)をx=0を中心にテイラー展開してみた。](https://sidestory.pandanote.info/taylorseries.html)(2020/10/04, Last update: 2020/10/17)<br/>sqrt(1-x)をx=0を中心にテイラー展開してみたら一般化二項係数の形式で書くと簡潔に書けることがわかったので、φ(..)メモメモ
 * [Play Frameworkを使って作ったWebアプリケーションのプロジェクトをSubversionのリポジトリにimportしてみた。](https://sidestory.pandanote.info/play-scala-svn.html)(2019/09/28, Last update: 2020/07/05)

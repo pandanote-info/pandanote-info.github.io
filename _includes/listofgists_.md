@@ -712,7 +712,7 @@
 
 ## dump_movie_sidestory_sample.py
 * Created at: 2018-09-19T21:56:20Z
-* Updated at: 2018-11-03T12:10:20Z
+* Updated at: 2020-12-31T13:03:07Z
 * Descrption: YouTube Data API (v3)を使って、アップロードした動画についてのメタ情報を取得し、HTMLフォーマットで出力するPython3のスクリプト。
 * [Link to Gist](https://gist.github.com/1c7bebb64b4384c3f38068d7f4d66dd4)
 * Referenced from: 
