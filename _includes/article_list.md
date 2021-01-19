@@ -1,8 +1,8 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
+* [WordPressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2021/01/19)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [convert everything to "struct proc_ops"する必要が生じたので、Intel NUCのLED操作用のドライバのコードを書き換えてみた。](https://sidestory.pandanote.info/7132bis.html)(2021/01/02)<br/>久々にLinuxのドライバのコードを触ってみました。
-* [Wordpressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2020/12/31)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [ちょっと気になる行列の微分の公式](https://sidestory.pandanote.info/differential_of_matrix.html)(2020/12/27)<br/>要素ごとに書き下して計算してみました。
 * [用語集📒 ](https://sidestory.pandanote.info/glossary.html)(2019/02/19, Last update: 2020/12/13)
 * [Python3でMariaDBのデータベースのテーブルから1個のカラムのデータを抽出する際にはひと手間かける必要があるというお話。](https://sidestory.pandanote.info/7030bis.html)(2020/12/06, Last update: 2020/12/07)<br/>Python3を使ってデータベースから1個のカラムを抽出するときは注意が必要かもしれないというお話です。
