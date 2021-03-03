@@ -1,3 +1,8 @@
+## xtzjpy_sample.py
+* Created at: 2021-03-03T12:07:14Z
+* Descrption: Web APIを使ってXTZ(Tezos)とJPYの参考レートを表示するPython3のプログラム。
+* [Link to Gist](https://gist.github.com/02d251110d711471086dddbde025d90b)
+
 ## startgrowi.sh
 * Created at: 2021-02-04T13:28:55Z
 * Updated at: 2021-02-04T13:37:14Z

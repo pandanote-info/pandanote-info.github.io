@@ -1,6 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
+* [Web APIを使ってXTZ(Tezos)とJPYの参考レートを表示するPython3のプログラムを作ってみた。](https://sidestory.pandanote.info/xtzjpy.html)(2021/03/03)<br/>XTZUSDを取得するAPIとUSDJPYを取得するWeb APIを使って計算で求めてます。
 * [テゾス(Tezos)を買ってきて、Galleonのウォレットに入れてみた話(人柱的紆余曲折編)💰](https://sidestory.pandanote.info/7281bis.html)(2021/02/22)<br/>Google先生の検索結果で上位に出た情報であっても、古い情報は信じてはいけませんよ的な話です。
 * [convert everything to "struct proc_ops"する必要が生じたので、Intel NUCのLED操作用のドライバのコードを書き換えてみた。](https://sidestory.pandanote.info/7132bis.html)(2021/01/02, Last update: 2021/02/22)<br/>久々にLinuxのドライバのコードを触ってみました。
 * [サブタイトルネタ帳Classic(101-150)](https://sidestory.pandanote.info/catchphraseclassic.html)(2020/03/07, Last update: 2021/02/20)<br/>101-150件目のサブタイトルです。
@@ -10,7 +11,6 @@
 * [用語集📒 ](https://sidestory.pandanote.info/glossary.html)(2019/02/19, Last update: 2020/12/13)
 * [Python3でMariaDBのデータベースのテーブルから1個のカラムのデータを抽出する際にはひと手間かける必要があるというお話。](https://sidestory.pandanote.info/7030bis.html)(2020/12/06, Last update: 2020/12/07)<br/>Python3を使ってデータベースから1個のカラムを抽出するときは注意が必要かもしれないというお話です。
 * [OpenVPNのためのSELinuxポリシーを変更する際にポリシー名を"openvpn"にしたところ、変更に失敗した件。](https://sidestory.pandanote.info/selinux_policy_for_openvpn_server_on_fedora32.html)(2020/06/23, Last update: 2020/12/06)<br/>ポリシー名のご利用は計画的に。
-* [MariaDBで文字コードの設定が原因で"Foreign key constraint is incorrectly formed"と言われてしまった話。](https://sidestory.pandanote.info/foreign_key_constraint_on_mariadb.html)(2020/12/05)<br/>MariaDBで文字コードの設定が原因でテーブルの作成ができなかった件を解決するまでの記録です。
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -23,6 +23,7 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+* [MariaDBで文字コードの設定が原因で"Foreign key constraint is incorrectly formed"と言われてしまった話。](https://sidestory.pandanote.info/foreign_key_constraint_on_mariadb.html)(2020/12/05)<br/>MariaDBで文字コードの設定が原因でテーブルの作成ができなかった件を解決するまでの記録です。
 * [LaTeXの平方根の記号の高さをいい感じに揃えるために、mathstrutコマンド及びsmashコマンドを追加してみた。](https://sidestory.pandanote.info/6970bis.html)(2020/11/29)<br/>平方根の記号の高さをいい感じに揃えるために、試行錯誤した時の記録です。
 * [忙しい人のためのmatplotlibのAxes3Dのbar3d関数の引数の設定方法のメモ。](https://sidestory.pandanote.info/6890bis.html)(2020/11/21)<br/>mpl_toolkits.mplot3d.axes3d.Axes3Dクラスのbar3d関数の引数の設定の方法についてのメモです。
 * [Windows10のEmacsのフォントをHackGenNerdに変更してみた(おまけつき)。](https://sidestory.pandanote.info/hackgennerd.html)(2020/06/03, Last update: 2020/11/08)<br/>Windows10のEmacsのフォントをHackGenNerdに変更する方法です。
