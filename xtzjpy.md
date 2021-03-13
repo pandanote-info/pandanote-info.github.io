@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/03/P_20210225_19
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Mar 13 13:15:13 2021 +0900
+update: Sat Mar 13 13:19:40 2021 +0900
 ---
 {% include pagelink.md %}
 # Web APIを使ってXTZとJPYの参考レートを表示するPython3のプログラムを作ってみた。
@@ -27,8 +27,10 @@ update: Sat Mar 13 13:15:13 2021 +0900
 
 XTZUSD及びUSDJPYの値は以下のWeb APIにアクセスして取得しています。
 
-* XTZUSD: TzStatsのWeb API(上記プログラムの30行目)
-* USDJPY: Foreign exchange rates API(上記プログラムの45行目)
+* XTZUSD: TzStatsのWeb API(上記プログラムの30行目,下記参照)
+<script src="https://gist-it.appspot.com/https://github.com/pandanote-info/xtzjpy/blob/main/xtzjpy.py?slice=29"></script>
+* USDJPY: Foreign exchange rates API(上記プログラムの45行目,下記参照)
+<script src="https://gist-it.appspot.com/https://github.com/pandanote-info/xtzjpy/blob/main/xtzjpy.py?slice=44"></script>
 
 Foreign exchange rates APIの値は1日に1回しか更新されませんので、法定通貨間の為替レートに急激な変動にはすぐには追従できないかもしれません。
 
