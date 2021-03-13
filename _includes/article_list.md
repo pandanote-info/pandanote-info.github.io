@@ -1,7 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
-* [Web APIを使ってXTZ(Tezos)とJPYの参考レートを表示するPython3のプログラムを作ってみた。](https://sidestory.pandanote.info/xtzjpy.html)(2021/03/03)<br/>XTZUSDを取得するAPIとUSDJPYを取得するWeb APIを使って計算で求めてます。
+* [Web APIを使ってXTZ(Tezos)とJPYの参考レートを表示するPython3のプログラムを作ってみた。](https://sidestory.pandanote.info/xtzjpy.html)(2021/03/03, Last update: 2021/03/13)<br/>XTZUSDを取得するAPIとUSDJPYを取得するWeb APIを使って計算で求めてます。
 * [テゾス(Tezos)を買ってきて、Galleonのウォレットに入れてみた話(人柱的紆余曲折編)💰](https://sidestory.pandanote.info/7281bis.html)(2021/02/22)<br/>Google先生の検索結果で上位に出た情報であっても、古い情報は信じてはいけませんよ的な話です。
 * [convert everything to "struct proc_ops"する必要が生じたので、Intel NUCのLED操作用のドライバのコードを書き換えてみた。](https://sidestory.pandanote.info/7132bis.html)(2021/01/02, Last update: 2021/02/22)<br/>久々にLinuxのドライバのコードを触ってみました。
 * [サブタイトルネタ帳Classic(101-150)](https://sidestory.pandanote.info/catchphraseclassic.html)(2020/03/07, Last update: 2021/02/20)<br/>101-150件目のサブタイトルです。
