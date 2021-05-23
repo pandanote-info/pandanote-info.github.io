@@ -6,7 +6,7 @@ image:
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun May 23 00:45:00 2021 +0900
+update: Sun May 23 13:28:56 2021 +0900
 ---
 {% include pagelink.md %}
 # Java8のラムダ式を使って配列の配列の要素数の総和を1行で求める。
@@ -26,23 +26,25 @@ update: Sun May 23 00:45:00 2021 +0900
 ### レガシーなコード
 まず、ラムダ式を使わずに書いてみます。
 ```
-	public static void test1(Map<Integer,Set<Integer>> a) {
-		int count = 0;
-		for (Entry<Integer,Set<Integer>> e: a.entrySet()) {
-			count += e.getValue().size();
-		}
-		System.out.println(count);
-		return;		
+public static void test1(Map<Integer,Set<Integer>> a) {
+	int count = 0;
+	for (Entry<Integer,Set<Integer>> e: a.entrySet()) {
+		count += e.getValue().size();
 	}
+	System.out.println(count);
+	return;		
+}
 ```
 カウントの途中結果を格納するための変数を用意しなければならなかったり、途中で処理の最終結果にはあまり関係なさそうな型(Entry)が登場するのがちょっと気になるところです。
 ### ラムダ式を使ったコード
 次にラムダ式を使って書いてみます。
 ```
-	public static void test2(Map<Integer,Set<Integer>> a) {
-		System.out.println(a.entrySet().stream().mapToInt(e -> e.getValue().size()).sum());
-	}
+public static void test2(Map<Integer,Set<Integer>> a) {
+	System.out.println(a.entrySet().stream().mapToInt(e -> e.getValue().size()).sum());
+}
 ```
+mapToInt()メソッドを適用することで配列ごとの要素数を要素として持つ配列へのstream(IntStream)を返しますので、sum()メソッドを実行してそれらの総和を計算しています。
+
 ラムダ式を用いて記述すると自然な記述方法で1行で書けます。
 
 streamメソッドは直感的かとか流れるインタフェースかとかいわれると微妙なところはありますが、少なくともメソッドチェーンの形成には一役買っていると思います。
@@ -72,7 +74,9 @@ streamメソッドは直感的かとか流れるインタフェースかとか�
 
 {%include thirdintervalad.html %}
 ## まとめ
-mapToIntメソッドが存在することを忘れないようにするためのメモ書き的な記事になっていますが、(Scalaほどではないものの)
+mapToIntメソッド及びsumメソッドが存在することを忘れないようにするためのメモ書き的な記事になっていますが、他のメソッドについても隙あらば使っていきたいと考えています。
+
+ラムダ式を使わなくても何となくコードが書けてしまうので、「プログラムが動いているかどうか」にのみ興味がある人に対してその良さを説明するのは難しい面はあるかと思いますが、コードを作ったりメンテナンスする人にとっては可読性は大事だと考えていますので、隙あらば使っていきたいと考えています。
 
 この記事は以上です。
 ## リンク
