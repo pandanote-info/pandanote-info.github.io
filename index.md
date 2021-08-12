@@ -5,7 +5,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/08/Screenshot_20
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Thu Aug 12 19:49:28 2021 +0900
+update: Thu Aug 12 19:54:52 2021 +0900
 ---
 {% include homelink.md %}
 
@@ -26,7 +26,11 @@ update: Thu Aug 12 19:49:28 2021 +0900
 {% include thirdintervalad.html %}
 
 # Tipping with Brave brower / Braveブラウザでチップを送る
-本サイトはBraveクリエータとしての設定を行っているため、Braveブラウザでの閲覧時にベーシックアテンショントークン(BAT)によるチップをいただくと、中の人のモチベーションを向上させることができます。
+本サイト、panda大学習帳及び第三倉庫(仮)の各Webサイトは、Brave Creatorsとしての設定を行っています。
+
+よって、Braveブラウザでの閲覧時にベーシックアテンショントークン(BAT)によるチップをいただくことができます。
+
+チップをいただけると、中の人のモチベーションを向上させることができる可能性が大いにあります。
 
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=12&l=ur1&category=amazonrotate&f=ifr&linkID=74ba4d7eca10219e9a995ec6f89e9bbf&t=karen99-22&tracking_id=karen99-22" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
