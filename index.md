@@ -5,7 +5,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/08/Screenshot_20
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Thu Aug 12 18:00:17 2021 +0900
+update: Thu Aug 12 18:52:52 2021 +0900
 ---
 {% include homelink.md %}
 
@@ -41,6 +41,7 @@ update: Thu Aug 12 18:00:17 2021 +0900
 {% include fourthintervalad.html %}
 
 # Twitter
+Twitterで運用情報等を時々ツイートしています(公式見解)。
 {% include twitter.md %}
 
 # Links / リンク
