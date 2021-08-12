@@ -1,8 +1,8 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
+* [Termux上のEmacsで実際に日本語の文章を書いてみたところ、割と普通に書けた件。📝](https://sidestory.pandanote.info/7698bis.html)(2021/08/07, Last update: 2021/08/12)<br/>割と書けますね。
 * [関数の積をn回微分する。](https://sidestory.pandanote.info/differential_of_product.html)(2021/08/12)<br/>関数の積をn回積分してみた。
-* [Termux上のEmacsで実際に日本語の文章を書いてみたところ、割と普通に書けた件。📝](https://sidestory.pandanote.info/7698bis.html)(2021/08/07)<br/>割と書けますね。
 * [テゾス(Tezos)を買ってきて、Galleonのウォレットに入れてみた話(人柱的紆余曲折編)💰](https://sidestory.pandanote.info/7281bis.html)(2021/02/22, Last update: 2021/07/11)<br/>Google先生の検索結果で上位に出た情報であっても、古い情報は信じてはいけませんよ的な話です。
 * [Java8のラムダ式を使って配列の配列の要素数の総和を1行で求める。](https://sidestory.pandanote.info/lambda_expression_in_Java8.html)(2021/05/23)<br/>ラムダ式を使うとコードが簡潔に書けるようになった件について書きました。
 * [Web APIを使ってXTZ(Tezos)とJPYの参考レートを表示するPython3のプログラムを作ってみた。](https://sidestory.pandanote.info/xtzjpy.html)(2021/03/03, Last update: 2021/03/13)<br/>XTZUSDを取得するAPIとUSDJPYを取得するWeb APIを使って計算で求めてます。
