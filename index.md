@@ -1,11 +1,11 @@
 ---
 title: Welcome!! / いらっしゃいませ!! - panda大学習帳外伝
 description: panda大学習帳外伝の大ポータルページです。
-image: https://pandanote.info/wordpress/wp-content/uploads/2021/08/Screenshot_20210806-121752799.jpg
+image: https://pandanote.info/wordpress/wp-content/uploads/2021/08/P_20210626_110708_a-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Thu Aug 12 19:54:52 2021 +0900
+update: Thu Aug 12 21:21:41 2021 +0900
 ---
 {% include homelink.md %}
 
