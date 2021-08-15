@@ -12,7 +12,7 @@
 * [WordPressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2021/01/26)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [ちょっと気になる行列の微分の公式](https://sidestory.pandanote.info/differential_of_matrix.html)(2020/12/27)<br/>要素ごとに書き下して計算してみました。
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
@@ -34,7 +34,7 @@
 * [九州・大分フェア開催と聞いたのでCOMPASS@横浜ベイシェラトン ホテル&タワーズで夕食。 ](https://sidestory.pandanote.info/compass_at_sheraton.html)(2020/10/24)<br/>九州・大分フェア開催と聞いたので、食事してきました。
 * [sqrt(1-x)をx=0を中心にテイラー展開してみた。](https://sidestory.pandanote.info/taylorseries.html)(2020/10/04, Last update: 2020/10/17)<br/>sqrt(1-x)をx=0を中心にテイラー展開してみたら一般化二項係数の形式で書くと簡潔に書けることがわかったので、φ(..)メモメモ
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
@@ -56,7 +56,7 @@
 * [1/(x^3+a^3)を部分分数展開してみた。](https://sidestory.pandanote.info/5020bis.html)(2019/08/11, Last update: 2019/12/13)
 * [マルチカラーな積分経路。](https://sidestory.pandanote.info/4310bis.html)(2019/04/26, Last update: 2019/12/12)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
@@ -78,7 +78,7 @@
 * [標準正規分布に従う独立な2個の確率変数の積が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3657bis.html)(2019/01/12, Last update: 2019/11/14)
 * [sin(pi/5)及びcos(pi/5)を計算してみた。](https://sidestory.pandanote.info/sine_one_fifth_of_pi.html)(2019/10/12, Last update: 2019/11/14)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
