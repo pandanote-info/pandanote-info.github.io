@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/03/P_20210225_19
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Mar 13 13:21:51 2021 +0900
+update: Sat Aug 28 14:30:33 2021 +0900
 ---
 {% include pagelink.md %}
 # Web APIを使ってXTZとJPYの参考レートを表示するPython3のプログラムを作ってみた。
@@ -26,6 +26,8 @@ GitHubのリポジトリは[こちら](https://github.com/pandanote-info/xtzjpy/
 なお、以下のプログラム及びプログラムを実行した得られた結果については全くの無保証です。
 
 <script src="https://gist-it.appspot.com/https://github.com/pandanote-info/xtzjpy/blob/main/xtzjpy.py"></script>
+
+(※表示されない場合は[こちら](https://github.com/pandanote-info/xtzjpy/blob/main/xtzjpy.py)をご覧ください。)
 
 XTZUSD及びUSDJPYの値は以下のWeb APIにアクセスして取得しています。
 
