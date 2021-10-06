@@ -1,12 +1,12 @@
 ---
 title: if文を使わないで旬を求める。 - panda大学習帳外伝
-description: 
+description: 日付からif文を使わないで、その日付が上旬、中旬、下旬のいずれであるかを求める方法を考えてみました。
 mathjax: true
 image: https://pandanote.info/wordpress/wp-content/uploads/2021/10/P_20211001_072058b.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Thu Oct  7 07:49:25 2021 +0900
+update: Thu Oct  7 08:34:56 2021 +0900
 ---
 {% include pagelink.md %}
 # if文を使わないで旬を求める。
@@ -211,10 +211,9 @@ sqlite> select day,cast(day/10.2 as int) from decade_test;
 {%include thirdintervalad.html %}
 
 ## まとめ
-「Numerical Recipes in C」に3月1日からの経過日数(2月末日までは前の年の3月1日からの経過日数)を入力として、対応する月を出力するようなプログラムの例が掲載されています。
+SQL文で任意の日付に対して上旬、中旬、下旬の区別ができるようになると、それらの日付に紐づいているレコードをgroup by句を用いてまとめることでおおよそ10日ごとの合計や平均値などを求めることができます。
 
-この記事の例よりも複雑な例((\ref{eq:conditionone})式から(\ref{eq:conditionthree})式に相当する部分の式の数が増えます。)になりますが、この部分の解説が一切ないのでなんでそうなるのかはあまり検討されないままコーディングされて使われている予感がします…
-
+そこで、「ある連続した日数を対象としたデータ列があったときに、そのデータ列についての統計を取りたいが、月ごとという括りは残しつつ、1ヵ月よりは短い連続した日数を1つの単位として区切り、その単位ごとの統計としたい。」という場合には上旬、中旬、下旬という「旬」を単位とすることができそうです。
 ## リンク
 {% include pagelink.md %}
 
