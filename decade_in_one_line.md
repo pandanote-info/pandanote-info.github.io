@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/10/P_20211001_07
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Wed Oct  6 23:44:00 2021 +0900
+update: Wed Oct  6 23:44:54 2021 +0900
 ---
 {% include pagelink.md %}
 # if文を使わないで旬を求める。
@@ -64,7 +64,7 @@ if文を使う手もなくはないですが、人間は上記の質問の答え
 
 が成り立てば良さそうです。
 
-条件式(\ref{eq:conditionone})から条件式(\ref{eq:conditionthree})に向かうに連れて条件が厳しくなり、aの取りうる値の範囲を少しずつ狭くしてくれます。
+条件式(\ref{eq:conditionone})から条件式(\ref{eq:conditionthree})に向かうに連れて条件が厳しくなり、$a$の取りうる値の範囲を少しずつ狭くしてくれます。
 
 上記の条件をすべて満たす$a$の範囲は
 
