@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/10/P_20211001_07
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Wed Oct  6 23:44:54 2021 +0900
+update: Thu Oct  7 07:49:25 2021 +0900
 ---
 {% include pagelink.md %}
 # if文を使わないで旬を求める。
@@ -24,9 +24,9 @@ update: Wed Oct  6 23:44:54 2021 +0900
 
 というような注意喚起が必要になったりします。
 
-ところで、月を上旬、中旬、下旬に3分割する場合、
+ところで、月を上旬、中旬または下旬に3分割する場合、
 
-人間なら例えば
+人間なら例えば、
 
 「15日は上旬、中旬、下旬のうちどの旬に属しますか?」
 
@@ -211,7 +211,7 @@ sqlite> select day,cast(day/10.2 as int) from decade_test;
 {%include thirdintervalad.html %}
 
 ## まとめ
-Numerical Recipes in Cにこれの入力が日(3月1日からの経過日数(2月末日までは前の年の3月1日からの経過日数))、出力が月になるようなプログラムの例が掲載されています。
+「Numerical Recipes in C」に3月1日からの経過日数(2月末日までは前の年の3月1日からの経過日数)を入力として、対応する月を出力するようなプログラムの例が掲載されています。
 
 この記事の例よりも複雑な例((\ref{eq:conditionone})式から(\ref{eq:conditionthree})式に相当する部分の式の数が増えます。)になりますが、この部分の解説が一切ないのでなんでそうなるのかはあまり検討されないままコーディングされて使われている予感がします…
 
