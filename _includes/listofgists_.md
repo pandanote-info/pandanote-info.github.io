@@ -1,3 +1,10 @@
+## twitter-card.php
+* Created at: 2021-09-19T11:16:21Z
+* Updated at: 2021-09-19T11:25:50Z
+* Descrption: カテゴリのページの表示時にも対応したTwitter Cardの設定用のプログラム。
+* Referenced from: 
+    * [WordPressのカテゴリのページ用のTwitter Cardを作成するためのプログラム例](https://pandanote.info/?p=7924)
+
 ## CountElement.java
 * Created at: 2021-05-22T14:45:52Z
 * Descrption: 配列の配列の要素数の総和を求めるメソッドをJava8のラムダ式を使わない場合と使った場合の2通りの方法で書いたプログラム。
