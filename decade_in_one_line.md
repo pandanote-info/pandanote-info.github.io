@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/10/P_20211001_07
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Wed Oct  6 23:40:20 2021 +0900
+update: Wed Oct  6 23:44:00 2021 +0900
 ---
 {% include pagelink.md %}
 # if文を使わないで旬を求める。
@@ -75,7 +75,7 @@ if文を使う手もなくはないですが、人間は上記の質問の答え
 になりますので、例えば $a = \displaystyle\frac{27}{5} (=10.4)$とおいて
 
 \begin{align}
-f(x) &= \lfloor \displaystyle\frac{5}{27}x \rfloor \label{eq:function}
+f(x) &= \left\lfloor \displaystyle\frac{5}{27}x \right\rfloor \label{eq:function}
 \end{align}
 
 という関数を考えると、$1 \le x \le 31$の範囲の整数$x$について$f(x)$が所望の値を出力してくれそうです。
