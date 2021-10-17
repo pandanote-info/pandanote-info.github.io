@@ -1,7 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
-* [Windows 10からROG Phone 5(ZS673KS)へCUIのコマンドを使ってBluetooth経由でファイルを転送する。](https://sidestory.pandanote.info/7713bis.html)(2021/10/17)<br/>Bluetooth経由でのファイル転送をコマンドプロンプトから行う方法です。
+* [Windows 10のPCからROG Phone 5(ZS673KS)へCUIのコマンドを使ってBluetooth経由でファイルを転送する。](https://sidestory.pandanote.info/7713bis.html)(2021/10/17)<br/>Bluetooth経由でのファイル転送をコマンドプロンプトから行う方法です。
 * [if文を使わないで旬を求める。](https://sidestory.pandanote.info/decade_in_one_line.html)(2021/10/06, Last update: 2021/10/07)<br/>日付からif文を使わないで、その日付が上旬、中旬、下旬のいずれであるかを求める方法を考えてみました。
 * [Termux上のEmacsで実際に日本語の文章を書いてみたところ、割と普通に書けた件。📝](https://sidestory.pandanote.info/7698bis.html)(2021/08/07, Last update: 2021/10/06)<br/>割と書けますね。
 * [Web APIを使ってXTZ(Tezos)とJPYの参考レートを表示するPython3のプログラムを作ってみた。](https://sidestory.pandanote.info/xtzjpy.html)(2021/03/03, Last update: 2021/08/28)<br/>XTZUSDを取得するAPIとUSDJPYを取得するWeb APIを使って計算で求めてます。
