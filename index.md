@@ -5,12 +5,12 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/08/P_20210626_11
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Thu Aug 12 21:21:41 2021 +0900
+update: Sun Oct 17 20:10:58 2021 +0900
 ---
 {% include homelink.md %}
 
 # Welcome!! / いらっしゃいませ!!
-{% if page.update %}本ページの最終更新日: {{ page.update }} {% endif %}
+{% if page.update %}本ページの最終更新日(本Webサイトの記事一覧部を除く。): {{ page.update }} {% endif %}
 
 「panda大学習帳外伝」のページにようこそ!!
 
