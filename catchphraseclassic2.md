@@ -67,8 +67,5 @@ encoding: UTF-8
 </ol>
 
 ## リンク
-[サブタイトルネタ帳Classic](https://sidestory.pandanote.info/catchphraseclassic.html): (
-[51-100](https://sidestory.pandanote.info/catchphraseclassic1.html)\|[1-50](https://sidestory.pandanote.info/catchphraseclassic0.html)
-) \|
-[サブタイトルネタ帳](https://pandanote.info/catchphrase) \| {% include pagelink.md %}
+{% include catchphraselink.md %} \| {% include pagelink.md %}
 {% include fourthintervalad.html %}
