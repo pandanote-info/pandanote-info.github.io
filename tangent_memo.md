@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/11/tan1_rational
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Nov  6 01:10:12 2021 +0900
+update: Sat Nov  6 01:12:37 2021 +0900
 ---
 {% include pagelink.md %}
 # 時々忘れがちになるタンジェントの公式の導き方のメモ(余談を添えて)。
@@ -98,7 +98,7 @@ $\tan 1^{\circ}$が有理数であるかないかだけを示せばよい(具体
 
 すると、タンジェントの2倍角の公式を用いて$\tan 2^{\circ}$を$a,b$を用いて表すことができる有理数であることを計算によって示すことができます(計算については省略します)。これを繰り返すと負でない整数$k$について$\tan 2^k{}^{\circ}$、すなわち$\tan 1^{\circ}, \tan 2^{\circ}, \cdots, \tan 32^{\circ}, \cdots$が有理数であることになります。
 
-ここでタンジェントの加法定理が登場します。$\tan 30^{\circ} = \tan (32^{\circ}+\tan (-2^{\circ}))$と書けますが、$\tan 32^{\circ}$及び$\tan 2^{\circ}$が有理数であるならば、タンジェントの加法定理により$\tan 30^{\circ}$も有理数であると計算できます。しかし、$\tan 30^{\circ} = \displaystyle\frac{1}{\sqrt{3}}$であり、この数は無理数ですから、ここで矛盾が生じます。よって$\tan 1^{\circ}$は有理数でない、という結論になります(たぶん)。
+ここでタンジェントの加法定理が登場します。$\tan 30^{\circ} = \tan (32^{\circ}+(-2^{\circ}))$と書けますが、$\tan 32^{\circ}$及び$\tan 2^{\circ}$が有理数であるならば、タンジェントの加法定理により$\tan 30^{\circ}$も有理数であると計算できます。しかし、$\tan 30^{\circ} = \displaystyle\frac{1}{\sqrt{3}}$であり、この数は無理数ですから、ここで矛盾が生じます。よって$\tan 1^{\circ}$は有理数でない、という結論になります(たぶん)。
 
 ## リンク
 [panda大学習帳のpandaの大計算用紙のカテゴリ](https://pandanote.info/?cat=13) \| {% include pagelink.md %}
