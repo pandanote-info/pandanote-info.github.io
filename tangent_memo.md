@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/11/tan1_rational
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Nov  6 01:12:37 2021 +0900
+update: Sat Nov  6 01:17:28 2021 +0900
 ---
 {% include pagelink.md %}
 # 時々忘れがちになるタンジェントの公式の導き方のメモ(余談を添えて)。
@@ -89,9 +89,7 @@ $\sin$、$\cos$及び$\tan$の間には…
 
 {%include secondintervalad.html %}
 
-## まとめ
-ここまでの議論でタンジェントの加法定理と2倍角の公式を無事導出できました。
-
+## 最初の問題の解答例のようなもの
 …で、この議論のきっかけとなった冒頭の入試問題ですが、(概略ですが、)以下のような感じで結論までたどり着くことができます。
 
 $\tan 1^{\circ}$が有理数であるかないかだけを示せばよい(具体的な値は求めなくてよい。)ので、$\tan 1^{\circ}$が有理数であると仮定し、適当な整数$a,b(b \neq 0)$を用いて$\tan 1^{\circ} = \displaystyle\frac{a}{b}$と書くことにします。
@@ -99,6 +97,11 @@ $\tan 1^{\circ}$が有理数であるかないかだけを示せばよい(具体
 すると、タンジェントの2倍角の公式を用いて$\tan 2^{\circ}$を$a,b$を用いて表すことができる有理数であることを計算によって示すことができます(計算については省略します)。これを繰り返すと負でない整数$k$について$\tan 2^k{}^{\circ}$、すなわち$\tan 1^{\circ}, \tan 2^{\circ}, \cdots, \tan 32^{\circ}, \cdots$が有理数であることになります。
 
 ここでタンジェントの加法定理が登場します。$\tan 30^{\circ} = \tan (32^{\circ}+(-2^{\circ}))$と書けますが、$\tan 32^{\circ}$及び$\tan 2^{\circ}$が有理数であるならば、タンジェントの加法定理により$\tan 30^{\circ}$も有理数であると計算できます。しかし、$\tan 30^{\circ} = \displaystyle\frac{1}{\sqrt{3}}$であり、この数は無理数ですから、ここで矛盾が生じます。よって$\tan 1^{\circ}$は有理数でない、という結論になります(たぶん)。
+
+## まとめ
+ここまでの議論で少し寄り道はしたものの、タンジェントの加法定理と2倍角の公式を無事導出できました。
+
+この記事は以上です。
 
 ## リンク
 [panda大学習帳のpandaの大計算用紙のカテゴリ](https://pandanote.info/?cat=13) \| {% include pagelink.md %}
