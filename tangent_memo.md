@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/11/tan1_rational
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Nov  5 23:30:28 2021 +0900
+update: Sat Nov  6 01:10:12 2021 +0900
 ---
 {% include pagelink.md %}
 # 時々忘れがちになるタンジェントの公式の導き方のメモ(余談を添えて)。
@@ -41,11 +41,13 @@ $\sin$、$\cos$及び$\tan$の間には…
 また、$\sin$と$\cos$の加法定理の公式は
 
 \begin{align}
-\sin (\alpha + \beta ) &= \sin\alpha\cos\beta + \cos\alpha\sin\beta \cr \label{eq:sinadd}
+\sin (\alpha + \beta ) &= \sin\alpha\cos\beta + \cos\alpha\sin\beta \label{eq:sinadd} \cr
 \cos (\alpha + \beta ) &= \cos\alpha\cos\beta - \sin\alpha\cos\beta \label{eq:cosadd}
 \end{align}
 
-で表すことができますので、(\ref{eq:sincostan})式で$\theta = \alpha + \beta$とおいて、(\ref{eq:sinadd})式及び(\ref{eq:cosadd})式と組み合わせると…
+で表すことができます。
+
+そこで、(\ref{eq:sincostan})式で$\theta = \alpha + \beta$とおいて、(\ref{eq:sinadd})式及び(\ref{eq:cosadd})式と組み合わせると…
 
 \begin{align}
 \tan(\alpha + \beta) &= \frac{\sin(\alpha + \beta)}{\cos(\alpha + \beta)} \nonumber \cr
@@ -59,13 +61,13 @@ $\sin$、$\cos$及び$\tan$の間には…
 すると…
 \begin{align}
 \frac{\sin\alpha\cos\beta + \cos\alpha\sin\beta}{\cos\alpha\cos\beta - \sin\alpha\cos\beta} &= \frac{\displaystyle\frac{\sin\alpha\cos\beta + \cos\alpha\sin\beta}{\cos\alpha\cos\beta}}{\displaystyle\frac{\cos\alpha\cos\beta - \sin\alpha\cos\beta}{\cos\alpha\cos\beta}} \nonumber \cr
-&= \frac{\displaystyle\frac{\sin\alpha\cos\beta}{\cos\alpha\cos\beta} + \displaystyle{\cos\alpha\sin\beta}{\cos\alpha\cos\beta}}{\displaystyle\frac{\cos\alpha\cos\beta}{\cos\alpha\cos\beta} - \displaystyle\frac{\sin\alpha\cos\beta}{\cos\alpha\cos\beta}} \nonumber \cr 
-&= \frac{\displaystyle\frac{\sin\alpha}{\cos\alpha} + \displaystyle{\sin\beta}{\cos\beta}}{1 - \displaystyle\frac{\sin\alpha\cos\beta}{\cos\alpha\cos\beta}} \nounumber \cr 
+&= \frac{\displaystyle\frac{\sin\alpha\cos\beta}{\cos\alpha\cos\beta} + \displaystyle\frac{\cos\alpha\sin\beta}{\cos\alpha\cos\beta}}{\displaystyle\frac{\cos\alpha\cos\beta}{\cos\alpha\cos\beta} - \displaystyle\frac{\sin\alpha\cos\beta}{\cos\alpha\cos\beta}} \nonumber \cr 
+&= \frac{\displaystyle\frac{\sin\alpha}{\cos\alpha} + \displaystyle\frac{\sin\beta}{\cos\beta}}{1 - \displaystyle\frac{\sin\alpha\cos\beta}{\cos\alpha\cos\beta}} \nonumber \cr 
 &= \frac{\tan\alpha + \tan\beta}{1 - \tan\alpha\tan\beta} \label{eq:tanaddsecond}
 \end{align}
 となって、$\tan$及び定数のみを含んだ式が現れます。
 
-(\ref{eq:tanaddfirst})及び(\ref{eq:tanaddfirst})式をまとめると、
+(\ref{eq:tanaddfirst})及び(\ref{eq:tanaddsecond})式をまとめると、
 
 \begin{align}
 \tan(\alpha + \beta) &= \frac{\tan\alpha + \tan\beta}{1 - \tan\alpha\tan\beta} \label{eq:tanaddfinal}
@@ -78,7 +80,7 @@ $\sin$、$\cos$及び$\tan$の間には…
 (\ref{eq:tanaddfinal})式で$\beta = \alpha$とおくと…
 
 \begin{align}
-\tan(2\alpha) &= \frac{2\tan\alpha}{1 - \tan^2\alpha} \label{eq:tandouble}
+\tan 2\alpha &= \frac{2\tan\alpha}{1 - \tan^2\alpha} \label{eq:tandouble}
 \end{align}
 
 であることがわかります。
@@ -92,11 +94,11 @@ $\sin$、$\cos$及び$\tan$の間には…
 
 …で、この議論のきっかけとなった冒頭の入試問題ですが、(概略ですが、)以下のような感じで結論までたどり着くことができます。
 
-$\tan 1^{\circ}$が有理数であるかないかだけを示せばよい(具体的な値は求めなくてよい。)ので、$\tan 1^{\circ}$が有理数であると仮定し、適当な整数$a,b(b \neq 0)$を用いて$\tan 1^{\circ} = \displaystyle{a}{b}$と書くことにします。
+$\tan 1^{\circ}$が有理数であるかないかだけを示せばよい(具体的な値は求めなくてよい。)ので、$\tan 1^{\circ}$が有理数であると仮定し、適当な整数$a,b(b \neq 0)$を用いて$\tan 1^{\circ} = \displaystyle\frac{a}{b}$と書くことにします。
 
-すると、タンジェントの2倍角の公式を用いて$\tan 2^{\circ}$を$a,b$を用いて表すことができる有理数であることを計算によって示すことができます(計算については省略します)。これを繰り返すと負でない整数$k$について$\tan 2^k^{\circ}$、すなわち$\tan 1^{\circ}, \tan 2^{\circ}, \cdots, \tan 32^{\circ}, \cdots$が有理数であることになります。
+すると、タンジェントの2倍角の公式を用いて$\tan 2^{\circ}$を$a,b$を用いて表すことができる有理数であることを計算によって示すことができます(計算については省略します)。これを繰り返すと負でない整数$k$について$\tan 2^k{}^{\circ}$、すなわち$\tan 1^{\circ}, \tan 2^{\circ}, \cdots, \tan 32^{\circ}, \cdots$が有理数であることになります。
 
-ここでタンジェントの加法定理が登場します。$\tan 30^{\circ} = \tan (32^{\circ}+\tan (-2^{\circ}))$と書けますが、$\tan (32^{\circ}, \tan 2^{\circ})$が有理数であるならば、タンジェントの加法定理により$\tan 30^{\circ}$も有理数であると計算できます。しかし、$\tan 30^{\circ} = \displaystyle\frac{1}{\sqrt{3}}$であり、この数は無理数ですから、ここで矛盾が生じます。よって$\tan 1^{\circ}$は有理数でない、という結論になります(たぶん)。
+ここでタンジェントの加法定理が登場します。$\tan 30^{\circ} = \tan (32^{\circ}+\tan (-2^{\circ}))$と書けますが、$\tan 32^{\circ}$及び$\tan 2^{\circ}$が有理数であるならば、タンジェントの加法定理により$\tan 30^{\circ}$も有理数であると計算できます。しかし、$\tan 30^{\circ} = \displaystyle\frac{1}{\sqrt{3}}$であり、この数は無理数ですから、ここで矛盾が生じます。よって$\tan 1^{\circ}$は有理数でない、という結論になります(たぶん)。
 
 ## リンク
 [panda大学習帳のpandaの大計算用紙のカテゴリ](https://pandanote.info/?cat=13) \| {% include pagelink.md %}
