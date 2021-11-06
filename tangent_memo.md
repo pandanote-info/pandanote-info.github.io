@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/11/tan1_rational
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Nov  6 01:17:28 2021 +0900
+update: Sat Nov  6 12:54:38 2021 +0900
 ---
 {% include pagelink.md %}
 # 時々忘れがちになるタンジェントの公式の導き方のメモ(余談を添えて)。
@@ -100,6 +100,8 @@ $\tan 1^{\circ}$が有理数であるかないかだけを示せばよい(具体
 
 ## まとめ
 ここまでの議論で少し寄り道はしたものの、タンジェントの加法定理と2倍角の公式を無事導出できました。
+
+また、Oradano明朝GSRRフォントを使って見たところ手軽にレトロな感じが出せることがわかったので、今後も時々使ってみるつもりです。
 
 この記事は以上です。
 
