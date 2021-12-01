@@ -1,10 +1,10 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
-* [関数の積をn回微分する。](https://sidestory.pandanote.info/differential_of_product.html)(2021/08/12, Last update: 2021/12/01)<br/>関数の積をn回積分してみた。
+* [関数の積をn回微分する。](https://sidestory.pandanote.info/differential_of_product.html)(2021/08/12, Last update: 2021/12/01)<br/>関数の積をn回微分してみた。
 * [SQLite 3.35.0でカラムのDROPができるようになったようなので、確認してみた。](https://sidestory.pandanote.info/8118bis.html)(2021/11/13, Last update: 2021/11/14)<br/>個人的には待望だった機能です。
 * [時々忘れがちになるタンジェントの公式の導き方のメモ(余談を添えて)。](https://sidestory.pandanote.info/tangent_memo.html)(2021/11/06)<br/>サインとコサインの公式からタンジェントの加法定理と倍角の公式を導出します。
-* [サブタイトルネタ帳Classic(151-200)](https://sidestory.pandanote.info/catchphraseclassic.html)(2020/03/07, Last update: 2021/10/21)<br/>101-150件目のサブタイトルです。
+* [サブタイトルネタ帳Classic(151-200)](https://sidestory.pandanote.info/catchphraseclassic.html)(2020/03/07, Last update: 2021/10/21)<br/>151-200件目のサブタイトルです。
 * [サブタイトルネタ帳Classic(1-50)](https://sidestory.pandanote.info/catchphraseclassic0.html)(2020/03/07, Last update: 2021/10/21)<br/>1-50件目のサブタイトルです。
 * [サブタイトルネタ帳Classic(101-150)](https://sidestory.pandanote.info/catchphraseclassic2.html)(2021/10/20, Last update: 2021/10/21)<br/>101-150件目のサブタイトルです。
 * [サブタイトルネタ帳Classic(51-100)](https://sidestory.pandanote.info/catchphraseclassic1.html)(2021/02/20, Last update: 2021/10/21)<br/>51-100件目のサブタイトルです。
@@ -27,9 +27,9 @@
 * [テゾス(Tezos)を買ってきて、Galleonのウォレットに入れてみた話(人柱的紆余曲折編)💰](https://sidestory.pandanote.info/7281bis.html)(2021/02/22, Last update: 2021/07/11)<br/>Google先生の検索結果で上位に出た情報であっても、古い情報は信じてはいけませんよ的な話です。
 * [Java8のラムダ式を使って配列の配列の要素数の総和を1行で求める。](https://sidestory.pandanote.info/lambda_expression_in_Java8.html)(2021/05/23)<br/>ラムダ式を使うとコードが簡潔に書けるようになった件について書きました。
 * [convert everything to "struct proc_ops"する必要が生じたので、Intel NUCのLED操作用のドライバのコードを書き換えてみた。](https://sidestory.pandanote.info/7132bis.html)(2021/01/02, Last update: 2021/02/22)<br/>久々にLinuxのドライバのコードを触ってみました。
-* [WordPressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2021/01/26)<br/>Wordpressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
+* [WordPressの記事データを操作するときによく使うかもしれないSQL文n選。](https://sidestory.pandanote.info/wordpress_sql.html)(2019/12/24, Last update: 2021/01/26)<br/>WordPressの過去の記事データに含まれる特定の文字列等を一斉に変換したくなったとき等に確実に使えるようにしたいSQL文のメモ書きです。
 * [ちょっと気になる行列の微分の公式](https://sidestory.pandanote.info/differential_of_matrix.html)(2020/12/27)<br/>要素ごとに書き下して計算してみました。
-* [用語集📒 ](https://sidestory.pandanote.info/glossary.html)(2019/02/19, Last update: 2020/12/13)
+* [用語集📒 ](https://sidestory.pandanote.info/glossary.html)(2019/02/19, Last update: 2020/12/13)<br/>「ディレクトリ vs フォルダ」のようなもの。
 * [Python3でMariaDBのデータベースのテーブルから1個のカラムのデータを抽出する際にはひと手間かける必要があるというお話。](https://sidestory.pandanote.info/7030bis.html)(2020/12/06, Last update: 2020/12/07)<br/>Python3を使ってデータベースから1個のカラムを抽出するときは注意が必要かもしれないというお話です。
 * [OpenVPNのためのSELinuxポリシーを変更する際にポリシー名を"openvpn"にしたところ、変更に失敗した件。](https://sidestory.pandanote.info/selinux_policy_for_openvpn_server_on_fedora32.html)(2020/06/23, Last update: 2020/12/06)<br/>ポリシー名のご利用は計画的に。
 * [MariaDBで文字コードの設定が原因で"Foreign key constraint is incorrectly formed"と言われてしまった話。](https://sidestory.pandanote.info/foreign_key_constraint_on_mariadb.html)(2020/12/05)<br/>MariaDBで文字コードの設定が原因でテーブルの作成ができなかった件を解決するまでの記録です。
@@ -45,7 +45,7 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-* [LaTeXの平方根の記号の高さをいい感じに揃えるために、mathstrutコマンド及びsmashコマンドを追加してみた。](https://sidestory.pandanote.info/6970bis.html)(2020/11/29)<br/>平方根の記号の高さをいい感じに揃えるために、試行錯誤した時の記録です。
+* [LaTeXの平方根の記号の高さをいい感じに揃えるために、mathstrutコマンド及びsmashコマンドを追加してみた。](https://sidestory.pandanote.info/6970bis.html)(2020/11/29)<br/>LaTeXの平方根の記号の高さをいい感じに揃えるために、試行錯誤した時の記録です。
 * [忙しい人のためのmatplotlibのAxes3Dのbar3d関数の引数の設定方法のメモ。](https://sidestory.pandanote.info/6890bis.html)(2020/11/21)<br/>mpl_toolkits.mplot3d.axes3d.Axes3Dクラスのbar3d関数の引数の設定の方法についてのメモです。
 * [Windows10のEmacsのフォントをHackGenNerdに変更してみた(おまけつき)。](https://sidestory.pandanote.info/hackgennerd.html)(2020/06/03, Last update: 2020/11/08)<br/>Windows10のEmacsのフォントをHackGenNerdに変更する方法です。
 * [kuromojiにいろいろな辞書を組み込んで、テストしてみた。](https://sidestory.pandanote.info/kuromoji-result.html)(2020/06/28, Last update: 2020/11/07)<br/>kuromojiに組み込む辞書を切り替えつつ、形態素解析を試みてみました。
@@ -90,7 +90,7 @@
 </script>
 
 * [整数次数の第2種変形Bessel関数が収束することの証明のうち、ディガンマ関数が登場する項が収束することの証明。](https://sidestory.pandanote.info/4022bis.html)(2019/03/03, Last update: 2019/11/14)
-* [YouTubeチャンネルのちょっとおしゃれな動画リスト](https://sidestory.pandanote.info/youtube.html)(2019/02/06, Last update: 2019/11/14)<br/>pandanote.info大公式チャンネルポータルページ
+* [YouTubeチャンネルのちょっとおしゃれな動画リスト](https://sidestory.pandanote.info/youtube.html)(2019/02/06, Last update: 2019/11/14)
 * [標準正規分布に従う独立な2個の確率変数の商が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3810bis.html)(2019/02/06, Last update: 2019/11/14)
 * [標準正規分布に従う独立な2個の確率変数の積が負になる場合に、その確率変数が従う確率密度関数を計算してみた。](https://sidestory.pandanote.info/3657bis.html)(2019/01/12, Last update: 2019/11/14)
 * [sin(pi/5)及びcos(pi/5)を計算してみた。](https://sidestory.pandanote.info/sine_one_fifth_of_pi.html)(2019/10/12, Last update: 2019/11/14)
