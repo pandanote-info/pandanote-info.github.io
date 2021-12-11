@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/12/gist_older_co
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Dec 11 21:03:00 2021 +0900
+update: Sat Dec 11 21:06:18 2021 +0900
 ---
 {% include pagelink.md %}
 # GitHub Gistにアップロードしたファイルの最新版でない版をWebのページに貼り付ける方法
@@ -32,7 +32,7 @@ GitHub Gistにアップロードしたファイルの内容をバージョン間
 
 ## 表示例
 ### 最新版の表示
-[この記事](https://pandanote.info/?p=8266)では[このコード](https://gist.github.com/pandanote-info/81982c96f73b3954a2226c647d682a81)の最新版を貼り付けています↓
+[この記事](https://pandanote.info/?p=8226)では[このコード](https://gist.github.com/pandanote-info/81982c96f73b3954a2226c647d682a81)の最新版を貼り付けています…、と書いても記事中のどこにあるのかがわかりにくいと思いますので、↓に再掲します。
 
 <script src="https://gist.github.com/pandanote-info/81982c96f73b3954a2226c647d682a81.js"></script>
 ### 一つ前の版の表示
