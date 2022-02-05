@@ -6,7 +6,7 @@ image: https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2
 twitter:
   card: summary_large_image
 encoding: UTF-8
-update: Sat Feb  5 23:15:31 2022 +0900
+update: Sat Feb  5 23:32:37 2022 +0900
 ---
 {% include pagelink.md %}
 # Bidirectional mapのプロトタイプをScalaだけで作ってみた。
@@ -21,7 +21,7 @@ update: Sat Feb  5 23:15:31 2022 +0900
 {% include firstad.html %}
 ## 本編
 ### プログラム
-プログラムはテストコードなど込みで、GitHubに置きました。
+プログラムはテストコードなど込みで、[GitHub](https://github.com/pandanote-info/bimmap/)に置きました。
 ### ネーミング
 BidirectionalなMapでMutableなMapを拡張して作ったものなので、パッケージ名及びクラス名は「BiMMap」としました。
 
