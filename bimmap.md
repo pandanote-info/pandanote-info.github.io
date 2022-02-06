@@ -1,18 +1,18 @@
 ---
-title: Bidirectional mapのプロトタイプをScalaだけで作ってみた。 - panda大学習帳外伝
-description: みんな大好き双方向マップをScalaだけで作ってみました。
+title: Bidirectional mapのプロトタイプをScalaで作ってみた。 - panda大学習帳外伝
+description: みんな大好き双方向マップをScalaで作ってみました。
 mathjax: true
 image: https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/bimmap_scene1.png
 twitter:
   card: summary_large_image
 encoding: UTF-8
-update: Sat Feb  5 23:32:37 2022 +0900
+update: Sun Feb  6 09:05:54 2022 +0900
 ---
 {% include pagelink.md %}
 # Bidirectional mapのプロトタイプをScalaだけで作ってみた。
 {% if page.update %}最終更新日: {{ page.update }} {% endif %}
 ## はじめに
-やんごとなき作業のすきま作業(*1)でScalaでプログラムを書いていたのですが、
+やんごとなき作業のすきま作業(*1,後述します。)でScalaでプログラムを書いていたのですが、
 
 「bidirectional mapが必要かも。」
 
@@ -39,7 +39,7 @@ BiMMapはクラスはscala.collection.mutable.Mapを拡張して作りますが�
 {%include thirdintervalad.html %}
 
 ## 使用例
-当面の間はテストコードをご参照ください。
+当面の間は[テストコード](https://github.com/pandanote-info/bimmap/tree/main/src/test/scala/info/pandanote/bimmap)をご参照ください。
 
 ## プログラミング後記
 BiMMapは本来予定していたすきま作業(*1)では使用されない見込みです。
