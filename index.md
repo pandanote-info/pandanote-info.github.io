@@ -5,7 +5,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/08/P_20210626_11
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Oct 17 20:10:58 2021 +0900
+update: Sat Feb 12 16:14:31 2022 +0900
 ---
 {% include homelink.md %}
 
@@ -36,7 +36,7 @@ update: Sun Oct 17 20:10:58 2021 +0900
 
 チップの受領の状況については、↓のような感じでTwitterに時々(1ヵ月に1回程度)投稿しています。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今月も <a href="https://twitter.com/search?q=%24BAT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$BAT</a> のチップを1.4BAT(=110円くらい)いただきました。<br>先月よりちょっと減りましたが、ありがたいです。🙏🙇‍♂️<a href="https://twitter.com/hashtag/basicattentiontoken?src=hash&amp;ref_src=twsrc%5Etfw">#basicattentiontoken</a><a href="https://twitter.com/hashtag/lifeinyokohama?src=hash&amp;ref_src=twsrc%5Etfw">#lifeinyokohama</a></p>&mdash; pandanote.info (@Pandanote_info) <a href="https://twitter.com/Pandanote_info/status/1425417521994166276?ref_src=twsrc%5Etfw">August 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/bitFlyer?src=hash&amp;ref_src=twsrc%5Etfw">#bitFlyer</a> に接続している方のウォレットには今月は <a href="https://twitter.com/search?q=%24BAT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$BAT</a> のチップを2.54BAT(=260円くらい)くらいいただきました。<br>ありがたいです。🙇‍♂️<a href="https://twitter.com/hashtag/basicattentiontoken?src=hash&amp;ref_src=twsrc%5Etfw">#basicattentiontoken</a><a href="https://twitter.com/hashtag/cryptocurrencies?src=hash&amp;ref_src=twsrc%5Etfw">#cryptocurrencies</a><a href="https://twitter.com/hashtag/lifeinyokohama?src=hash&amp;ref_src=twsrc%5Etfw">#lifeinyokohama</a></p>&mdash; pandanote.info (@Pandanote_info) <a href="https://twitter.com/Pandanote_info/status/1492033314546356225?ref_src=twsrc%5Etfw">February 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 また、Instagramにも↓の投稿例のように時々投稿しています(手動です)。
 
