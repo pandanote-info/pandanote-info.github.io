@@ -5,7 +5,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/08/P_20210626_11
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Feb 12 16:14:31 2022 +0900
+update: Sat Feb 12 16:19:39 2022 +0900
 ---
 {% include homelink.md %}
 
@@ -25,7 +25,7 @@ update: Sat Feb 12 16:14:31 2022 +0900
 
 {% include thirdintervalad.html %}
 
-# Tipping with Brave brower / Braveブラウザでチップを送る
+# Tipping with Brave browser / Braveブラウザでチップを送る
 本サイト、panda大学習帳及び第三倉庫(仮)の各Webサイトは、Brave Creatorsとしての設定を行っています。
 
 よって、Braveブラウザでの閲覧時にベーシックアテンショントークン(BAT)によるチップをいただくことができます。
