@@ -6,7 +6,7 @@ image: https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Feb 13 19:07:42 2022 +0900
+update: Sun Feb 13 19:19:39 2022 +0900
 ---
 {% include pagelink.md %}
 # Braveブラウザでtipを送る方法。
@@ -20,7 +20,7 @@ update: Sun Feb 13 19:07:42 2022 +0900
 ### Braveブラウザのインストール
 まず、Braveブラウザを入手します。
 
-(brave.com)[https://brave.com/]から入手できますので、Google Chrome等と同様の方法でインストールします。
+[brave.com](https://brave.com/)から入手できますので、Google Chrome等と同様の方法でインストールします。
 
 ### Basic Attention Token(BAT)の購入
 適当な暗号資産取引所等からBasic Attention Token(BAT,以下単に「BAT」と書きます。)を購入します。本ページに記載の方法でtipを送るには1BAT以上の残高がウォレットにあることが必要です(tipの金額は調整できますが、1BAT以下でtipが送れるかどうかについては確認していません)。
