@@ -6,13 +6,16 @@ image: https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Feb 13 19:25:52 2022 +0900
+update: Fri Feb 18 14:18:21 2022 +0900
 ---
 {% include pagelink.md %}
 # Braveブラウザでtipを送る方法。
 {% if page.update %}最終更新日: {{ page.update }} {% endif %}
 ## はじめに
 トップページでBraveブラウザ経由のtipの受け取りが可能であると書いておきながら、肝心の送る方法について書いていなかったような気がするので、まとめてみることにしました。
+
+### 本ページの画像について
+本ページで使用している画像はIPFSにアップロードしたものを使用しております。IPFSの状況によっては表示までに1～2分程度の時間を要する場合があります。
 
 {% include firstad.html %}
 
