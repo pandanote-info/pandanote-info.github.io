@@ -2,11 +2,11 @@
 title: Braveブラウザでtipを送る方法。 - panda大学習帳外伝
 description: Braveブラウザでtipを送る方法についてまとめてみた。
 mathjax: true
-image: https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene4.png
+image: https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene4.png
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Feb 20 18:29:58 2022 +0900
+update: Mon Feb 21 06:24:19 2022 +0900
 ---
 {% include pagelink.md %}
 # Braveブラウザでtipを送る方法。

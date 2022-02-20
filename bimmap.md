@@ -2,11 +2,11 @@
 title: Bidirectional mapのプロトタイプをScalaで作ってみた。 - panda大学習帳外伝
 description: みんな大好き双方向マップをScalaで作ってみました。
 mathjax: true
-image: https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/bimmap_scene1.png
+image: https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/bimmap_scene1.png
 twitter:
   card: summary_large_image
 encoding: UTF-8
-update: Sun Feb  6 09:05:54 2022 +0900
+update: Mon Feb 21 06:24:13 2022 +0900
 ---
 {% include pagelink.md %}
 # Bidirectional mapのプロトタイプをScalaだけで作ってみた。
