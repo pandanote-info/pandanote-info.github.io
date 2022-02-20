@@ -6,7 +6,7 @@ image: https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Feb 18 14:18:21 2022 +0900
+update: Sun Feb 20 18:29:58 2022 +0900
 ---
 {% include pagelink.md %}
 # Braveブラウザでtipを送る方法。
@@ -35,11 +35,11 @@ Braveブラウザのインストールができたら、以下の手順でtipを
 
 1. Braveブラウザを起動します。
 1. 適当なサイトにアクセスします(以下説明の都合上、本サイトにアクセスしたものとして書きます)。
-1. アドレスバーの右側のBATのアイコンにチェックマーク(下図の赤矢印)が表示されていることを確認します。<a href="https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene1.png"><img width="540" src="https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene1.png"/></a>
+1. アドレスバーの右側のBATのアイコンにチェックマーク(下図の赤矢印)が表示されていることを確認します。<a href="https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene1.png"><img width="540" src="https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene1.png"/></a>
 1. チェックマークがついているBATのアイコンをクリックします。
-1. 以下のポップアップウィンドウが表示されますので、「チップを送る」ボタンをクリックします。<a href="https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene2.png"><img width="540" src="https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene2.png"/></a>
-1. 表示が以下のように切り替わりますので、「ワンタイムチップ」及び「1BAT」が選択されていることを確認後、「チップを送る」ボタン(下図の赤矢印)をクリックします(「カスタム金額」のリンクをクリックすると送付するBATの量を調整できるようですが、試していません)。<a href="https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene3.png"><img width="540" src="https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene3.png"/></a>
-1. 送付するBATの量等に問題がなければ表示が以下のように切り替わり、手順6で指定した量のBATが送付されます。<a href="https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene4.png"><img width="540" src="https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene4.png"/></a>
+1. 以下のポップアップウィンドウが表示されますので、「チップを送る」ボタンをクリックします。<a href="https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene2.png"><img width="540" src="https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene2.png"/></a>
+1. 表示が以下のように切り替わりますので、「ワンタイムチップ」及び「1BAT」が選択されていることを確認後、「チップを送る」ボタン(下図の赤矢印)をクリックします(「カスタム金額」のリンクをクリックすると送付するBATの量を調整できるようですが、試していません)。<a href="https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene3.png"><img width="540" src="https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene3.png"/></a>
+1. 送付するBATの量等に問題がなければ表示が以下のように切り替わり、手順6で指定した量のBATが送付されます。<a href="https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene4.png"><img width="540" src="https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/tipping_on_bat_scene4.png"/></a>
 
 {%include thirdintervalad.html %}
 
