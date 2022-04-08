@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2022/04/twitter_100_f
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Apr  8 09:27:44 2022 +0900
+update: Fri Apr  8 10:23:38 2022 +0900
 ---
 {% include pagelink.md %}
 # Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。
@@ -29,7 +29,11 @@ update: Fri Apr  8 09:27:44 2022 +0900
 
 <a href="https://ipfs.io/ipfs/QmXr9VEFU7y7D7BF4ivUAdDV4a7Sth6aw4A3ad7deSVfYN"><img src="https://ipfs.io/ipfs/QmXr9VEFU7y7D7BF4ivUAdDV4a7Sth6aw4A3ad7deSVfYN" width="300"/></a>
 
-上記の画像に対して作成したNFTはTezosのブロックチェーン上に100個作成しています。
+上記の画像に対して作成したNFTは以下の仕様でTezosのブロックチェーン上に作成しています。
+
+* シンボル名: PNDI (pandanote.infoの略です。)
+* 作成個数: 100個
+* 最小単位: 1個(1個未満の単位に分割することはできません。)
 
 {%include secondintervalad.html %}
 
@@ -37,7 +41,7 @@ Ethereumのガス代は高いですからね(2022年4月現在)。
 
 なお、この記事を最初に書いた時点(2022年4月)では作成したNFTの配布の計画・予定などはありません。
 
-## 説明用矢印の色遣いの変更
+## 図の中の説明用矢印の色遣いの変更
 次に、本Webサイト等に貼り付けている説明用の画像で使っている矢印の色を赤(#ff0000)から国鉄の色名称のうちの朱色5号(#CA4F3C,RGB:(202,79,60),以下単に「朱色5号」と書きます。)に変更することにしました。
 
 すでにTwitter等に貼り付けている↓の画像の矢印の色及び文字は朱色5号を使用しています(日本語フォントはOradano明朝GSRRフォントを使用しています)。
@@ -50,7 +54,7 @@ Ethereumのガス代は高いですからね(2022年4月現在)。
 
 簡単にいうと「国鉄末期以降に気動車の車体色に採用されている色」です。
 ## まとめ
-超簡易版NFTギャラリーは将来的には拡張予定です。
+超簡易版NFTギャラリーは今後拡張予定です。
 
 NFTは配布するとしても、投げ銭や寄付として許容され、かついろいろと失敗しても文句が出ない程度の有償の金額(可能であれば暗号資産建て)との引換による配布とする予定です。
 ## リンク
