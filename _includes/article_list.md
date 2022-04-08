@@ -1,7 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
-* [Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。](https://sidestory.pandanote.info/twitter_100_followers.html)(2022/04/08)<br/>
+* [Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。](https://sidestory.pandanote.info/twitter_100_followers.html)(2022/04/08)<br/>いろいろとやってみました。
 * [ARMv7用のstaticリンクされたOpenVPNをビルドしてみた。](https://sidestory.pandanote.info/8407bis.html)(2022/01/15, Last update: 2022/02/21)<br/>OpenVPNのビルドの方法についてのメモ書きです。
 * [Bidirectional mapのプロトタイプをScalaで作ってみた。](https://sidestory.pandanote.info/bimmap.html)(2022/02/05, Last update: 2022/02/21)<br/>みんな大好き双方向マップをScalaで作ってみました。
 * [Braveブラウザでtipを送る方法。](https://sidestory.pandanote.info/tipping_in_brave.html)(2022/02/13, Last update: 2022/02/21)<br/>Braveブラウザでtipを送る方法についてまとめてみた。
