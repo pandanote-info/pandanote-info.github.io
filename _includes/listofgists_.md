@@ -1,3 +1,34 @@
+## mongodb_var_lib_nfs_<br/>fs.te
+* Created at: 2022-04-02T11:48:19Z
+* Descrption: MongoDB用のType Enforcementファイルの作成例(var_lib_nfs_t用)。
+* [Link to Gist](https://gist.github.com/22f8f78b185b0913f868987d77789a3e)
+* Referenced from: 
+    * [Fedora 35にMongoDB 5.0のインストールを試みて、試行錯誤したりちょっと設定をいじってみた話。](https://pandanote.info/?p=8758)
+
+## mongodb_sysctl_fs.te
+* Created at: 2022-04-02T11:40:18Z
+* Descrption: MongoDB用のType Enforcementファイルの作成例(sysctl_fs_t用)。
+* [Link to Gist](https://gist.github.com/1f8c8dc54667a5fcf0c01ec6582cc1d1)
+* Referenced from: 
+    * [Fedora 35にMongoDB 5.0のインストールを試みて、試行錯誤したりちょっと設定をいじってみた話。](https://pandanote.info/?p=8758)
+
+## uploadToIpfs.js
+* Created at: 2022-03-25T08:18:14Z
+* Descrption: POSTメソッドで受け取ったbodyからバイナリデータを取り出し、IPFSノードにアップロードするNode.jsのプログラムのプログラム片。
+* [Link to Gist](https://gist.github.com/3ee5a0cae4bf1e3af18106c567368cd5)
+* Referenced from: 
+    * [HTTPのPOSTリクエストで送られてきた画像データを抜き出して、IPFSのノードにアップロードするプログラムを書いてみた。](https://pandanote.info/?p=8723)
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## openvpn_start.sh
 * Created at: 2022-01-13T13:56:04Z
 * Updated at: 2022-01-13T13:56:05Z
@@ -375,7 +406,7 @@
 
 ## nginx_growi.conf.example
 * Created at: 2020-01-14T22:26:57Z
-* Updated at: 2021-01-17T14:04:59Z
+* Updated at: 2022-02-18T01:14:17Z
 * Descrption: nginxでHTTPS接続のリクエストを受け付けて、GROWIに転送するためのnginxの設定例。
 * [Link to Gist](https://gist.github.com/0c45fe148e5b4737a3f6b968ab8bf218)
 * Referenced from: 
