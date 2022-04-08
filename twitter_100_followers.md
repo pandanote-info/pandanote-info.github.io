@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2022/04/twitter_100_f
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Apr  8 18:37:08 2022 +0900
+update: Fri Apr  8 18:39:27 2022 +0900
 ---
 {% include pagelink.md %}
 # Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。
@@ -46,7 +46,7 @@ Tezosのテストネット(hangzhounet)では動画に紐づけたNFTを作成�
 
 紐づけられているのは以下の動画です(IPFS Gateway経由で取得しています)。
 
-<video src="https://ipfs.io/ipfs/Qmch3vJtNtmkVd6hDvqqniCRG4N3yzoJ6uxz9cFRCZcc9k">
+<video src="https://ipfs.io/ipfs/Qmch3vJtNtmkVd6hDvqqniCRG4N3yzoJ6uxz9cFRCZcc9k" controls="controls">
 <p>お使いのブラウザではvideoタグはサポートされていないようですので、サポートされているブラウザでご覧ください。</p>
 </video>
 
