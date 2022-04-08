@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2022/04/twitter_100_f
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Apr  8 10:23:38 2022 +0900
+update: Fri Apr  8 10:37:57 2022 +0900
 ---
 {% include pagelink.md %}
 # Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。
@@ -25,7 +25,7 @@ update: Fri Apr  8 10:23:38 2022 +0900
 ## 超簡易版NFTギャラリー
 先日のエイプリルフールに作成したNFTのトークンメタデータに紐づけられている画像を貼り付けてみることにしました。
 
-紐づけられているのは以下の画像です。
+紐づけられているのは以下の画像です(IPFS Gateway経由で取得しています)。
 
 <a href="https://ipfs.io/ipfs/QmXr9VEFU7y7D7BF4ivUAdDV4a7Sth6aw4A3ad7deSVfYN"><img src="https://ipfs.io/ipfs/QmXr9VEFU7y7D7BF4ivUAdDV4a7Sth6aw4A3ad7deSVfYN" width="300"/></a>
 
