@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2022/04/twitter_100_f
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Apr  8 10:37:57 2022 +0900
+update: Fri Apr  8 18:37:08 2022 +0900
 ---
 {% include pagelink.md %}
 # Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。
@@ -23,7 +23,8 @@ update: Fri Apr  8 10:37:57 2022 +0900
 {% include firstad.html %}
 
 ## 超簡易版NFTギャラリー
-先日のエイプリルフールに作成したNFTのトークンメタデータに紐づけられている画像を貼り付けてみることにしました。
+### On mainnet
+先日のエイプリルフールにTezosのmainnetのブロックチェーン上に作成したNFTのトークンメタデータに紐づけられている画像を貼り付けてみることにしました。
 
 紐づけられているのは以下の画像です(IPFS Gateway経由で取得しています)。
 
@@ -40,7 +41,16 @@ update: Fri Apr  8 10:37:57 2022 +0900
 Ethereumのガス代は高いですからね(2022年4月現在)。
 
 なお、この記事を最初に書いた時点(2022年4月)では作成したNFTの配布の計画・予定などはありません。
+### On testnet (hangzhounet)
+Tezosのテストネット(hangzhounet)では動画に紐づけたNFTを作成しています。
 
+紐づけられているのは以下の動画です(IPFS Gateway経由で取得しています)。
+
+<video src="https://ipfs.io/ipfs/Qmch3vJtNtmkVd6hDvqqniCRG4N3yzoJ6uxz9cFRCZcc9k">
+<p>お使いのブラウザではvideoタグはサポートされていないようですので、サポートされているブラウザでご覧ください。</p>
+</video>
+
+なお、シンボル名は"UMSGRX"です。
 ## 図の中の説明用矢印の色遣いの変更
 次に、本Webサイト等に貼り付けている説明用の画像で使っている矢印の色を赤(#ff0000)から国鉄の色名称のうちの朱色5号(#CA4F3C,RGB:(202,79,60),以下単に「朱色5号」と書きます。)に変更することにしました。
 
