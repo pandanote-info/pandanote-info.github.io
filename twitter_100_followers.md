@@ -1,12 +1,12 @@
 ---
 title: Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。 - panda大学習帳外伝
-description: 
+description: いろいろとやってみました。
 mathjax: true
-image: 
+image: https://pandanote.info/wordpress/wp-content/uploads/2022/04/twitter_100_followers.png
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Apr  8 09:08:16 2022 +0900
+update: Fri Apr  8 09:27:44 2022 +0900
 ---
 {% include pagelink.md %}
 # Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。
