@@ -1,4 +1,4 @@
----
+g---
 title: Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。 - panda大学習帳外伝
 description: いろいろとやってみました。
 mathjax: true
@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2022/04/twitter_100_f
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Apr  8 18:40:59 2022 +0900
+update: Mon Apr 11 09:16:33 2022 +0900
 ---
 {% include pagelink.md %}
 # Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。
@@ -28,7 +28,7 @@ update: Fri Apr  8 18:40:59 2022 +0900
 
 紐づけられているのは以下の画像です(IPFS Gateway経由で取得しています)。
 
-<a href="https://ipfs.io/ipfs/QmXr9VEFU7y7D7BF4ivUAdDV4a7Sth6aw4A3ad7deSVfYN"><img src="https://ipfs.io/ipfs/QmXr9VEFU7y7D7BF4ivUAdDV4a7Sth6aw4A3ad7deSVfYN" width="300"/></a>
+<a href="https://ipfs.io/ipfs/QmXr9VEFU7y7D7BF4ivUAdDV4a7Sth6aw4A3ad7deSVfYN"><img src="https://ipfs.io/ipfs/QmXr9VEFU7y7D7BF4ivUAdDV4a7Sth6aw4A3ad7deSVfYN" width="90%"/></a>
 
 上記の画像に対して作成したNFTは以下の仕様でTezosのブロックチェーン上に作成しています。
 
@@ -46,7 +46,7 @@ Tezosのテストネット(hangzhounet)では動画に紐づけたNFTを作成�
 
 紐づけられているのは以下の動画です(IPFS Gateway経由で取得しています)。
 
-<video src="https://ipfs.io/ipfs/Qmch3vJtNtmkVd6hDvqqniCRG4N3yzoJ6uxz9cFRCZcc9k" controls="controls" width="300">
+<video src="https://ipfs.io/ipfs/Qmch3vJtNtmkVd6hDvqqniCRG4N3yzoJ6uxz9cFRCZcc9k" controls="controls" width="90%">
 <p>お使いのブラウザではvideoタグはサポートされていないようですので、サポートされているブラウザでご覧ください。</p>
 </video>
 
