@@ -5,7 +5,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/08/P_20210626_11
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Feb 13 19:28:04 2022 +0900
+update: Sun May  1 16:17:08 2022 +0900
 ---
 {% include homelink.md %}
 
@@ -28,15 +28,15 @@ update: Sun Feb 13 19:28:04 2022 +0900
 # Tipping with Brave browser / Braveブラウザでチップを送る
 本サイト、panda大学習帳及び第三倉庫(仮)の各Webサイトは、Brave Creatorsとしての設定を行っています。
 
-よって、Braveブラウザでの閲覧時にベーシックアテンショントークン(BAT)によるチップをいただくことができます。
+よって、Braveブラウザでの閲覧時にベーシックアテンショントークン(BAT)によるチップをお送りいただくと、受け取ることができます。
 
 ※[チップを送付する方法についての記事](https://sidestory.pandanote.info/tipping_in_brave.html)を追加しました。
 
-チップをいただけると、中の人のモチベーションを向上させることができる可能性が大いにあります。
+チップをいただけると、本Webサイトを維持することができるだけでなく、中の人のモチベーションを向上させることができる可能性が大いにあります。
 
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=12&l=ur1&category=amazonrotate&f=ifr&linkID=74ba4d7eca10219e9a995ec6f89e9bbf&t=karen99-22&tracking_id=karen99-22" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
-チップの受領の状況については、↓のような感じでTwitterに時々(1ヵ月に1回程度)投稿しています。
+なお、チップの受領の状況については、↓のような感じでTwitterに時々(1ヵ月に1回程度)投稿しています。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/bitFlyer?src=hash&amp;ref_src=twsrc%5Etfw">#bitFlyer</a> に接続している方のウォレットには今月は <a href="https://twitter.com/search?q=%24BAT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$BAT</a> のチップを2.54BAT(=260円くらい)くらいいただきました。<br>ありがたいです。🙇‍♂️<a href="https://twitter.com/hashtag/basicattentiontoken?src=hash&amp;ref_src=twsrc%5Etfw">#basicattentiontoken</a><a href="https://twitter.com/hashtag/cryptocurrencies?src=hash&amp;ref_src=twsrc%5Etfw">#cryptocurrencies</a><a href="https://twitter.com/hashtag/lifeinyokohama?src=hash&amp;ref_src=twsrc%5Etfw">#lifeinyokohama</a></p>&mdash; pandanote.info (@Pandanote_info) <a href="https://twitter.com/Pandanote_info/status/1492033314546356225?ref_src=twsrc%5Etfw">February 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
