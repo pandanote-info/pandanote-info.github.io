@@ -2,11 +2,11 @@
 title: VirtualBoxのゲストOSで稼働しているFedora35を効率良くFedora36にアップグレードしようとしたところ、ホストOSのWindows10/11が停止した話。 - panda大学習帳外伝
 description: VirtualBoxのスナップショットは緊急事態発生時の復旧手段として割と使えるかもしれないというお話です。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2022/05/fedora36_upgrade_scene5.png
+image: https://pandanote.info/wordpress/wp-content/uploads/2022/05/P_20220506_171852_a.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat May 14 16:12:06 2022 +0900
+update: Sat May 14 16:24:08 2022 +0900
 ---
 {% include pagelink.md %}
 # VirtualBoxのゲストOSで稼働しているFedora35を効率良くFedora36にアップグレードしようとしたところ、ホストOSのWindows10/11が停止した話。
