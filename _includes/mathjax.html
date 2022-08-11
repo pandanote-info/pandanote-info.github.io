@@ -1,16 +1,20 @@
 {% if page.mathjax %}
 <script>
 MathJax = {
-  chtml: {
-      displayAlign: "left",
-      displayIndent: "2em",
-	  matchFontHeight: false
-  },
-  tex: {
-    tags: 'ams',
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    processEscapes: true
-  }
+	loader: {
+		load: ['[tex]/color']
+	},
+	chtml: {
+		displayAlign: "left",
+		displayIndent: "2em",
+		matchFontHeight: false
+	},
+	tex: {
+		packages: {'[+]': ['color']},
+		tags: 'ams',
+		inlineMath: [['$','$'], ['\\(','\\)']],
+		processEscapes: true
+	}
 }
 </script>
 <script id="MathJax-script" async
