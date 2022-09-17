@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2022/09/restoring_rdp
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Sep 17 11:28:39 2022 +0900
+update: Sat Sep 17 11:39:20 2022 +0900
 ---
 {% include pagelink.md %}
 # Windows Updateの実行後にRDP Wrapper Libraryの設定ファイルをデスクトップからログインせずに最新版に更新し、かつその設定を反映させる方法。
@@ -42,7 +42,7 @@ update: Sat Sep 17 11:28:39 2022 +0900
 <ol>
 <li>リモートデスクトップの設定を行うPC(本記事の例ではdynabookになります。)にsshを使ってログインします。</li>
 <li>(初回のみ実行) 以下のコマンドを実行し、INI-RDPWRAPのリポジトリをローカルにcloneします。
-```
+<code>
 panda@pandanote.info c:\Users\pandanote\work>git clone https://github.com/affinityv/INI-RDPWRAP
 Cloning into 'INI-RDPWRAP'...
 remote: Enumerating objects: 341, done.
@@ -51,7 +51,7 @@ remote: Compressing objects: 100% (45/45), done.
 remote: Total 341 (delta 97), reused 61 (delta 57), pack-reused 239
 Receiving objects: 100% (341/341), 1.33 MiB | 8.42 MiB/s, done.
 Resolving deltas: 100% (241/241), done.
-```
+</code>
 </li>
 <li>(2回目以降実行) 手順1でcloneしたリポジトリのディレクトリ(INI-RDPWRAP)があるディレクトリ上で以下のコマンドを実行します。
 ```
