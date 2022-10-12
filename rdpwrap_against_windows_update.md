@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2022/09/restoring_rdp
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Wed Oct 12 23:52:47 2022 +0900
+update: Thu Oct 13 00:00:47 2022 +0900
 ---
 {% include pagelink.md %}
 # Windows Updateの実行後にRDP Wrapper Libraryの設定ファイルをデスクトップからログインせずに最新版に更新し、かつその設定を反映させる方法。
@@ -70,7 +70,6 @@ Fast-forward
 </code></pre>
 </li>
 <li>管理者の権限でコマンドプロンプトを起動します。</li>
-<li>手順1または2でダウンロードまたは更新されたrdpwrap.iniをRDP Wrapper Libraryのインストール先(dynabookでは"c:\Program Files\RDP Wrapper"としています。)にコピー(既存のrdpwrap.iniがある場合はバックアップを取ってから上書き)します。</li>
 <li>以下のコマンドを実行し、PowerShellを起動します。
 <pre><code>
 panda@pandanote.info c:\Program Files\RDP Wrapper>powershell
@@ -84,12 +83,13 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 <pre><code>
 panda@pandanote.info c:\Program Files\RDP Wrapper>net stop termservice
 </code></pre>
-サービスの停止ができない場合には、システムを再起動します。
 </li>
+<li>手順1または2でダウンロードまたは更新されたrdpwrap.iniをRDP Wrapper Libraryのインストール先(dynabookでは"c:\Program Files\RDP Wrapper"としています。)にコピー(既存のrdpwrap.iniがある場合はバックアップを取ってから上書き)します。</li>
 <li>以下のコマンドを実行してサービスを開始させ、設定の変更を反映させます。
 <pre><code>
 panda@pandanote.info c:\Program Files\RDP Wrapper>net start termservice
 </code></pre>
+サービスの起動ができない場合には、システムを再起動します。
 </li>
 </ol>
 
