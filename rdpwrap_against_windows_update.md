@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2022/09/restoring_rdp
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Sep 17 11:45:16 2022 +0900
+update: Wed Oct 12 23:52:47 2022 +0900
 ---
 {% include pagelink.md %}
 # Windows Updateの実行後にRDP Wrapper Libraryの設定ファイルをデスクトップからログインせずに最新版に更新し、かつその設定を反映させる方法。
@@ -56,7 +56,17 @@ Resolving deltas: 100% (241/241), done.
 <li>(2回目以降実行) 手順1でcloneしたリポジトリのディレクトリ(INI-RDPWRAP)があるディレクトリ上で以下のコマンドを実行します。
 <pre><code>
 panda@pandanote.info c:\Users\pandanote\work\INI-RDPWRAP>git pull
-Already up to date.
+remote: Enumerating objects: 11, done.
+remote: Counting objects: 100% (11/11), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 9 (delta 7), reused 6 (delta 4), pack-reused 0
+Unpacking objects: 100% (9/9), done.
+From https://github.com/affinityv/INI-RDPWRAP
+   c02e6af..0b78187  master     -> origin/master
+Updating c02e6af..0b78187
+Fast-forward
+ rdpwrap.ini | 328 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 327 insertions(+), 1 deletion(-)
 </code></pre>
 </li>
 <li>管理者の権限でコマンドプロンプトを起動します。</li>
@@ -78,7 +88,7 @@ panda@pandanote.info c:\Program Files\RDP Wrapper>net stop termservice
 </li>
 <li>以下のコマンドを実行してサービスを開始させ、設定の変更を反映させます。
 <pre><code>
-panda@pandanote.info c:\Program Files\RDP Wrapper>net stop termservice
+panda@pandanote.info c:\Program Files\RDP Wrapper>net start termservice
 </code></pre>
 </li>
 </ol>
