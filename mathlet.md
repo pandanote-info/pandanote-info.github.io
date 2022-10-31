@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2022/10/mathlet_scene
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Mon Oct 31 23:01:47 2022 +0900
+update: Mon Oct 31 23:40:01 2022 +0900
 ---
 {% include pagelink.md %}
 # Webブラウザ上でLaTeXの数式が編集できると捗る件。
@@ -25,7 +25,7 @@ MathJax3の助けを借りてWebのページにちょっと込み入った数式
 {% include firstad.html %}
 
 ## mathlet
-作ってみた結果出来上がった物は[こちら](https://vsse.pandanote.info/vsse.html)(*)にあります(「[第三倉庫(仮)](https://vsse.pandanote.info/)」内)。
+作ってみた結果出来上がった物は[こちら](https://vsse.pandanote.info/mathlet.html)(*)にあります(「[第三倉庫(仮)](https://vsse.pandanote.info/)」内)。
 
 以下のような感じで表示できます。
 
