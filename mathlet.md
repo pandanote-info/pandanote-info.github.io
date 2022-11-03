@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2022/10/mathlet_scene
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Mon Oct 31 23:40:01 2022 +0900
+update: Thu Nov  3 13:56:33 2022 +0900
 ---
 {% include pagelink.md %}
 # Webブラウザ上でLaTeXの数式が編集できると捗る件。
@@ -85,7 +85,7 @@ mathletのページの領域は大きく以下の2つの領域に分類できま
 {%include thirdintervalad.html %}
 
 ## まとめ
-mathletの使い方をまとめてみましたので、Webページで数式を表示してみたくなった際のお試し記述用に使ってみていただけると良いのではないかと思います。
+mathletの使い方をまとめてみましたので、Webページで数式を表示してみたくなり、急にBessel関数や$\zeta$関数を計算してみたくなった時等のお試し記述用に使ってみていただけると良いのではないかと思います。
 
 この記事は以上です。
 ## リンク
