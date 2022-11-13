@@ -1,9 +1,35 @@
+## drop_file_with_blob_<br/>and_promise.js
+* Created at: 2022-11-05T01:31:07Z
+* Updated at: 2022-11-05T04:03:38Z
+* Descrption: ファイルをWebブラウザにドラッグ&ドロップするためのVue.js用のメソッド(Blob及びPromise使用)
+* [Link to Gist](https://gist.github.com/f1338bcf508ff8a245cc9f1da544ebf1)
+* Referenced from: 
+    * [JavaScriptのBlob.arrayBuffer()を使ってブラウザにドラッグ&ドロップされたテキストファイルの内容を読み込むためのコードを書いてみた。](https://pandanote.info/?p=9836)
+
+## dropfile_with_filereader.js
+* Created at: 2022-11-05T00:48:44Z
+* Updated at: 2022-11-05T04:03:22Z
+* Descrption: ファイルをWebブラウザにドラッグ&ドロップするためのVue.js用のメソッド(FileReader使用)
+* [Link to Gist](https://gist.github.com/5f9e5a95f53e9acfcd75fa5927ac5b3b)
+* Referenced from: 
+    * [JavaScriptのBlob.arrayBuffer()を使ってブラウザにドラッグ&ドロップされたテキストファイルの内容を読み込むためのコードを書いてみた。](https://pandanote.info/?p=9836)
+
 ## datetime_in_isoformat_part2.py
 * Created at: 2022-08-28T11:40:56Z
 * Updated at: 2022-08-28T11:41:27Z
 * Descrption: 現在のローカル時刻をISO8601フォーマットで表示するためのPython3のプログラム(その2)。
 * [Link to Gist](https://gist.github.com/8476402230fcebbe9cd85cb5dbb3117b)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## datetime_in_isoformat_part1.py
 * Created at: 2022-08-28T11:39:11Z
 * Descrption: 現在のローカル時刻をISO8601フォーマットで表示するためのPython3のプログラム(その1)。
@@ -16,16 +42,6 @@
 * Referenced from: 
     * [YARPPのRelated PostsにAdSenseの広告をしれっと混ぜてみた。](https://pandanote.info/?p=9123)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## yarpp-template-pandanote-sample.php
 * Created at: 2022-05-31T11:32:44Z
 * Updated at: 2022-05-31T11:41:15Z
@@ -39,6 +55,16 @@
 * Descrption: 正規表現を用いて文字列の置換を行うためのVBAのプログラム例
 * [Link to Gist](https://gist.github.com/3816b4b043ebaadb2bd6f9353efee4da)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## mongodb_var_lib_nfs_<br/>fs.te
 * Created at: 2022-04-02T11:48:19Z
 * Descrption: MongoDB用のType Enforcementファイルの作成例(var_lib_nfs_t用)。
@@ -53,16 +79,6 @@
 * Referenced from: 
     * [Fedora 35にMongoDB 5.0のインストールを試みて、試行錯誤したりちょっと設定をいじってみた話。](https://pandanote.info/?p=8758)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## uploadToIpfs.js
 * Created at: 2022-03-25T08:18:14Z
 * Descrption: POSTメソッドで受け取ったbodyからバイナリデータを取り出し、IPFSノードにアップロードするNode.jsのプログラムのプログラム片。
@@ -78,6 +94,16 @@
 * Referenced from: 
     * [ASUS TUF-AX5400のether-wakeの実行用及びOpenVPNの起動用のシェルスクリプト等をNVRAMに置くことにした話。](https://pandanote.info/?p=8407)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## tfidf.py.sample
 * Created at: 2022-01-07T07:47:54Z
 * Descrption: TF-IDFの計算用のサンプルコード片
@@ -92,16 +118,6 @@
 * Referenced from: 
     * [本Webサイトの記事を記事ごとにBag-of-Wordsモデルを使ってベクトル化してみた。](https://pandanote.info/?p=6890)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## startipfs.sh
 * Created at: 2021-12-04T11:45:20Z
 * Updated at: 2021-12-06T12:39:05Z
@@ -117,6 +133,16 @@
     * [IPNSを使いたいのでIPFSのdaemonのnamesys-pubsubオプションを有効にしてみた。](https://pandanote.info/?p=8226)
     * [Fedora 35で稼働するIPFSのノードを立ち上げてみた。](https://pandanote.info/?p=8205)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## adjust_config_sample.sh
 * Created at: 2021-11-09T11:51:30Z
 * Descrption: Fedora+nginxのアップデートまたはアップグレードを行う際に、nginx用の設定ファイルのownerをnginxユーザに戻すためのシェルスクリプト。
@@ -133,16 +159,6 @@
 * Referenced from: 
     * [Excelの行または列からSQLite3のCREATE TABLE句のテンプレートのようなものを出力するExcel VBAのアドインを作ってみた。](https://pandanote.info/?p=8075)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## Excel2SQLite3_Worksheet_BeforeRightClick.vba
 * Created at: 2021-11-03T02:35:37Z
 * Updated at: 2021-11-10T14:33:02Z
@@ -158,6 +174,16 @@
 * Referenced from: 
     * [WordPressのカテゴリのページ用のTwitter Cardを作成するためのプログラム例](https://pandanote.info/?p=7924)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## CountElement.java
 * Created at: 2021-05-22T14:45:52Z
 * Updated at: 2022-07-28T15:16:34Z
@@ -171,16 +197,6 @@
 * Referenced from: 
     * [Blender 2.92.0とPython3でトーラスが伸びたり縮んだりする動画を作る。?](https://pandanote.info/?p=7456)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## directproducttest2.json
 * Created at: 2021-03-05T13:55:10Z
 * Descrption: 直積集合を作成するための集合を定義したJSONファイルの例。
@@ -196,6 +212,16 @@
 * Referenced from: 
     * [バックエンドのGROWIサーバの電源が入っていない時に、「503 たぶんサーバの電源が切れています。」とフロントエンドのnginxに返してもらうための設定のようなもの(2/2,書き込み側のお話)。](https://pandanote.info/?p=7259)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## growi.service
 * Created at: 2021-02-04T13:15:54Z
 * Descrption: GROWI起動用のサービスユニットファイルのコード例。
@@ -211,16 +237,6 @@
 * Referenced from: 
     * [バックエンドのGROWIサーバの電源が入っていない時に、「503 たぶんサーバの電源が切れています。」とフロントエンドのnginxに返してもらうための設定のようなもの(1/2,読み出し側のお話)。](https://pandanote.info/?p=7242)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## serverstatus.sql
 * Created at: 2021-01-27T02:29:26Z
 * Updated at: 2021-01-27T10:20:02Z
@@ -236,6 +252,16 @@
 * Referenced from: 
     * [openpyxlを使ってExcelファイルで作られたフォームのレイアウトを大まかに把握する。](https://pandanote.info/?p=7224)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## freqreader.py
 * Created at: 2020-11-30T02:59:31Z
 * Updated at: 2020-12-09T23:19:34Z
@@ -251,16 +277,6 @@
 * Referenced from: 
     * [GitHub Pagesの各ページに最終更新日を入れようと思ったので、Emacsにそのための設定を追加してみた。](https://pandanote.info/?p=6871)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## markdown-insert-github-pages-template.el
 * Created at: 2020-11-08T08:16:35Z
 * Updated at: 2020-11-08T09:18:41Z
@@ -276,6 +292,16 @@
 * Referenced from: 
     * [HTML5のCustom Elementsを使って再利用できるリンク集の出力用のタグを作ってみた。](https://pandanote.info/?p=6855)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## pineleaf.php
 * Created at: 2020-09-09T10:29:18Z
 * Updated at: 2020-09-09T11:01:12Z
@@ -291,16 +317,6 @@
 * Referenced from: 
     * [Wordpressの記事に埋め込むLeafletの地図に複数のピンを挿すためのショートコードを作ってみた。](https://pandanote.info/?p=6619)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## axios_vuejs_example.txt
 * Created at: 2020-07-24T07:09:09Z
 * Updated at: 2020-07-24T07:09:10Z
@@ -316,6 +332,16 @@
 * Referenced from: 
     * [Node.jsとVue.jsを使って、MariaDBのデータを操作するだけの簡単なWebアプリを作ってみた。](https://pandanote.info/?p=6505)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## staticfilefornodejs.txt
 * Created at: 2020-07-24T06:58:38Z
 * Descrption: Node.js用staticなHTMLファイルの送信用コード例
@@ -331,16 +357,6 @@
 * Referenced from: 
     * [Node.jsとVue.jsを使って、MariaDBのデータを操作するだけの簡単なWebアプリを作ってみた。](https://pandanote.info/?p=6505)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## HelloWorld.js
 * Created at: 2020-07-24T03:25:50Z
 * Descrption: Node.js用Hello Worldなコード。
@@ -353,6 +369,16 @@
 * Referenced from: 
     * [kuromojiに最新のNEologdを組み込んでみた。](https://pandanote.info/?p=6384)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## kuromoji-pom-20200521.patch
 * Created at: 2020-06-20T13:27:30Z
 * Descrption: kuromojiに最新のNEologdを組み込むためのパッチ(1/2)
@@ -366,16 +392,6 @@
 * Descrption: HackGenNerdフォントをEmacsで使用するための設定例。
 * [Link to Gist](https://gist.github.com/7a0c4a7380083a683d7a4538f03e95d1)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## floor_function.py
 * Created at: 2020-05-13T13:15:49Z
 * Descrption: 第1引数に与えられた数xの最上位の桁以外の桁を0にした数を出力するPython3のプログラム。
@@ -391,6 +407,16 @@
 * Referenced from: 
     * [グラフを描画するプログラムをscratchから書かねばならなくなった時に、軸の目盛り(tick)の間隔をいい感じに設定する方法。](https://pandanote.info/?p=6270)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## nbonacci.scala
 * Created at: 2020-05-02T06:39:33Z
 * Updated at: 2020-05-02T08:57:21Z
@@ -405,16 +431,6 @@
 * Descrption: nbonacci sequence (nボナッチ数列)の計算及び出力のためのPython3のコード例。
 * [Link to Gist](https://gist.github.com/8838de42bfe8cef428125cd810c452a1)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## ScalaJHttpClientSample.scala
 * Created at: 2020-04-04T14:15:51Z
 * Updated at: 2020-04-27T12:27:25Z
@@ -429,6 +445,16 @@
 * Descrption: PHPのget_class関数の使用例。
 * [Link to Gist](https://gist.github.com/15cfcabe7ee7c0af95e31f1c60e56ad8)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## getticker.py
 * Created at: 2020-02-09T12:37:07Z
 * Updated at: 2020-02-09T12:37:08Z
@@ -445,16 +471,6 @@
 * Referenced from: 
     * [【Bitcoinをもらったので加筆。】bitFlyer LightningのHTTP Public APIを呼び出し、Bitcoinの価格を取得するPython3のプログラムを書いてみた。](https://pandanote.info/?p=5966)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## nginx_growi.conf.example
 * Created at: 2020-01-14T22:26:57Z
 * Updated at: 2022-02-18T01:14:17Z
@@ -470,6 +486,16 @@
 * Referenced from: 
     * [オンプレミスなFedora 31(or later)でGROWIを動かしてみた(1/2): GROWI等のインストール。](https://pandanote.info/?p=5864)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## env.prod.js
 * Created at: 2020-01-12T00:47:03Z
 * Updated at: 2021-03-26T14:05:49Z
@@ -485,16 +511,6 @@
 * Referenced from: 
     * [オンプレミスなFedora 31(or later)でGROWIを動かしてみた(1/2): GROWI等のインストール。](https://pandanote.info/?p=5864)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## growi
 * Created at: 2020-01-12T00:33:52Z
 * Updated at: 2021-03-26T14:08:42Z
@@ -510,6 +526,16 @@
 * Referenced from: 
     * [オンプレミスなFedora 31(or later)でGROWIを動かしてみた(1/2): GROWI等のインストール。](https://pandanote.info/?p=5864)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## nginx_customized_404.conf
 * Created at: 2020-01-04T14:43:57Z
 * Updated at: 2020-01-04T14:43:58Z
@@ -526,16 +552,6 @@
 * Referenced from: 
     * [Apache httpd+php-fpm+WordpressなサーバのApache httpdをnginxに取り換えてみた。](https://pandanote.info/?p=5821)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## nginx_server_map_example_<br/>part2.conf
 * Created at: 2020-01-04T14:04:02Z
 * Updated at: 2020-01-04T14:04:03Z
@@ -552,6 +568,16 @@
 * Referenced from: 
     * [Apache httpd+php-fpm+WordpressなサーバのApache httpdをnginxに取り換えてみた。](https://pandanote.info/?p=5821)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## nginx_server_on_443.conf
 * Created at: 2020-01-04T07:08:16Z
 * Updated at: 2020-01-04T07:08:17Z
@@ -568,16 +594,6 @@
 * Referenced from: 
     * [Apache httpd+php-fpm+WordpressなサーバのApache httpdをnginxに取り換えてみた。](https://pandanote.info/?p=5821)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## GetItems.php
 * Created at: 2019-11-06T11:02:24Z
 * Descrption: PA-APIv5のAPIを使った商品データ取得用関数の実装例。
@@ -592,6 +608,16 @@
 * Referenced from: 
     * [Javaのクラス名を考えたり、思い出したりするのに疲れた頭には、Scalaのタプルが効くかもしれない件。](https://pandanote.info/?p=5424)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## SampleWebErrorHandler.scala
 * Created at: 2019-09-29T14:18:52Z
 * Descrption: Play frameworkのカスタムエラーページにmessagesファイルに定義されている文字列を読み込んで表示するためのコードを組み込んだエラーハンドラ。
@@ -606,16 +632,6 @@
 * Referenced from: 
     * [EmacsでScalaのコードを編集すると次々と作成されるバックアップファイルを"sbt clean"で削除するための設定。](https://pandanote.info/?p=5285)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## UTF8StdinTest.scala
 * Created at: 2019-09-04T13:41:32Z
 * Descrption: 標準入力からのデータ読み込みのテスト用のScalaのプログラム。
@@ -631,6 +647,16 @@
 * Referenced from: 
     * [Windows 10+Emacs 26+SBT-1.3.0-RC1でScalaの統合開発環境のようなものを整備してみる。](https://pandanote.info/?p=4567)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## github_pages.sql
 * Created at: 2019-07-14T13:04:10Z
 * Descrption: GitHub APIから取得したGitHub Pagesの更新状況を格納するためのテーブルを作成するSQL文。
@@ -646,16 +672,6 @@
 * Referenced from: 
     * [GitHub Pagesのトップページの記事一覧をMariaDBの力を借りて作成日時と最終更新日時(のようなもの)順に並べてみた。](https://pandanote.info/?p=4942)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## functions_snippet.php
 * Created at: 2019-06-24T13:05:55Z
 * Descrption: amazon_widget.phpの組み込みのためにfunctions.phpに記述が必要なコード。
@@ -670,6 +686,16 @@
 * Referenced from: 
     * [WordPressに記事として書かれている文章のおおよその総文字数をSQL文だけで求める方法](https://pandanote.info/?p=494)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## minimum_customize_sample.sh
 * Created at: 2019-06-09T14:22:29Z
 * Descrption: Apache Solr 8の動作確認用にテキストファイルをインポートするために必要な設定をApache Solrに対して行うためのシェルスクリプト。
@@ -684,16 +710,6 @@
 * Referenced from: 
     * [Microsoft Office 2013の64bit版をインストールする前に、32bit版をアンインストールしようとしたら、一筋縄ではいかなかった件。](https://pandanote.info/?p=4164)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## gist2md_sample.py
 * Created at: 2019-03-23T22:35:35Z
 * Updated at: 2019-03-24T07:50:46Z
@@ -710,6 +726,16 @@
 * Referenced from: 
     * [MariaDBのプロセスを再起動させたら、その旨をTwitterに投稿する簡易システムを構築してみた?](https://pandanote.info/?p=4090)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## githubapi_sample.py
 * Created at: 2019-03-07T14:06:45Z
 * Descrption: GitHub APIへアクセスし、データベースへの書き込み用のSQL文を標準出力に出力するPython3のプログラムの作成例。
@@ -725,16 +751,6 @@
 * Referenced from: 
     * [Let's encryptのドメイン認証の方法を証明書の更新にあわせてHTTP-01に変更してみた(おまけつき)。](https://pandanote.info/?p=3842)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## letsencrypt.sh
 * Created at: 2019-02-03T21:43:59Z
 * Updated at: 2021-02-19T13:34:14Z
@@ -751,6 +767,16 @@
 * Referenced from: 
     * [Let's encryptのドメイン認証の方法をHTTP-01に変更するための準備で試行錯誤した件。](https://pandanote.info/?p=3784)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## camelcasetest3.py
 * Created at: 2019-01-16T12:43:35Z
 * Descrption: 標準入力から読み込んだ文字列にCamelCase変換を行って標準出力にその結果を出力するプログラム。ラムダ式を使ってみた。
@@ -766,16 +792,6 @@
 * Referenced from: 
     * [Python3でCamelCase変換: 後で思い出せない予感がしたので、メモしてみた。](https://pandanote.info/?p=3738)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## camelcasetest1.py
 * Created at: 2019-01-16T12:06:44Z
 * Descrption: 標準入力から入力された文字列に対してCamelCase変換を行うPython3のプログラム。
@@ -790,6 +806,16 @@
 * Referenced from: 
     * [GitHub Pagesでちょっと遊んでみる(3): GitHub PagesでMathJax!!](https://pandanote.info/?p=3715)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## get_country_isocode.php
 * Created at: 2018-12-08T15:37:36Z
 * Updated at: 2018-12-08T15:37:37Z
@@ -806,16 +832,6 @@
 * Referenced from: 
     * [Fedora 29のGeoLite2を使って、アクセス元に応じてページの表示内容を微妙に変えるようにしてみた。](https://pandanote.info/?p=3551)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## GeoLite2-city-example-test.php
 * Created at: 2018-12-08T09:30:48Z
 * Descrption: GeoLite2の動作確認用のPHPのコード。
@@ -831,6 +847,16 @@
 * Referenced from: 
     * [画像のサムネイルからもとの画像へのリンクを設定していなかったような気がするので、SQL文で追加を試みたところ、正規表現でハマったのでメモ。](https://pandanote.info/?p=3510)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## regexp_result_good.txt
 * Created at: 2018-12-03T11:44:47Z
 * Descrption: MariaDBに格納されているimgタグをいったんaタグで囲みつつ、もし二重にaタグで囲んでしまった場合には一組のタグを残して削除するためのテスト用のSQL文。
@@ -845,16 +871,6 @@
 * Referenced from: 
     * [画像のサムネイルからもとの画像へのリンクを設定していなかったような気がするので、SQL文で追加を試みたところ、正規表現でハマったのでメモ。](https://pandanote.info/?p=3510)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## bamboo.php
 * Created at: 2018-12-01T06:08:53Z
 * Updated at: 2020-09-05T05:51:00Z
@@ -870,6 +886,16 @@
 * Referenced from: 
     * [GitHub APIを使って、GitHub上の自分のリポジトリの一覧を表示する簡易なウィジェットを作ってみた。](https://pandanote.info/?p=3389)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## movielist_result.txt
 * Created at: 2018-11-23T08:41:00Z
 * Updated at: 2018-11-23T08:47:41Z
@@ -885,16 +911,6 @@
 * Referenced from: 
     * [絵文字?が入っているWordpressの記事をデータベースに抽出しようとしたら、テーブルの文字コードがutf8で大惨事になりかけた件(おまけ付き)。](https://pandanote.info/?p=3317)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## pandanote_publisher.py
 * Created at: 2018-10-18T22:18:44Z
 * Descrption: 
@@ -910,6 +926,16 @@
 * Referenced from: 
     * [Twitter APIでGitHub Pagesの更新情報を投稿するためのPython3のプログラムを書いてみた。](https://pandanote.info/?p=3079)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## pandanote_publisher_v0.py
 * Created at: 2018-10-18T15:18:37Z
 * Descrption: Twitter APIからtokenを取得するためのPython3のスクリプト。Consumer API key及びConsumer API secret keyはJSONファイルから読み込む。
@@ -925,16 +951,6 @@
 * Referenced from: 
     * [本サイトの記事の新着情報をTwitterに流そうと思い、SNAPプラグインをインストールして有効化したらphp-fpmのタイムアウトが頻発するようになったので、ちょっとだけチューニングしてみた。](https://pandanote.info/?p=3060)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## txt2exo_multifont.py
 * Created at: 2018-10-01T13:05:17Z
 * Descrption: 字幕量産ツールtxt2exo.pyへの入力用の字幕テキストに対して日本語用と英語用で異なるフォントを使い分けるためのタグを挿入するためのPython3のスクリプト。
@@ -949,6 +965,16 @@
 * Referenced from: 
     * [複数のフォントを使ったAviUtlのテキストオブジェクトを量産するために、Python3用のregexモジュールを使ってみた。](https://pandanote.info/?p=2988)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## dump_movie_sidestory_sample.py
 * Created at: 2018-09-19T21:56:20Z
 * Updated at: 2020-12-31T13:03:07Z
@@ -964,16 +990,6 @@
 * Referenced from: 
     * [数式表示用のプラグインをWP-QuickLaTeXからMathJaxに変更しました。](https://pandanote.info/?p=2751)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## latex_equation_scroll.css
 * Created at: 2018-09-18T13:49:59Z
 * Descrption: MathJax使用時にLaTeXの数式が画面からはみ出さないようにするための小細工用CSS片。
@@ -989,6 +1005,16 @@
 * Referenced from: 
     * [数式表示用のプラグインをWP-QuickLaTeXからMathJaxに変更しました。](https://pandanote.info/?p=2751)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## NormDistTest.java
 * Created at: 2018-08-24T07:14:05Z
 * Updated at: 2018-09-03T13:32:14Z
@@ -1005,16 +1031,6 @@
 * Referenced from: 
     * [【追記しました。】Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## dih-config.xml
 * Created at: 2018-08-07T11:42:45Z
 * Descrption: SevenZFileDataSourceクラスを使ってデータをインポートする場合のDataImportHandler用の設定ファイルの設定例。
@@ -1030,6 +1046,16 @@
 * Referenced from: 
     * [【追記しました。】Apache Solrを急遽始めました(2): DataImportHandlerの拡張用のコードをちょいと追加して、7-Zipで圧縮されたデータをインポートしてみた。](https://pandanote.info/?p=2462)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## SevenZFileInputStream.java
 * Created at: 2018-08-06T13:42:38Z
 * Descrption: Apache SolrのDataImportHandlerに7-zipで圧縮されたファイルを読み込ませるために実装したInputStream。
@@ -1044,16 +1070,6 @@
 * Referenced from: 
     * [【プログラムを更新しました。】Python3でAviUtl用テキストオブジェクト量産用ツールを作ってみた。](https://pandanote.info/?p=2422)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## txt2exo.py
 * Created at: 2018-07-21T07:27:06Z
 * Updated at: 2018-10-01T14:24:34Z
@@ -1070,6 +1086,16 @@
 * Referenced from: 
     * [夏が来れば思い出す、Euler角、四元数(2): Scalaで実装してみた。](https://pandanote.info/?p=2399)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## Quaternion.scala
 * Created at: 2018-07-16T10:03:28Z
 * Updated at: 2018-07-16T10:10:57Z
@@ -1084,16 +1110,6 @@
 * Descrption: 特定のURLが指定された場合に限りAmazonアソシエイトのMobile Popoverを表示するためのPHPのコード片。 
 * [Link to Gist](https://gist.github.com/b206136b74df153f861335d32794e8ea)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## catchphrase-sample-301-redirect.conf
 * Created at: 2018-07-07T01:53:29Z
 * Updated at: 2018-11-07T13:06:46Z
@@ -1110,6 +1126,16 @@
 * Referenced from: 
     * [【設定例を変更しました。】固定ページのURLをナウなヤングにバカうけなやつにしようと思いRewriteRuleの設定を試みたところ、かなりハマった件。](https://pandanote.info/?p=2364)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## ComplexNumberTestClass.scala
 * Created at: 2018-05-01T10:45:05Z
 * Descrption: 複素数を扱うためのScalaクラスに対するScalaTest用のテストファイルの記述例。
@@ -1124,16 +1150,6 @@
 * Referenced from: 
     * [Eclipse+SBTでScalaのテストコードを書いて動かそうとしたところ、かなりハマったのでメモ。](https://pandanote.info/?p=1861)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## ComplexNumberTest.scala
 * Created at: 2018-04-28T04:57:01Z
 * Updated at: 2018-05-01T10:43:35Z
@@ -1150,6 +1166,16 @@
 * Referenced from: 
     * [Eclipseを使って複素数を扱うクラス等をScalaで実装しつつ、ちょっと改造してみた。](https://pandanote.info/?p=1829)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## show_engines_result_with_<br/>mroonga.txt
 * Created at: 2018-01-13T07:48:07Z
 * Descrption: Mroongaをインストールした後のshow enginesの実行結果。
@@ -1164,16 +1190,6 @@
 * Referenced from: 
     * [リアルに忙しい時のためのちょっとおしゃれなまとめ的な動画の作り方](https://pandanote.info/?p=1510)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## moviefilelist.py
 * Created at: 2017-12-30T17:04:38Z
 * Updated at: 2018-03-21T05:29:29Z
@@ -1189,6 +1205,16 @@
 * Referenced from: 
     * [YouTubeにアップロードした動画からタグを取り出してコピーし、別の動画のタグに追加するときに使えるPython3のスクリプトを書いてみた。](https://pandanote.info/?p=1454)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## kinu_sample.php
 * Created at: 2017-11-29T22:40:58Z
 * Updated at: 2017-11-29T22:40:59Z
@@ -1203,16 +1229,6 @@
 * Referenced from: 
     * [AmazonへのリンクがクリックされたかどうかをリンクのURLを書き換えることなく確認する方法](https://pandanote.info/?p=1383)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## quicklatex-format.css.diff
 * Created at: 2017-11-20T14:12:53Z
 * Descrption: WP-QuickLaTeXで表示される数式のうちで、長いものを横スクロールできるようにするためのpatch。
@@ -1228,6 +1244,16 @@
 * Referenced from: 
     * [MediaWikiサーバを移転してみる。](https://pandanote.info/?p=1228)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## link_cache_sample.sql
 * Created at: 2017-10-28T04:11:32Z
 * Descrption: Amazon Product Advertising APIを使った広告で、現在までに作成したものを蓄積するためのMariaDBのテーブルの作成用のSQL文のサンプル
@@ -1240,16 +1266,6 @@
 * Referenced from: 
     * [Leafletを使ってOpenStreetMapに地点データをプロットし、それを常時HTTPS接続のWordpressの記事に埋め込んでみる。](https://pandanote.info/?p=1049)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## leaflettest.html
 * Created at: 2017-10-02T12:53:55Z
 * Updated at: 2018-11-25T11:08:48Z
@@ -1263,6 +1279,16 @@
 * Descrption: Apache httpdでIPアドレスやUserAgentでアクセス制御を行うための設定例
 * [Link to Gist](https://gist.github.com/8d6fcfa992c08776e4970d1863432254)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## total_characters_on_wordpress_<br/>excluding_examples.sql
 * Created at: 2017-09-27T13:54:18Z
 * Descrption: WordPressに記事として書かれている文章のうち、設定ファイル、プログラム例及びコマンドの出力結果などを除いた部分のおおよその総文字数を求めるSQL文
@@ -1279,16 +1305,6 @@
     * [WordPressに記事として書かれている文章のおおよその総文字数をSQL文だけで求める方法](https://pandanote.info/?p=494)
     * [【補足を追加しました。】WordPressに記事として書かれている文章のうち、設定ファイル、プログラム例及びコマンドの出力結果などを除いた部分のおおよその総文字数をSQL文だけで求める方法の例](https://pandanote.info/?p=1023)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## amazon_widget_sample.php
 * Created at: 2017-09-23T01:35:33Z
 * Updated at: 2018-10-16T14:22:19Z
@@ -1305,6 +1321,16 @@
 * Referenced from: 
     * [プラグインのPHPのコードを直接編集してYARPP(Yet Another Related Posts Plugin)をカスタマイズする。](https://pandanote.info/?p=872)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## wordpress-ssl.conf
 * Created at: 2017-08-22T12:29:51Z
 * Updated at: 2017-09-20T13:52:30Z
@@ -1319,16 +1345,6 @@
 * Referenced from: 
     * [データベース接続確立エラーが発生したときに表示されるメッセージを使ってユーザビリティを上げてみる。](https://pandanote.info/?p=753)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## movielist.py
 * Created at: 2017-08-16T13:19:09Z
 * Updated at: 2018-11-23T08:42:39Z
@@ -1345,6 +1361,16 @@
 * Referenced from: 
     * [Fedora 25から26へのアップグレード](https://pandanote.info/?p=715)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## MediaWiki_PHP_7_0.diff
 * Created at: 2017-07-29T04:34:06Z
 * Descrption: MediaWikiのPHP 7.0以降対応用のtemporary patch
@@ -1358,16 +1384,6 @@
 * Descrption: MediaWikiのPHP 7.0以降対応用のtemporary patch
 * [Link to Gist](https://gist.github.com/d9493b8a39abc02a66129881db63e255)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 ## lupin3rdtwexo.py
 * Created at: 2017-06-27T12:36:21Z
 * Updated at: 2018-08-29T13:51:46Z
@@ -1382,6 +1398,16 @@
 * Referenced from: 
     * [Iconic Oneテーマが適用されているWordPressの各記事に最終更新日(または日時)を追加する方法](https://pandanote.info/?p=455)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-dk+4w-3s-he+1hy"
+     data-ad-client="ca-pub-7000200295725746"
+     data-ad-slot="2020583285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## ssl_multi_tenant_example.conf
 * Created at: 2017-06-19T21:25:37Z
 * Descrption: Let's encryptから取得した異なるドメインに対するSSL/TLS証明書を同一のWebサーバで共存させて使用するための設定例
@@ -1397,13 +1423,3 @@
 * Referenced from: 
     * [AviUtlのエキスポートファイルから字幕ファイルを作る。](https://pandanote.info/?p=29)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-dk+4w-3s-he+1hy"
-     data-ad-client="ca-pub-7000200295725746"
-     data-ad-slot="2020583285"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
