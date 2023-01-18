@@ -6,7 +6,7 @@ image: https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kweg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Tue Dec 13 23:30:31 2022 +0900
+update: Wed Jan 18 22:55:46 2023 +0900
 ---
 {% include pagelink.md %}
 # Braveブラウザでtipを送る方法。
@@ -15,7 +15,9 @@ update: Tue Dec 13 23:30:31 2022 +0900
 トップページでBraveブラウザ経由のtipの受け取りが可能であると書いておきながら、肝心の送る方法について書いていなかったような気がするので、まとめてみることにしました。
 
 ### 本ページの画像について
-本ページで使用している画像はIPFSにアップロードしたものを使用しております。IPFSの状況によっては表示までに1～2分程度の時間を要する場合があります。
+本ページで使用している画像はIPFSにアップロードしたものを使用しております。IPFSの状況によっては表示までに1～2分程度の時間を要する場合や表示されない場合があります。
+
+表示されない場合には、適宜リロードをお願いいたします。
 
 {% include firstad.html %}
 
@@ -26,7 +28,7 @@ update: Tue Dec 13 23:30:31 2022 +0900
 [brave.com](https://brave.com/)から入手できますので、Google Chrome等と同様の方法でインストールします。
 
 ### Basic Attention Token(BAT)の購入
-適当な暗号資産取引所等からBasic Attention Token(BAT,以下単に「BAT」と書きます。)を購入します。本ページに記載の方法でtipを送るには1BAT以上の残高がウォレットにあることが必要です(tipの金額は調整できますが、1BAT以下でtipが送れるかどうかについては確認していません)。
+適当な暗号資産取引所等からBasic Attention Token(BAT,以下単に「BAT」と書きます。)を購入します。
 
 {%include secondintervalad.html %}
 
