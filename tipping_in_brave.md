@@ -6,7 +6,7 @@ image: https://ipfs.io/ipns/pandanote.info/tipping_on_bat_scene4.png
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Wed Mar  8 00:27:44 2023 +0900
+update: Thu Apr  6 20:57:32 2023 +0900
 ---
 {% include pagelink.md %}
 # Braveブラウザでtipを送る方法。
@@ -40,8 +40,8 @@ Braveブラウザのインストールができたら、以下の手順でtipを
 1. アドレスバーの右側のBATのアイコンにチェックマーク(下図の赤矢印)が表示されていることを確認します。<a href="https://ipfs.io/ipns/pandanote.info/tipping_on_bat_scene1.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/tipping_on_bat_scene1.png"/></a>
 1. チェックマークがついているBATのアイコンをクリックします。
 1. 以下のポップアップウィンドウが表示されますので、「チップを送る」ボタンをクリックします。<a href="https://ipfs.io/ipns/pandanote.info/tipping_on_bat_scene2.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/tipping_on_bat_scene2.png"/></a>
-1. 表示が以下のように切り替わりますので、「ワンタイムチップ」及び「1BAT」が選択されていることを確認後、「チップを送る」ボタン(下図の赤矢印)をクリックします(PC用のBrave browserでは「カスタム金額」のリンクをクリックすると送付するBATの量を調整できて、1BAT以下の金額を指定することもできます)。<a href="https://ipfs.io/ipns/pandanote.info/tipping_on_bat_scene3.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/tipping_on_bat_scene3.png"/></a>
-1. 送付するBATの量等に問題がなければ表示が以下のように切り替わり、手順6で指定した量のBATが送付されます。Tipを送付をした旨をツイートすることもできます。<a href="https://ipfs.io/ipns/pandanote.info/tipping_on_bat_scene4.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/tipping_on_bat_scene4.png"/></a>
+1. 表示が以下のように切り替わりますので、「ワンタイムチップ」及び「1BAT」が選択されていることを確認後、「チップを送る」ボタン(下図の赤矢印)をクリックします(PC用のBrave browserでは「カスタム金額」のリンクをクリックすると送付するBATの量を調整できて、1BAT以下の金額を指定することもできます)。<a href="https://pandanote.info/wordpress/wp-content/uploads/2023/04/tipping_on_bat_scene3.png"><img width="540" src="https://pandanote.info/wordpress/wp-content/uploads/2023/04/tipping_on_bat_scene3.png"/></a>
+1. 送付するBATの量等に問題がなければ表示が以下のように切り替わり、手順6で指定した量のBATが送付されます。Tipを送付をした旨をツイートすることもできます。<a href="https://pandanote.info/wordpress/wp-content/uploads/2023/04/tipping_on_bat_scene4.png"><img width="540" src="https://pandanote.info/wordpress/wp-content/uploads/2023/04/tipping_on_bat_scene4.png"/></a>
 
 {%include thirdintervalad.html %}
 
