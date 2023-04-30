@@ -1,7 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
-* [GitHub Gistにアップロードしたシェルスクリプトのファイルをgit cloneして使ってみた。](https://sidestory.pandanote.info/git_clone_from_gist.html)(2023/04/30)<br/>
+* [GitHub Gistにアップロードしたシェルスクリプトのファイルをgit cloneして使ってみた。](https://sidestory.pandanote.info/git_clone_from_gist.html)(2023/04/30)<br/>今まで使っていなかったシェルスクリプトを実行してみました。
 * [Braveブラウザでtipを送る方法。](https://sidestory.pandanote.info/tipping_in_brave.html)(2022/02/13, Last update: 2023/04/06)<br/>Braveブラウザでtipを送る方法についてまとめてみた。
 * [Web Componentsを使ってCopyright表示の年号を制御するカスタムHTML要素を作成する。](https://sidestory.pandanote.info/webcomponents_for_copyright.html)(2023/01/13)<br/>年が変わってもCopyrightの年を追従させる方法について書いています。
 * [ζ(2)及びζ(4)の計算結果を使ってζ(6)を計算してみた。](https://sidestory.pandanote.info/9778bis.html)(2022/11/13)<br/>
