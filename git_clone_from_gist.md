@@ -1,12 +1,12 @@
 ---
 title: GitHub Gistにアップロードしたシェルスクリプトのファイルをgit cloneして使ってみた。 - panda大学習帳外伝
-description: 
+description: 今まで使っていなかったシェルスクリプトを実行してみました。
 mathjax: true
 image: 
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Apr 30 17:31:46 2023 +0900
+update: Sun Apr 30 17:40:03 2023 +0900
 ---
 {% include pagelink.md %}
 # GitHub Gistにアップロードしたシェルスクリプトのファイルをgit cloneして使ってみた。
