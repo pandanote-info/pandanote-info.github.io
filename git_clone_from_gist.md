@@ -6,7 +6,7 @@ image:
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Apr 30 17:18:56 2023 +0900
+update: Sun Apr 30 17:31:46 2023 +0900
 ---
 {% include pagelink.md %}
 # GitHub Gistにアップロードしたシェルスクリプトのファイルをgit cloneして使ってみた。
@@ -108,6 +108,26 @@ To https://gist.github.com/pandanote-info/6d5abf29e0b21fcf12bfec25fea0831b
 
 追加したファイル(README.txt)も見ることができます。
 
+しかし、追加したファイルも元からあったファイルの貼り付け先の記事から見えてしまうので、削除します。
+
+```
+$ git rm README.txt
+$ git commit -m 'Remove README.txt.'
+[master 801e675] Remove README.txt.
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 README.txt
+$ git push
+(ユーザ名とパスワードを入力)
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 257 bytes | 257.00 KiB/s, done.
+Total 2 (delta 0), reused 1 (delta 0), pack-reused 0
+To https://gist.github.com/pandanote-info/6d5abf29e0b21fcf12bfec25fea0831b
+   334244d..801e675  master -> master
+```
+
 以上、おまけでした。
 
 {%include thirdintervalad.html %}
@@ -116,7 +136,7 @@ To https://gist.github.com/pandanote-info/6d5abf29e0b21fcf12bfec25fea0831b
 
 ダウンロード後のディレクトリ名が固定でかつ16進表現のハッシュ値っぽい文字列になってしまう点が短所と言えば短所ですが、リポジトリをcloneすることができて、そのリポジトリにあるシェルスクリプトを実行することができました。
 
-Fedora 39以降のFedoraのアップグレードではいい感じに解説することができそうです。
+Fedora 39以降のFedoraのアップグレードではいい感じにスッキリと解説することができそうです。
 
 この記事は以上です。
 
