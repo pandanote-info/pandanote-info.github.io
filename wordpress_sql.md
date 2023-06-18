@@ -6,7 +6,7 @@ twitter:
   card: summary_large_image
 encoding: UTF-8
 mathjax: true
-update: Sun Jun 18 10:49:07 2023 +0900
+update: Sun Jun 18 14:45:10 2023 +0900
 ---
 {% include pagelink.md %}
 
@@ -45,7 +45,7 @@ WordPressで公開中の記事の中からIDが最大のものを得るには、
 select ID from wp_posts where post_status='publish' and post_type in ('page','post');
 ```
 
-「IDが最大の記事」=「最も最近に公開された記事」とは必ずしも言えないのですが、書きかけの記事が最大で1個しかない場合には使えるSQL文だと思います。
+「IDが最大の記事」=「最も最近に公開された記事」とは必ずしも言えないのですが、書きかけの記事が最大で1個しか存在させないというポリシーで記事を作成している状況下などにおいては使えるSQL文だと思います。
 
 ## 特定の文字列を別の文字列に置き換える。
 
