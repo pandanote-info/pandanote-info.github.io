@@ -6,7 +6,7 @@ twitter:
   card: summary_large_image
 encoding: UTF-8
 mathjax: true
-update: Tue Jan 26 20:49:37 2021 +0900
+update: Sun Jun 18 10:49:07 2023 +0900
 ---
 {% include pagelink.md %}
 
@@ -36,6 +36,16 @@ select ID from wp_posts where post_status='publish' and post_content like '%pand
 ```
 
 公開中の記事に対応するwp_postsテーブルのレコードではpost_statusカラムの値が'publish'になることを利用しています。また、投稿タイプは公開中の記事(に対応すると思われる)固定ページ('page')及び投稿('post')に限定しています。
+
+## 公開されているWordPressの記事の中でIDが最大のものを返す。
+
+WordPressで公開中の記事の中からIDが最大のものを得るには、以下のSQL文を実行します。
+
+```SQL
+select ID from wp_posts where post_status='publish' and post_type in ('page','post');
+```
+
+「IDが最大の記事」=「最も最近に公開された記事」とは必ずしも言えないのですが、書きかけの記事が最大で1個しかない場合には使えるSQL文だと思います。
 
 ## 特定の文字列を別の文字列に置き換える。
 
