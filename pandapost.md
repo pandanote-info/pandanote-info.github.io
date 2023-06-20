@@ -6,7 +6,7 @@ image: https://ipfs.io/ipns/pandanote.info/Screenshot_2023-06-17_215616.png
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Tue Jun 20 00:25:39 2023 +0900
+update: Tue Jun 20 23:50:05 2023 +0900
 ---
 {% include pagelink.md %}
 # Twitter API v2でWordPressの最新記事(?)の追加のお知らせをコマンドラインからツイートする簡易プログラムを作った。
@@ -100,7 +100,7 @@ $result = $connection->post('tweets',$tweet_parameters,true);
 
 無事投稿できました。
 ## まとめ
-「課金品しなければほぼ何もできない。」というレベルにまで有料化されてしまったTwitter APIですが、人力で更新しているブログの記事の新規追加のお知らせをTwitterに投稿するだけなら「人力で更新する」プロセスが律速段階となるため、何とか使えそうなことが確認できました。
+「課金をしないで無料で使おうとするとほぼ何もできない。」というレベルにまで有料化されてしまったTwitter APIですが、人力で更新しているブログの記事の新規追加のお知らせをTwitterに投稿するだけなら「人力で更新する」プロセスが律速段階となるため、何とか使えそうなことが確認できました。
 
 当面は「panda大学習帳」に新しい記事を投稿後に本記事で書いた簡易プログラムでTwitterに投稿する方法で運用します。
 
