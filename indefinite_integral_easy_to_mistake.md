@@ -1,12 +1,12 @@
 ---
 title: 符号を間違えたまま計算しがちな不定積分 - panda大学習帳外伝
-description: 
+description: マイナス符号は特に見逃しがちですよね…。
 mathjax: true
-image: 
+image: https://pandanote.info/wordpress/wp-content/uploads/2023/05/P_20230527_203350-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Jul 22 22:14:41 2023 +0900
+update: Sat Jul 22 22:36:12 2023 +0900
 ---
 {% include pagelink.md %}
 # 符号を間違えたまま計算しがちな不定積分
