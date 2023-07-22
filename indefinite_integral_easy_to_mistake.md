@@ -6,7 +6,7 @@ image:
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Jul 22 21:54:45 2023 +0900
+update: Sat Jul 22 22:14:41 2023 +0900
 ---
 {% include pagelink.md %}
 # 符号を間違えたまま計算しがちな不定積分
@@ -30,7 +30,7 @@ I &= \int \frac{x}{\sqrt{1-x^2}}\,dx \label{eq:integral_firstform}
 
 ### 解きます。
 
-$t=1-x^2$とおくと、$x = \sqrt{1-t}$と表すことができるので、
+$t=1-x^2$とおくと、$x = \sqrt{1-t}$と表すことができるので、$t$の係数が$-1$であることに注意しつつ両辺を微分すると…
 
 \begin{align}
 \frac{dx}{dt} &= \left(-\frac{1}{2}\right)\frac{1}{\sqrt{1-t}}\label{eq:integral_secondform}
