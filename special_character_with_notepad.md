@@ -6,7 +6,7 @@ image: https://ipfs.io/ipns/pandanote.info/QmSbHsZN3VEpgTgs4X53UD78sfoRN1TxFpbZA
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Jul 29 00:03:00 2023 +0900
+update: Sat Jul 29 00:59:14 2023 +0900
 ---
 {% include pagelink.md %}
 # Wordがなければメモ帳でも入力できる特殊文字
@@ -52,7 +52,7 @@ Unicodeにもそこそこ似ている文字があるようです。
 
 ## コピー&ペースト例
 
-メモ帳に表示された&Xopf;をTwitter改めXの入力ウィンドウにコピーします。
+メモ帳に表示された&#x1D54F;をTwitter改めXの入力ウィンドウにコピーします。
 
 すると…
 
