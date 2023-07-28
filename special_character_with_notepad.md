@@ -6,7 +6,7 @@ image: https://ipfs.io/ipns/pandanote.info/QmSbHsZN3VEpgTgs4X53UD78sfoRN1TxFpbZA
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Jul 28 23:38:12 2023 +0900
+update: Sat Jul 29 00:03:00 2023 +0900
 ---
 {% include pagelink.md %}
 # Wordがなければメモ帳でも入力できる特殊文字
@@ -19,6 +19,8 @@ update: Fri Jul 28 23:38:12 2023 +0900
 
 昔懐かしのX Window Systemのロゴに割とよく似ていたりするわけです。
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">なお、参考画像。<br>xlogoって <a href="https://twitter.com/hashtag/Fedora38?src=hash&amp;ref_src=twsrc%5Etfw">#Fedora38</a> に単品でインストールできるんですね。<a href="https://twitter.com/hashtag/lifeinyokohama?src=hash&amp;ref_src=twsrc%5Etfw">#lifeinyokohama</a> <a href="https://t.co/TpTUxxqYC4">pic.twitter.com/TpTUxxqYC4</a></p>&mdash; pandanote.info (@Pandanote_info) <a href="https://twitter.com/Pandanote_info/status/1684940937808719872?ref_src=twsrc%5Etfw">July 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 さらに調べてみると…
 
 Unicodeにもそこそこ似ている文字があるようです。
@@ -29,7 +31,7 @@ Unicodeにもそこそこ似ている文字があるようです。
 
 いろいろと調べてみるとWordがインストールされていると特殊文字を変換する方法があるようですが、WordがインストールされていないのではWordを利用する方法を使うことはできません。
 
-ここで、「Microsoft謹製のソフトウェアなら文字入力の変換方法って大体同じなんじゃね?」と思ったので、メモ帳を使ってUnicode変換を試みたところ特殊文字を得ることができましたので、この記事では変換の方法を書きます。
+ここで、「Microsoft謹製のソフトウェアなら文字入力の変換方法って大体同じなんじゃね?」と考えたので、メモ帳を使ってUnicode変換を試みたところ特殊文字を得ることができましたので、この記事では変換の方法を書きます。
 
 {% include firstad.html %}
 
@@ -39,12 +41,12 @@ Unicodeにもそこそこ似ている文字があるようです。
 
 1. メモ帳を起動します。
 1. 編集画面に"U+..."と入力します。
-<a href="https://ipfs.io/ipns/pandanote.info/QmWsBaX4Xuh3tKXGHskq2Bua4W6zKD6GfBBAkjQa8LzGaP"><img width="540" src="https://ipfs.io/ipns/pandanote.info/QmWsBaX4Xuh3tKXGHskq2Bua4W6zKD6GfBBAkjQa8LzGaP"/></a>
+<a href="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene1.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene1.png"/></a>
 1. 入力した"U+..."の文字列をマウスでドラッグして選択状態にします。
-<a href="https://ipfs.io/ipns/pandanote.info/QmXViEXB66oV3vXWtQNCqHsPk6Y1rMGXi4nXVY2AkdDPJ2"><img width="540" src="https://ipfs.io/ipns/pandanote.info/QmXViEXB66oV3vXWtQNCqHsPk6Y1rMGXi4nXVY2AkdDPJ2"/></a>
+<a href="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene2.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene2.png"/></a>
 1. 選択状態としたまま、Alt+Xを押します。
 1. メモ帳に変換結果が表示されます。
-<a href="https://ipfs.io/ipns/pandanote.info/QmSbHsZN3VEpgTgs4X53UD78sfoRN1TxFpbZAe3qY9Pw8R"><img width="540" src="https://ipfs.io/ipns/pandanote.info/QmSbHsZN3VEpgTgs4X53UD78sfoRN1TxFpbZAe3qY9Pw8R"/></a>
+<a href="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene3.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene3.png"/></a>
 
 {%include secondintervalad.html %}
 
@@ -54,7 +56,7 @@ Unicodeにもそこそこ似ている文字があるようです。
 
 すると…
 
-<a href="https://ipfs.io/ipns/pandanote.info/QmQDxN8eib66pNbvdzGVoKMFTjnBPdXmyCWesBb81DFgwi"><img width="540" src="https://ipfs.io/ipns/pandanote.info/QmQDxN8eib66pNbvdzGVoKMFTjnBPdXmyCWesBb81DFgwi"/></a>
+<a href="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene4.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene4.png"/></a>
 
 無事コピー&ペーストされました。
 
