@@ -2,11 +2,11 @@
 title: Wordがなければメモ帳でも入力できる特殊文字 - panda大学習帳外伝
 description: Twitter改めXのロゴっぽい文字をメモ帳上のUnicode変換を駆使して表示させる方法を書きました。
 mathjax: true
-image: https://ipfs.io/ipns/pandanote.info/QmSbHsZN3VEpgTgs4X53UD78sfoRN1TxFpbZAe3qY9Pw8R
+image: https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene3.png
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Jul 29 00:59:14 2023 +0900
+update: Sat Jul 29 12:19:48 2023 +0900
 ---
 {% include pagelink.md %}
 # Wordがなければメモ帳でも入力できる特殊文字
