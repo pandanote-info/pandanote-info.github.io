@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2023/08/P_20230827_07
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Aug 27 10:11:18 2023 +0900
+update: Sun Aug 27 10:15:39 2023 +0900
 ---
 {% include pagelink.md %}
 # 正の奇数の二乗の逆数の和を計算する。
@@ -59,7 +59,7 @@ S &= \frac{3}{4}\sum_{n=1}^{\infty}\frac{1}{n^2} \nonumber\cr
 
 とおきます。
 
-前節の方法と同様に変形すると…
+ここで、前節と同様に…
 
 \begin{align}
 \Gamma(s) &= \sum_{n=1}^{\infty}\frac{1}{(2n-1)^s}+\sum_{n=1}^{\infty}\frac{1}{(2n)^s}\nonumber\cr
@@ -79,6 +79,7 @@ S &= \frac{3}{4}\sum_{n=1}^{\infty}\frac{1}{n^2} \nonumber\cr
 ## まとめ
 正の奇数の逆数の$n$乗の逆数を急に計算する必要が生じたときにこの記事のことを思い出していただいてお役立ていただけると幸いでございます。
 
+ところで、英語で「逆数」は「reciprocal」っていうんですね。いま知りました。
 ## リンク
 {% include pagelink.md %}
 
