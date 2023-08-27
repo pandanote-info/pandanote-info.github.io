@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2023/08/P_20230827_07
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Aug 27 10:07:33 2023 +0900
+update: Sun Aug 27 10:11:18 2023 +0900
 ---
 {% include pagelink.md %}
 # 正の奇数の二乗の逆数の和を計算する。
@@ -15,7 +15,7 @@ update: Sun Aug 27 10:07:33 2023 +0900
 正の奇数の二乗の逆数の和
 
 \begin{align}
-S &= \sum_{n=1}^{\infty}\frac{1}{(2n+1)^2}\label{eq:inverseoddsquare}
+S &= \sum_{n=1}^{\infty}\frac{1}{(2n-1)^2}\label{eq:inverseoddsquare}
 \end{align}
 
 を計算してみます。
@@ -33,8 +33,8 @@ S &= \sum_{n=1}^{\infty}\frac{1}{(2n+1)^2}\label{eq:inverseoddsquare}
 まず、(\ref{eq:zetatwo})式を奇数の部分と偶数の部分に分解します。すると…
 
 \begin{align}
-\sum_{n=1}^{\infty}\frac{1}{n^2} &= \sum_{n=1}^{\infty}\frac{1}{(2n)^2}+\sum_{n=1}^{\infty}\frac{1}{(2n+1)^2}\nonumber\cr
-&= \frac{1}{4}\sum_{n=1}^{\infty}\frac{1}{n^2}+S\label{eq:firstform}
+\sum_{n=1}^{\infty}\frac{1}{n^2} &= \sum_{n=1}^{\infty}\frac{1}{(2n-1)^2}+\sum_{n=1}^{\infty}\frac{1}{(2n)^2}\nonumber\cr
+&= S+\frac{1}{4}\sum_{n=1}^{\infty}\frac{1}{n^2}\label{eq:firstform}
 \end{align}
 
 と変形できます。よって、
@@ -62,14 +62,14 @@ S &= \frac{3}{4}\sum_{n=1}^{\infty}\frac{1}{n^2} \nonumber\cr
 前節の方法と同様に変形すると…
 
 \begin{align}
-\Gamma(s) &= \sum_{n=1}^{\infty}\frac{1}{(2n)^s}+\sum_{n=1}^{\infty}\frac{1}{(2n+1)^s}\nonumber\cr
-&= \frac{1}{2^s}\Gamma(s)+\sum_{n=1}^{\infty}\frac{1}{(2n+1)^s}\label{eq:gammafirstform}
+\Gamma(s) &= \sum_{n=1}^{\infty}\frac{1}{(2n-1)^s}+\sum_{n=1}^{\infty}\frac{1}{(2n)^s}\nonumber\cr
+&= \sum_{n=1}^{\infty}\frac{1}{(2n-1)^s}-\frac{1}{2^s}\Gamma(s)\label{eq:gammafirstform}
 \end{align}
 
 と変形できます。よって、
 
 \begin{align}
-\sum_{n=1}^{\infty}\frac{1}{(2n+1)^s} &= \left(1-\frac{1}{2^s}\right)\Gamma(s)\nonumber\cr
+\sum_{n=1}^{\infty}\frac{1}{(2n-1)^s} &= \left(1-\frac{1}{2^s}\right)\Gamma(s)\nonumber\cr
 &=\frac{2^s-1}{2^s}\,\Gamma(s)\label{eq:gammafinal}
 \end{align}
 
