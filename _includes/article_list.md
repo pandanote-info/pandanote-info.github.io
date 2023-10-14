@@ -1,6 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
+* [ζ(2)及びζ(4)の計算結果を使ってζ(6)を計算してみた。](https://sidestory.pandanote.info/9778bis.html)(2022/11/13, Last update: 2023/10/14)<br/>ζ(6)はζ(2)とζ(4)を使って表すことができるので、計算自体は可能です。
 * [正の奇数の二乗の逆数の和を計算する。](https://sidestory.pandanote.info/the_sum_of_reciprocal_of_square_of_odd_numbers.html)(2023/08/27)<br/>ついでに、正の奇数のn乗の逆数の和も計算してみました。
 * [Wordがなければメモ帳でも入力できる特殊文字](https://sidestory.pandanote.info/special_character_with_notepad.html)(2023/07/28, Last update: 2023/07/29)<br/>Twitter改めXのロゴっぽい文字をメモ帳上のUnicode変換を駆使して表示させる方法を書きました。
 * [符号を間違えたまま計算しがちな不定積分](https://sidestory.pandanote.info/indefinite_integral_easy_to_mistake.html)(2023/07/22)<br/>マイナス符号は特に見逃しがちですよね…。
@@ -10,7 +11,6 @@
 * [GitHub Gistにアップロードしたシェルスクリプトのファイルをgit cloneして使ってみた。](https://sidestory.pandanote.info/git_clone_from_gist.html)(2023/04/30)<br/>今まで使っていなかったシェルスクリプトを実行してみました。
 * [Braveブラウザでtipを送る方法。](https://sidestory.pandanote.info/tipping_in_brave.html)(2022/02/13, Last update: 2023/04/06)<br/>Braveブラウザでtipを送る方法についてまとめてみた。
 * [Web Componentsを使ってCopyright表示の年号を制御するカスタムHTML要素を作成する。](https://sidestory.pandanote.info/webcomponents_for_copyright.html)(2023/01/13)<br/>年が変わってもCopyrightの年を追従させる方法について書いています。
-* [ζ(2)及びζ(4)の計算結果を使ってζ(6)を計算してみた。](https://sidestory.pandanote.info/9778bis.html)(2022/11/13)<br/>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
