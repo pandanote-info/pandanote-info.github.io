@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2023/10/P_20230924_16
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Nov 18 11:27:37 2023 +0900
+update: Sat Nov 18 11:34:58 2023 +0900
 ---
 {% include pagelink.md %}
 # sec(x)とcosec(x)とcot(x)の不定積分を計算してみた。
@@ -81,10 +81,10 @@ I_2 &= \int\frac{1}{1-t^2}\left(\frac{dt}{dx}\right)dx \nonumber \cr
   &= \frac{1}{2}\log\left|\frac{1+\sin x}{1-\sin x}\right|+C \label{eq:intinvcosxsecond}
 \end{align}
 
-$-1 \le \sin x \le 1$なので、$1-\sin x \ge 0$, $1+\sin x+1 \ge 0$であることに注意すると(\ref{eq:intinvcosxsecond})式の絶対値記号を外すことができて、
+$-1 \le \sin x \le 1$なので、$1-\sin x \ge 0$, $1+\sin x \ge 0$であることに注意すると、(\ref{eq:intinvcosxsecond})式の絶対値記号を外すことができて、
 
 \begin{align}
-I_2 &= \frac{1}{2}\log\left(\frac{1-\sin x}{1+\sin x}\right)+C \label{eq:intinvcosxthird}
+I_2 &= \frac{1}{2}\log\left(\frac{1+\sin x}{1-\sin x}\right)+C \label{eq:intinvcosxthird}
 \end{align}
 
 と変形できます。
@@ -92,7 +92,7 @@ I_2 &= \frac{1}{2}\log\left(\frac{1-\sin x}{1+\sin x}\right)+C \label{eq:intinvc
 なお、(\ref{eq:intinvcosxthird})式は、
 
 \begin{align}
-I_2 &= \log\left(\frac{1-\sin x}{1+\sin x}\right)^{\frac{1}{2}}+C \label{eq:intinvcosxfourth}
+I_2 &= \log\left(\frac{1+\sin x}{1-\sin x}\right)^{\frac{1}{2}}+C \label{eq:intinvcosxfourth}
 \end{align}
 
 と書くこともできます。$\blacksquare$
@@ -110,7 +110,7 @@ I_2 &= \int\sec x\,dx \label{eq:intsecfirst}
 {\ref{eq:intsecfirst})式の右辺を…
 
 \begin{align}
-   I_2 &= \int\sec x \frac{\tan x + \sec x}{\tan x+ \sec x}\,dx \nonumber \cr
+   I_2 &= \int\sec x \cdot\frac{\tan x + \sec x}{\tan x+ \sec x}\,dx \nonumber \cr
    &= \int\frac{\sec x\tan x + \sec^2 x}{\tan x+ \sec x}\,dx \label{eq:intsecsecond}
 \end{align}
 
@@ -141,7 +141,7 @@ u &= \tan x+\sec x\label{eq:ux}
 
 という解が求まります。$\blacksquare$
 #### 検算
-(\ref{eq:intinvcosxthird})式と(\ref{eq:infsecthird})式が同じ値を表す数式になっているとはにわかには信じがたい((\ref{eq:infsecthird})式については絶対値記号を外すことができるかどうかが式変形なしでは判断し難いです。)ですが…
+(\ref{eq:intinvcosxthird})式と(\ref{eq:intsecthird})式が同じ値を表す数式になっているとはにわかには信じがたい((\ref{eq:intsecthird})式については絶対値記号を外すことができるかどうかが式変形なしでは判断し難いです。)ですが…
 
 \begin{align}
   \tan x+\sec x &= \frac{\sin x}{\cos x}+\frac{1}{\cos x} \nonumber\cr
