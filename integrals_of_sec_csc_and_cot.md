@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2023/10/P_20230924_16
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Nov 18 11:15:33 2023 +0900
+update: Sat Nov 18 11:27:37 2023 +0900
 ---
 {% include pagelink.md %}
 # sec(x)とcosec(x)とcot(x)の不定積分を計算してみた。
@@ -50,7 +50,7 @@ I_3 &= \int \frac{dx}{\tan x} = \int\cot\, x\,dx\label{eq:inttanx}
   &= \frac{1}{2}\log\left|\frac{\cos x-1}{\cos x+1}\right|+C \label{eq:intinvsinxsecond}
 \end{align}
 
-$-1 \ge \cos x \ge 1$なので、$\cos x-1 \ge 0$, $\cos x+1 \le 0$であることに注意すると(\ref{eq:intinvsinxsecond})式の絶対値記号を外すことができて、
+$-1 \le \cos x \le 1$なので、$\cos x-1 \le 0$, $\cos x+1 \ge 0$であることに注意すると(\ref{eq:intinvsinxsecond})式の絶対値記号を外すことができて、
 
 \begin{align}
 I_1 &= \frac{1}{2}\log\left(\frac{1-\cos x}{1+\cos x}\right)+C \label{eq:intinvsinxthird}
@@ -81,7 +81,7 @@ I_2 &= \int\frac{1}{1-t^2}\left(\frac{dt}{dx}\right)dx \nonumber \cr
   &= \frac{1}{2}\log\left|\frac{1+\sin x}{1-\sin x}\right|+C \label{eq:intinvcosxsecond}
 \end{align}
 
-$-1 \ge \sin x \ge 1$なので、$1-\sin x \le 0$, $1+\sin x+1 \le 0$であることに注意すると(\ref{eq:intinvcosxsecond})式の絶対値記号を外すことができて、
+$-1 \le \sin x \le 1$なので、$1-\sin x \ge 0$, $1+\sin x+1 \ge 0$であることに注意すると(\ref{eq:intinvcosxsecond})式の絶対値記号を外すことができて、
 
 \begin{align}
 I_2 &= \frac{1}{2}\log\left(\frac{1-\sin x}{1+\sin x}\right)+C \label{eq:intinvcosxthird}
@@ -125,7 +125,7 @@ u &= \tan x+\sec x\label{eq:ux}
 すると、$\dfrac{d}{dx}\tan x = \dfrac{1}{\cos^2 x} = \sec^2 x$及び$\dfrac{d}{dx}\sec x = \dfrac{\sin x}{\cos^2 x} = \sec x\tan x$になるので、
 
 \begin{align}
-\frac{du}{dx} &= \sec^2 x + \sec x\tan x\nonumber \label{eq:dudx}
+\frac{du}{dx} &= \sec^2 x + \sec x\tan x\label{eq:dudx}
 \end{align}
 
 と計算できます。
@@ -141,7 +141,7 @@ u &= \tan x+\sec x\label{eq:ux}
 
 という解が求まります。$\blacksquare$
 #### 検算
-(\ref{eq:intinvcosxthird})式と(\ref{eq:infsecthird})式が同じ値を表す数式になっているとはにわかには信じがたいですが…
+(\ref{eq:intinvcosxthird})式と(\ref{eq:infsecthird})式が同じ値を表す数式になっているとはにわかには信じがたい((\ref{eq:infsecthird})式については絶対値記号を外すことができるかどうかが式変形なしでは判断し難いです。)ですが…
 
 \begin{align}
   \tan x+\sec x &= \frac{\sin x}{\cos x}+\frac{1}{\cos x} \nonumber\cr
