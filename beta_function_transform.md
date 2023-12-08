@@ -6,7 +6,7 @@ image:
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Dec  8 23:48:41 2023 +0900
+update: Sat Dec  9 00:00:48 2023 +0900
 ---
 {% include pagelink.md %}
 # ベータ関数の積分表示の変数変換(あまりメジャーじゃない方)
@@ -16,7 +16,7 @@ update: Fri Dec  8 23:48:41 2023 +0900
 \begin{align}
 B(x,y) &= \int_{0}^{1}t^{x-1}(1-t)^{y-1}dt \label{eq:betaxy}
 \end{align}
-(${\rm Re} x, {\rm Re} y \gt 0$)が
+(${\rm Re}\, x, {\rm Re}\, y \gt 0$)が
 \begin{align}
 B(x,y) &= \int_{0}^{\infty}\frac{t^{x-1}}{(1+t)^{x+y}}dt \label{eq:betatargetx} \cr
 B(x,y) &= \int_{0}^{\infty}\frac{t^{y-1}}{(1+t)^{x+y}}dt \label{eq:betatargety}
@@ -75,7 +75,7 @@ B(x,y) &= \int_{0}^{\infty}\frac{t^{y-1}}{(1+t)^{x+y}}dt \label{eq:betatyx}
 
 と表すこともできます。
 
-(\ref{eq:betatxy})式と(\ref{eq:betatyx})式は(\ref{eq:betatargetx})式及び(\ref{eq:betatargety})式と一致します。$\blacksquare$
+(\ref{eq:betatxy})式と(\ref{eq:betatyx})式は(\ref{eq:betatargetx})式及び(\ref{eq:betatargety})式とそれぞれ一致します。$\blacksquare$
 
 {%include thirdintervalad.html %}
 ## まとめ
