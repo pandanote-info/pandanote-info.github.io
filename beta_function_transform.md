@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2023/12/P_20231123_11
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Dec  9 15:04:59 2023 +0900
+update: Sat Dec  9 15:09:25 2023 +0900
 ---
 {% include pagelink.md %}
 # ベータ関数の積分表示の変数変換(あまりメジャーじゃない方)
@@ -48,10 +48,11 @@ B(x,y) &= \int_{0}^{1}t^{y-1}(1-t)^{x-1}du\nonumber\cr
 \begin{align}
 u &= \frac{1}{t}-1\label{eq:utott}
 \end{align}
-とおいて、(\ref{eq:betayx})式に代入します。
+とおいて、(\ref{eq:betayx})式に代入することを考えます。
 
+(\ref{eq:utott}))式より$t = \displaystyle\frac{1}{1+u}$と表すことができます。
 
-$t = 0$のとき$u = \infty$で、$t = 1$のとき$u = 0$、さらに、$du = -\displaystyle\frac{1}{t^2}dt$となるので、$t = \displaystyle\frac{1}{1+u}$と表すことができます。
+また、$t = 0$のとき$u = \infty$で、$t = 1$のとき$u = 0$、さらに、$du = -\displaystyle\frac{1}{t^2}dt$となります。
 
 したがって、(\ref{eq:betayx})式は、
 
