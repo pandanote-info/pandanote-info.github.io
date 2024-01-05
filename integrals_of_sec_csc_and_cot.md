@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2023/10/P_20230924_16
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Jan  5 22:26:31 2024 +0900
+update: Fri Jan  5 22:35:34 2024 +0900
 ---
 {% include pagelink.md %}
 # sec(x)とcosec(x)とcot(x)の不定積分を計算してみた。
@@ -62,13 +62,13 @@ I_1 &= \frac{1}{2}\log\left(\frac{1-\cos x}{1+\cos x}\right)+C \label{eq:intinvs
 
 \begin{align}
 \sin^2\frac{x}{2} &= \frac{1-\cos x}{2} \label{eq:sinhalfangles} \cr
-\cos^2\frac{x}{2} &= \frac{1+\cos x}{2} \label{eq:sinhalfangles} \cr
+\cos^2\frac{x}{2} &= \frac{1+\cos x}{2} \label{eq:coshalfangles} \cr
 \end{align}
 
 を利用すると、(\ref{eq:intinvsinxthird})式は
 
 \begin{align}
-I_1 &= \frac{1}{2}\log\left(\dfrac{\sin^2\frac{x}{2}}{\cos^2\frac{x}{2}}\right)+C \nonumber\cr
+I_1 &= \frac{1}{2}\log\left(\dfrac{\sin^2\dfrac{x}{2}}{\cos^2\dfrac{x}{2}}\right)+C \nonumber\cr
 &= \frac{1}{2}\log\left(\tan^2\frac{x}{2}\right)+C \nonumber\cr
 &= \log\left(\tan\frac{x}{2}\right)+C \label{eq:intinvsinxwithtangent}
 \end{align}
