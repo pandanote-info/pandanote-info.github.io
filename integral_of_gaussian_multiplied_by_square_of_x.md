@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2024/01/P_20240127_12
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Jan 28 16:02:10 2024 +0900
+update: Sun Jan 28 16:05:09 2024 +0900
 ---
 {% include pagelink.md %}
 # x^{2n}e^{-x^2}の実数全体にわたる積分を計算してみた。
@@ -32,7 +32,7 @@ $(n \gt 0)$も計算してみることにします。
 なお、$x^{2n-1}$は奇関数、$e^{-x^2}$は偶関数になるので、
 
 \begin{align}
-I_{2n-1}&=\int_{-\infty}^{\infty} x^{2n-1}e^{-x^2}dx\nonumber\\
+I_{2n-1}&=\int_{-\infty}^{\infty} x^{2n-1}e^{-x^2}dx\nonumber\cr
 &= 0 \label{eq:xoddexm2}
 \end{align}
 
@@ -52,7 +52,7 @@ I_{2n-1}&=\int_{-\infty}^{\infty} x^{2n-1}e^{-x^2}dx\nonumber\\
 まず、(\ref{eq:x2exm2})式を計算します。部分積分を用いて、
 
 \begin{align}
-I_2 &= \int_{-\infty}^{\infty} x\left(-\frac{1}{2}e^{-x^2}\right)^{\prime}dx \nonumber\\
+I_2 &= \int_{-\infty}^{\infty} x\left(-\frac{1}{2}e^{-x^2}\right)^{\prime}dx \nonumber\cr
 &= \left[ -\frac{x}{2}e^{-x^2}\right]_{-\infty}^{\infty} - \int_{-\infty}^{\infty} \left(-\frac{1}{2}e^{-x^2}\right)dx\label{eq:x2exm2firstform}
 \end{align}
 
@@ -61,7 +61,7 @@ I_2 &= \int_{-\infty}^{\infty} x\left(-\frac{1}{2}e^{-x^2}\right)^{\prime}dx \no
 ここで、(\ref{eq:x2exm2firstform})式右辺第1項は(\ref{eq:xoddexm2})式より0であり、第2項については(\ref{eq:gaussintegral})式を利用すると…
 
 \begin{align}
-I_{2n} &= \int_{-\infty}^{\infty}\frac{1}{2}e^{-x^2}dx\nonumber\\
+I_{2n} &= \int_{-\infty}^{\infty}\frac{1}{2}e^{-x^2}dx\nonumber\cr
 &= \frac{\sqrt{\pi}}{2}\label{eq:x2exm2finalform}
 \end{align}
 
@@ -77,7 +77,7 @@ $I_2$の計算時と同様に、部分積分を用いて変形します。
 すると…
 
 \begin{align}
-I_{2n} &= \int_{-\infty}^{\infty} x^{2n-1}\left(-\frac{1}{2}e^{-x^2}\right)^{\prime}dx \nonumber\\
+I_{2n} &= \int_{-\infty}^{\infty} x^{2n-1}\left(-\frac{1}{2}e^{-x^2}\right)^{\prime}dx \nonumber\cr
 &= \left[ -\frac{x^{2n-1}}{2}e^{-x^2}\right]_{-\infty}^{\infty} - \int_{-\infty}^{\infty} (2n-1)x^{2n-2}\left(-\frac{1}{2}e^{-x^2}\right)dx\label{eq:x2nexm2firstform}
 \end{align}
 
@@ -86,7 +86,7 @@ I_{2n} &= \int_{-\infty}^{\infty} x^{2n-1}\left(-\frac{1}{2}e^{-x^2}\right)^{\pr
 ここで、(\ref{eq:x2nexm2firstform})式右辺第1項は(\ref{eq:xoddexm2})式より0であることを利用すると、(\ref{eq:x2nexm2firstform})式は…
 
 \begin{align}
-I_{2n} &= \frac{2n-1}{2}\int_{-\infty}^{\infty}x^{2n-2}e^{-x^2}dx\nonumber\\
+I_{2n} &= \frac{2n-1}{2}\int_{-\infty}^{\infty}x^{2n-2}e^{-x^2}dx\nonumber\cr
 &= \frac{2n-1}{2}I_{2n-2}\label{eq:x2nexm2secondform}
 \end{align}
 
@@ -95,8 +95,8 @@ I_{2n} &= \frac{2n-1}{2}\int_{-\infty}^{\infty}x^{2n-2}e^{-x^2}dx\nonumber\\
 そこで、ここまでの式変形を(\ref{eq:x2nexm2secondform})式の右辺に対して$(n-2)$回繰り返すと…
 
 \begin{align}
-I_{2n} &= \frac{(2n-1)\cdots 3}{\underbrace{2 \cdots 2}_{(n-1)個}}I_2 \nonumber\\
-&= \frac{(2n-1)!!}{2^{n-1}}\frac{\sqrt{\pi}}{2}\nonumber\\
+I_{2n} &= \frac{(2n-1)\cdots 3}{\underbrace{2 \cdots 2}_{(n-1)個}}I_2 \nonumber\cr
+&= \frac{(2n-1)!!}{2^{n-1}}\frac{\sqrt{\pi}}{2}\nonumber\cr
 &= \frac{(2n-1)!!\sqrt{\pi}}{2^n} \label{eq:x2nexm2thirdform}
 \end{align}
 
