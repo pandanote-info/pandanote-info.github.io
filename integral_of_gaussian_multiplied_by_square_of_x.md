@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2024/01/P_20240127_12
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Jan 28 16:05:09 2024 +0900
+update: Sun Jan 28 16:11:01 2024 +0900
 ---
 {% include pagelink.md %}
 # x^{2n}e^{-x^2}の実数全体にわたる積分を計算してみた。
@@ -53,7 +53,7 @@ I_{2n-1}&=\int_{-\infty}^{\infty} x^{2n-1}e^{-x^2}dx\nonumber\cr
 
 \begin{align}
 I_2 &= \int_{-\infty}^{\infty} x\left(-\frac{1}{2}e^{-x^2}\right)^{\prime}dx \nonumber\cr
-&= \left[ -\frac{x}{2}e^{-x^2}\right]_{-\infty}^{\infty} - \int_{-\infty}^{\infty} \left(-\frac{1}{2}e^{-x^2}\right)dx\label{eq:x2exm2firstform}
+&= \left[ -\frac{x}{2}e^{-x^2}\right]\_{-\infty}^{\infty} - \int_{-\infty}^{\infty} \left(-\frac{1}{2}e^{-x^2}\right)dx\label{eq:x2exm2firstform}
 \end{align}
 
 と変形できます。
@@ -78,7 +78,7 @@ $I_2$の計算時と同様に、部分積分を用いて変形します。
 
 \begin{align}
 I_{2n} &= \int_{-\infty}^{\infty} x^{2n-1}\left(-\frac{1}{2}e^{-x^2}\right)^{\prime}dx \nonumber\cr
-&= \left[ -\frac{x^{2n-1}}{2}e^{-x^2}\right]_{-\infty}^{\infty} - \int_{-\infty}^{\infty} (2n-1)x^{2n-2}\left(-\frac{1}{2}e^{-x^2}\right)dx\label{eq:x2nexm2firstform}
+&= \left[ -\frac{x^{2n-1}}{2}e^{-x^2}\right]\_{-\infty}^{\infty} - \int_{-\infty}^{\infty} (2n-1)x^{2n-2}\left(-\frac{1}{2}e^{-x^2}\right)dx\label{eq:x2nexm2firstform}
 \end{align}
 
 と変形できます。
