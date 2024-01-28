@@ -612,8 +612,6 @@
 * Created at: 2019-11-06T11:02:24Z
 * Descrption: PA-APIv5のAPIを使った商品データ取得用関数の実装例。
 * [Link to Gist](https://gist.github.com/pandanote-info/d8338da77d7df57dbc5985be7d9523bc)
-* Referenced from: 
-    * [AmazonのProduct Advertising API v5 に対応した商品紹介用のバナーを貼り付けるためのショートコードを作ってみた。](https://pandanote.info/?p=5463)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7000200295725746" crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
