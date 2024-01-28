@@ -1,7 +1,7 @@
 本Webサイトのコンテンツにつきましては随時更新を行っていますので、更新日の新しい方から順に配列しています。
 
 なお、このページに限り、更新日の表示はJST(日本標準時)による表示です。(本Webサイトの他のページの時刻表示でタイムゾーンが明記されていないものについてはUTC(JSTより9時間遅れです。)としています。)
-* [x^{2n}e^{-x^2}の実数全体にわたる積分を計算してみた。](https://sidestory.pandanote.info/integral_of_gaussian_multiplied_by_square_of_x.html)(2024/01/28)<br/>$\displaystyle\int_{-\infty}^{^infty}x^2e^{-x^2}dx$を計算するついでに$x^2$のところを$x^{2n}$として計算してみました。
+* [x^{2n}e^{-x^2}の実数全体にわたる積分を計算してみた。](https://sidestory.pandanote.info/integral_of_gaussian_multiplied_by_square_of_x.html)(2024/01/28)<br/>$\displaystyle\int_{-\infty}^{\infty}x^2e^{-x^2}dx$を計算するついでに$x^2$のところを$x^{2n}$として計算してみました。
 * [sec(x)とcosec(x)とcot(x)の不定積分を計算してみた。](https://sidestory.pandanote.info/integrals_of_sec_csc_and_cot.html)(2023/11/18, Last update: 2024/01/05)<br/>sec(x),cosec(x),cot(x)が突如として登場しても慌てないようにするための心の備え的な記事という名の落書きです。
 * [サブタイトルネタ帳Classic(201-250)](https://sidestory.pandanote.info/catchphraseclassic.html)(2020/03/07, Last update: 2023/12/09)<br/>201-250件目のサブタイトルです。
 * [サブタイトルネタ帳Classic(151-200)](https://sidestory.pandanote.info/catchphraseclassic3.html)(2023/12/09)<br/>151-200件目のサブタイトルです。
