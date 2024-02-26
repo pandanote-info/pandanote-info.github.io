@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/08/P_20210626_11
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Mon Feb 26 23:30:30 2024 +0900
+update: Mon Feb 26 23:33:58 2024 +0900
 ---
 {% include homelink.md %}
 
@@ -49,7 +49,7 @@ update: Mon Feb 26 23:30:30 2024 +0900
 
 {% include fifthintervalad.html %}
 
-# X(古のTwitter)とかThreadsとかBluesky
+# X(古のTwitter)とかThreadsとかBlueskyとかとか
 X(古のTwitter)、Threads及びBlueskyで運用情報等を時々ツイートしています(公式見解)。
 {% include twitter.md %}
 
