@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2021/08/P_20210626_11
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Jan 28 16:11:51 2024 +0900
+update: Mon Feb 26 23:30:30 2024 +0900
 ---
 {% include homelink.md %}
 
@@ -35,7 +35,7 @@ update: Sun Jan 28 16:11:51 2024 +0900
 
 チップをいただけると、本Webサイトを維持することができるだけでなく、中の人のモチベーションを向上させることができる可能性が大いにあります。
 
-<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=12&l=ur1&category=amazonrotate&f=ifr&linkID=74ba4d7eca10219e9a995ec6f89e9bbf&t=karen99-22&tracking_id=karen99-22" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+{% include fourthintervalad.html %}
 
 なお、チップの受領の状況については、↓のような感じでTwitterに時々(1ヵ月に1回程度)投稿しています。
 
@@ -47,11 +47,10 @@ update: Sun Jan 28 16:11:51 2024 +0900
 
 なお、チップの送付元様の情報については通知されないため、↑のツイートまたはInstagramへの投稿をもってお礼に代えさせていただきます。あらかじめご了承願います。
 
-{% include fourthintervalad.html %}
+{% include fifthintervalad.html %}
 
-また、他のサイト様へのチップも随時行っています。
-# Twitter
-Twitterで運用情報等を時々ツイートしています(公式見解)。
+# X(古のTwitter)とかThreadsとかBluesky
+X(古のTwitter)、Threads及びBlueskyで運用情報等を時々ツイートしています(公式見解)。
 {% include twitter.md %}
 
 # Links / リンク
