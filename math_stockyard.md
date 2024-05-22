@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2024/04/P_20240420_14
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Wed May 22 13:41:14 2024 +0900
+update: Wed May 22 13:43:41 2024 +0900
 ---
 {% include pagelink.md %}
 # The Math Stockyard / 数式置き場
@@ -37,7 +37,7 @@ k
 &= \displaystyle\frac{1}{2} \left[ \sum^n_{k=0}\begin{pmatrix}
 n \cr
 k
-\end{pmatrix}\frac{x^{k-n+\frac{1}{2}}}{k-n+\displaystyle\frac{1}{2}}(-1)^{n-k} \right]^2\_1 \label{eq:utqione} \\
+\end{pmatrix}\frac{x^{k-n+\frac{1}{2}}}{k-n+\displaystyle\frac{1}{2}}(-1)^{n-k} \right]^2\_1 \label{eq:utqione} \cr
 &= \displaystyle\frac{1}{2} \sum^n\_{k=0}\begin{pmatrix}
 n \cr
 k
