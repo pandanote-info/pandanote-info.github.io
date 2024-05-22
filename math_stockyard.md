@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2024/04/P_20240420_14
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Wed May 22 13:43:41 2024 +0900
+update: Wed May 22 13:47:12 2024 +0900
 ---
 {% include pagelink.md %}
 # The Math Stockyard / 数式置き場
@@ -24,6 +24,8 @@ $\LaTeX$の数式は書き始めると楽しいのですが、それなりに手
 ## panda大学習帳のトップページで使っていた数式
 
 [panda大学習帳のトップページ](https://pandanote.info/)の数式の記載例として使っていたものです。
+
+なお、GitHub Pagesに転載するにあたり、一部コードを修正しています([こちら](https://pandanote.info/?p=3715)参照)。
 
 \begin{align}
 I &= \displaystyle\frac{1}{2} \int^2\_1 \frac{1}{x^{n+\frac{1}{2}}}\cdot\sum^n_{k=0}\begin{pmatrix}
