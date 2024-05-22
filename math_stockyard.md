@@ -6,7 +6,7 @@ image: https://pandanote.info/wordpress/wp-content/uploads/2024/04/P_20240420_14
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Wed May 22 13:23:00 2024 +0900
+update: Wed May 22 13:38:23 2024 +0900
 ---
 {% include pagelink.md %}
 # The Math Stockyard / 数式置き場
@@ -26,11 +26,11 @@ $\LaTeX$の数式は書き始めると楽しいのですが、それなりに手
 [panda大学習帳のトップページ](https://pandanote.info/)の数式の記載例として使っていたものです。
 
 \begin{align}
-I &= \displaystyle\frac{1}{2} \int^2_1 \frac{1}{x^{n+\frac{1}{2}}}\cdot\sum^n_{k=0}\begin{pmatrix}
+I &= \displaystyle\frac{1}{2} \int^2\_1 \frac{1}{x^{n+\frac{1}{2}}}\cdot\sum^n_{k=0}\begin{pmatrix}
 n \cr
 k
 \end{pmatrix}x^k(-1)^{n-k}dx \nonumber \cr
-&= \displaystyle\frac{1}{2} \int^2_1 \sum^n_{k=0}\begin{pmatrix}
+&= \displaystyle\frac{1}{2} \int^2\_1 \sum^n_{k=0}\begin{pmatrix}
 n \cr
 k
 \end{pmatrix}x^{k-n-\frac{1}{2}}(-1)^{n-k}dx \nonumber \cr
