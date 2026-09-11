@@ -2,7 +2,7 @@
 title: Web APIを使ってXTZ(Tezos)とJPYの参考レートを表示するPython3のプログラムを作ってみた。 - panda大学習帳外伝
 description: XTZUSDを取得するAPIとUSDJPYを取得するWeb APIを使って計算で求めてます。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2021/03/P_20210225_190838_vHDR_On_HP-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2021/03/P_20210225_190838_vHDR_On_HP-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8

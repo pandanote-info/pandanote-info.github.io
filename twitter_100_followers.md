@@ -2,7 +2,7 @@
 title: Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。 - panda大学習帳外伝
 description: いろいろとやってみました。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2022/04/twitter_100_followers.png
+image: https://cdn.pandanote.info/wp-content/uploads/2022/04/twitter_100_followers.png
 twitter: 
   card: summary_large_image
 encoding: UTF-8
@@ -56,7 +56,7 @@ Tezosのテストネット(hangzhounet)では動画に紐づけたNFTを作成�
 
 すでにTwitter等に貼り付けている↓の画像の矢印の色及び文字は朱色5号を使用しています(日本語フォントはOradano明朝GSRRフォントを使用しています)。
 
-<a href="https://pandanote.info/?attachment_id=8781"><img src="https://pandanote.info/wordpress/wp-content/uploads/2022/04/twitter_100_followers.png" width="300"></a>
+<a href="https://pandanote.info/?attachment_id=8781"><img src="https://cdn.pandanote.info/wp-content/uploads/2022/04/twitter_100_followers.png" width="300"></a>
 
 {%include thirdintervalad.html %}
 

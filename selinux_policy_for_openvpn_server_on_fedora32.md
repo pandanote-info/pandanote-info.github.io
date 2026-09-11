@@ -1,7 +1,7 @@
 ---
 title: OpenVPNのためのSELinuxポリシーを変更する際にポリシー名を"openvpn"にしたところ、変更に失敗した件。 - panda大学習帳外伝
 description: ポリシー名のご利用は計画的に。
-image: https://pandanote.info/wordpress/wp-content/uploads/2020/05/P_20200522_183454_vHDR_On_HP-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2020/05/P_20200522_183454_vHDR_On_HP-scaled.jpg
 twitter:
   card: summary_large_image
 mathjax: true
@@ -59,7 +59,7 @@ SELinuxに邪魔されているようです…
 ## audit2allowでポリシーファイルを作成
 ここまでの作業はソファに寝つつ、スマホ(Zenfone4(ZE554KL))を使って作業していましたが、ここからは複雑なコマンドを入力せねばならないので、PCの前に移動です。
 
-<a href="https://pandanote.info/?attachment_id=1774"><img width="480" src="https://pandanote.info/wordpress/wp-content/uploads/2018/04/P_20180417_211403_vHDR_Auto_a.jpg"/></a>
+<a href="https://pandanote.info/?attachment_id=1774"><img width="480" src="https://cdn.pandanote.info/wp-content/uploads/2018/04/P_20180417_211403_vHDR_Auto_a.jpg"/></a>
 
 ↑がここからの作業を行うPC(端末)になります。
 

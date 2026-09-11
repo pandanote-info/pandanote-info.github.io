@@ -2,7 +2,7 @@
 title: The Math Stockyard / 数式置き場 - panda大学習帳外伝
 description: panda大学習帳のトップページで使っていた数式を保管しています。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2024/04/P_20240420_142526-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2024/04/P_20240420_142526-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8

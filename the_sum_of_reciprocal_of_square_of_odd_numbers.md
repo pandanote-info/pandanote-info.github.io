@@ -2,7 +2,7 @@
 title: 正の奇数の二乗の逆数の和を計算する。 - panda大学習帳外伝
 description: ついでに、正の奇数のn乗の逆数の和も計算してみました。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2023/08/P_20230827_073334-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2023/08/P_20230827_073334-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8

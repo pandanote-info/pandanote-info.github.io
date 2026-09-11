@@ -2,7 +2,7 @@
 title: 正規表現を使って文字列を変換するプログラムをVBAで書いてみた。 - panda大学習帳外伝
 description: 「すぐに取り出せる場所に置いておくと便利かもしれない正規表現」について書きました。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2022/05/P_20211231_094404-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2022/05/P_20211231_094404-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
@@ -49,7 +49,7 @@ VBObjectのみを用いて正規表現の処理を行う場合には、VBAのプ
 
 すると、イミディエイト画面に…
 
-<a href="https://pandanote.info/wordpress/wp-content/uploads/2022/05/regexp_on_vba_scene1.png"><img width="540" src="https://pandanote.info/wordpress/wp-content/uploads/2022/05/regexp_on_vba_scene1.png"/></a>
+<a href="https://cdn.pandanote.info/wp-content/uploads/2022/05/regexp_on_vba_scene1.png"><img width="540" src="https://cdn.pandanote.info/wp-content/uploads/2022/05/regexp_on_vba_scene1.png"/></a>
 
 のように「Le Ciel 京急1000形1890番台」と表示されることが確認できます(上図の赤矢印)。
 

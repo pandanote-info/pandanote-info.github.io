@@ -2,7 +2,7 @@
 title: 関数の積をn回微分する。 - panda大学習帳外伝
 description: 関数の積をn回微分してみた。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2021/08/P_20210626_110708_a-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2021/08/P_20210626_110708_a-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8

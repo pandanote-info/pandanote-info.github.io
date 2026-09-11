@@ -2,7 +2,7 @@
 title: Python3で現在のローカル時刻をISO8601フォーマットで表示させるプログラムのメモ。 - panda大学習帳外伝
 description: 時々使おうとして思い出せないことがあるので、メモすることにしました。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2022/08/datetime_scene1.png
+image: https://cdn.pandanote.info/wp-content/uploads/2022/08/datetime_scene1.png
 twitter: 
   card: summary_large_image
 encoding: UTF-8
@@ -61,7 +61,7 @@ Emacs Lispで現在のローカル時刻を取得してISO8601フォーマット
 
 上記のコードをバッファに入力して評価すると…
 
-<a href="https://pandanote.info/wordpress/wp-content/uploads/2022/08/datetime_scene1.png"><img width="540" src="https://pandanote.info/wordpress/wp-content/uploads/2022/08/datetime_scene1.png"/></a>
+<a href="https://cdn.pandanote.info/wp-content/uploads/2022/08/datetime_scene1.png"><img width="540" src="https://cdn.pandanote.info/wp-content/uploads/2022/08/datetime_scene1.png"/></a>
 
 のようにミニバッファに出力されます。
 ## まとめ

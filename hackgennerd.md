@@ -1,7 +1,7 @@
 ---
 title: Windows10のEmacsのフォントをHackGenNerdに変更してみた(おまけつき)。 - panda大学習帳外伝
 description: Windows10のEmacsのフォントをHackGenNerdに変更する方法です。
-image: https://pandanote.info/wordpress/wp-content/uploads/2020/06/ricty_from_scratch_scene6.png
+image: https://cdn.pandanote.info/wp-content/uploads/2020/06/ricty_from_scratch_scene6.png
 twitter:
   card: summary_large_image
 mathjax: true
@@ -14,7 +14,7 @@ update: Sun Nov  8 17:49:15 2020 +0900
 ## ちょっと長めの前置き
 WindowsにEmacsをインストールすると、おそらく…
 
-<a href="https://pandanote.info/?attachment_id=6331"><img src="https://pandanote.info/wordpress/wp-content/uploads/2020/06/ricty_from_scratch_scene4.png"/></a>
+<a href="https://pandanote.info/?attachment_id=6331"><img src="https://cdn.pandanote.info/wp-content/uploads/2020/06/ricty_from_scratch_scene4.png"/></a>
 
 のようにデフォルトのフォントとしてCourier Newが使われ、(上図には登場しませんが、)日本語のフォントはビットマップフォント的な感じのフォントが使われるのではないかと思います。
 
@@ -24,13 +24,13 @@ Windows版のEmacsは特に日本語関連の動作において仕様なのか�
 
 ただ、文字はきれいに表示された方がなにかとやる気が出るような気がしてきたので、まず、Diminishedじゃない方のRictyフォントを作成後、インストールして設定を行ってみたのですが…
 
-<a href="https://pandanote.info/?attachment_id=6332"><img src="https://pandanote.info/wordpress/wp-content/uploads/2020/06/ricty_from_scratch_scene5.png"/></a>
+<a href="https://pandanote.info/?attachment_id=6332"><img src="https://cdn.pandanote.info/wp-content/uploads/2020/06/ricty_from_scratch_scene5.png"/></a>
 
 なんか日本語の表示が怪しい感じがします。
 
 拡大してみると…
 
-<a href="https://pandanote.info/?attachment_id=6333"><img src="https://pandanote.info/wordpress/wp-content/uploads/2020/06/ricty_from_scratch_scene5a.png"/></a>
+<a href="https://pandanote.info/?attachment_id=6333"><img src="https://cdn.pandanote.info/wp-content/uploads/2020/06/ricty_from_scratch_scene5a.png"/></a>
 
 日本語の文字がソーシャルディスタンスを保っているようにも見えます。なお、この現象はWindows10のEmacsでのみ発生し、Fedora32のEmacsでは発生しません。
 
@@ -57,7 +57,7 @@ HackGenNerdフォントのWindows10へのインストールは他のフォント
 1. 下図のような「フォント」ポップアップが表示されます。
 1. 上部の検索窓に"Hack"くらいまで入力した時点で"HackGenNerd"が表示されていれば、EmacsからHackGenNerdが使用できる状態になっていることが確認できます。
 
-<a href="https://pandanote.info/?attachment_id=6334"><img src="https://pandanote.info/wordpress/wp-content/uploads/2020/06/ricty_from_scratch_scene7.png"/></a>
+<a href="https://pandanote.info/?attachment_id=6334"><img src="https://cdn.pandanote.info/wp-content/uploads/2020/06/ricty_from_scratch_scene7.png"/></a>
 ### init.elへの設定例
 インストールの状況が確認できたら、init.el(またはそれに相当する設定ファイル)に以下の例のような記述を追加して保存します。
 
@@ -70,7 +70,7 @@ HackGenNerdフォントのWindows10へのインストールは他のフォント
 ### 表示例
 前節の設定を行ってからEmacsを再起動する等の方法によって保存したinit.elを読み込ませると、以下のように表示することができます。
 
-<a href="https://pandanote.info/?attachment_id=6335"><img src="https://pandanote.info/wordpress/wp-content/uploads/2020/06/ricty_from_scratch_scene6.png"/></a>
+<a href="https://pandanote.info/?attachment_id=6335"><img src="https://cdn.pandanote.info/wp-content/uploads/2020/06/ricty_from_scratch_scene6.png"/></a>
 
 ソーシャルディスタンスが削除されていますね。
 ## (おまけ)今回利用を試みたDiminishedじゃない方のRictyフォントの生成に使用した材料

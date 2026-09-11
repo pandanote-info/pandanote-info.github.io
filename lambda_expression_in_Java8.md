@@ -2,7 +2,7 @@
 title: Java8のラムダ式を使って配列の配列の要素数の総和を1行で求める。 - panda大学習帳外伝
 description: ラムダ式を使うとコードが簡潔に書けるようになった件について書きました。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2021/05/P_20210522_190348_vHDR_On_HP-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2021/05/P_20210522_190348_vHDR_On_HP-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8

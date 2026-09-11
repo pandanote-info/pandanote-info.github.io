@@ -2,7 +2,7 @@
 title: Linux上のEmacsにおける日本語入力のための設定をWindows上におけるEmacsの操作感に合わせるための設定。 - panda大学習帳外伝
 description: 「カタカナ/ひらがな」キーの名前が想定外過ぎたので、メモっておくことにしました。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2022/08/P_20220824_221854-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2022/08/P_20220824_221854-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
@@ -31,7 +31,7 @@ Windows上のEmacsではIMEを使用して入力を行っています。
 
 IMEでは、「半角/全角」キー(下図の赤矢印(a))または「カタカナ/ひらがな」キー(下図の赤矢印(b))を押すことで日本語入力のON/OFFを切り替えることができます。
 
-<a href="https://pandanote.info/wordpress/wp-content/uploads/2022/08/P_20220824_221854_a-scaled.jpg"><img width="540" src="https://pandanote.info/wordpress/wp-content/uploads/2022/08/P_20220824_221854_a-scaled.jpg"/></a>
+<a href="https://cdn.pandanote.info/wp-content/uploads/2022/08/P_20220824_221854_a-scaled.jpg"><img width="540" src="https://cdn.pandanote.info/wp-content/uploads/2022/08/P_20220824_221854_a-scaled.jpg"/></a>
 
 これと同様の操作をLinux上のEmacsで実現する方法を考えます。
 

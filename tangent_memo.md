@@ -2,7 +2,7 @@
 title: 時々忘れがちになるタンジェントの公式の導き方のメモ(余談を添えて)。 - panda大学習帳外伝
 description: サインとコサインの公式からタンジェントの加法定理と倍角の公式を導出します。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2021/11/tan1_rational_number.png
+image: https://cdn.pandanote.info/wp-content/uploads/2021/11/tan1_rational_number.png
 twitter: 
   card: summary_large_image
 encoding: UTF-8

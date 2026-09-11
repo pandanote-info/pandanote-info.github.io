@@ -2,7 +2,7 @@
 title: x^{2n}e^{-x^2}の実数全体にわたる積分を計算してみた。 - panda大学習帳外伝
 description: $\displaystyle\int_{-\infty}^{\infty}x^2e^{-x^2}dx$を計算するついでに$x^2$のところを$x^{2n}$として計算してみました。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2024/01/P_20240127_122933_a.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2024/01/P_20240127_122933_a.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8

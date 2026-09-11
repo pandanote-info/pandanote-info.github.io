@@ -2,7 +2,7 @@
 title: sqrt(1-x)をx=0を中心にテイラー展開してみた。 - panda大学習帳外伝
 description: sqrt(1-x)をx=0を中心にテイラー展開してみたら一般化二項係数の形式で書くと簡潔に書けることがわかったので、φ(..)メモメモ
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2018/08/P_20200629_202458_vHDR_On_HP-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2018/08/P_20200629_202458_vHDR_On_HP-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8

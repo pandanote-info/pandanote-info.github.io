@@ -2,7 +2,7 @@
 title: 用語集📒  - panda大学習帳外伝
 description: 「ディレクトリ vs フォルダ」のようなもの。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2020/11/P_20201102_180710_vHDR_On_HP-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2020/11/P_20201102_180710_vHDR_On_HP-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8

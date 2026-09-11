@@ -2,7 +2,7 @@
 title: kuromojiにいろいろな辞書を組み込んで、テストしてみた。 - panda大学習帳外伝
 description: kuromojiに組み込む辞書を切り替えつつ、形態素解析を試みてみました。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2020/03/P_20200321_114309_vHDR_On_HP-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2020/03/P_20200321_114309_vHDR_On_HP-scaled.jpg
 twitter:
   card: summary_large_image
 encoding: UTF-8

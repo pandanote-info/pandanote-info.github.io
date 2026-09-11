@@ -2,7 +2,7 @@
 title: ベータ関数の積分表示の変数変換(あまりメジャーじゃない方) - panda大学習帳外伝
 description: ベータ関数の定義式を変数変換してみました。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2023/12/P_20231123_112546-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2023/12/P_20231123_112546-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8

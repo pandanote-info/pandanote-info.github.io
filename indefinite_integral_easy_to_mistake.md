@@ -2,7 +2,7 @@
 title: 符号を間違えたまま計算しがちな不定積分 - panda大学習帳外伝
 description: マイナス符号は特に見逃しがちですよね…。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2023/05/P_20230527_203350-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2023/05/P_20230527_203350-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8

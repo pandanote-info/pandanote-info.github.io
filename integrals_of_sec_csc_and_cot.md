@@ -2,7 +2,7 @@
 title: sec(x)とcosec(x)とcot(x)の不定積分を計算してみた。 - panda大学習帳外伝
 description: sec(x),cosec(x),cot(x)が突如として登場しても慌てないようにするための心の備え的な記事という名の落書きです。
 mathjax: true
-image: https://pandanote.info/wordpress/wp-content/uploads/2023/10/P_20230924_161752-scaled.jpg
+image: https://cdn.pandanote.info/wp-content/uploads/2023/10/P_20230924_161752-scaled.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
