@@ -51,7 +51,6 @@
 * [VirtualBoxのゲストOSで稼働しているFedora35を効率良くFedora36にアップグレードしようとしたところ、ホストOSのWindows10/11が停止した話。](https://sidestory.pandanote.info/upgrade_failure_to_fedora36_on_virtualbox.html)(2022/05/14)<br/>VirtualBoxのスナップショットは緊急事態発生時の復旧手段として割と使えるかもしれないというお話です。
 * [縦長で撮影したスマホ動画のXMP情報を操作してみる。](https://sidestory.pandanote.info/8839bis.html)(2022/05/03)<br/>exiftoolは使いこなすと便利なtoolかもしれません。
 * [xe^{-x}でx→∞としたときの極限が0になることを確認したときのメモ。](https://sidestory.pandanote.info/lim_to_infty.html)(2022/04/27)<br/>時々疑心暗鬼になるところです。
-* [Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。](https://sidestory.pandanote.info/twitter_100_followers.html)(2022/04/08, Last update: 2022/04/11)<br/>いろいろとやってみました。
 * [ARMv7用のstaticリンクされたOpenVPNをビルドしてみた。](https://sidestory.pandanote.info/8407bis.html)(2022/01/15, Last update: 2022/02/21)<br/>OpenVPNのビルドの方法についてのメモ書きです。
 * [Bidirectional mapのプロトタイプをScalaで作ってみた。](https://sidestory.pandanote.info/bimmap.html)(2022/02/05, Last update: 2022/02/21)<br/>みんな大好き双方向マップをScalaで作ってみました。
 * [GitHub Gistにアップロードしたファイルの最新版でない版をWebのページに貼り付ける方法](https://sidestory.pandanote.info/gist_previous_versions.html)(2021/12/11)<br/>Gistにアップロードしたファイルの特定の版に依存した記事を書く時に使えそうです。
