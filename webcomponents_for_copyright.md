@@ -1,12 +1,12 @@
 ---
-title: Web Componentsを使ってCopyright表示の年号を制御するカスタムHTML要素を作成する。 - panda大学習帳外伝
+title: WebComponentsを使ってCopyright表示の年号を制御するカスタムHTML要素を作成する。 - panda大学習帳外伝
 description: 年が変わってもCopyrightの年を追従させる方法について書いています。
 mathjax: true
 image: https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/copyright_webcomponents_scene1.png
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Jan 13 11:51:19 2023 +0900
+update: Fri Sep 11 23:16:26 2026 +0900
 ---
 {% include pagelink.md %}
 # WebComponentsを使ってCopyright表示の年号を制御するカスタムHTML要素を作成する。
@@ -78,7 +78,7 @@ https://vsse.pandanote.info/pandanotelink.js
 ## 表示例
 表示例です。
 
-<a href="https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/copyright_webcomponents_scene1.png"><img width="540" src="https://ipfs.io/ipns/k51qzi5uqu5dgl9vqr7048dee9fnf1fhqq3zywm2rpq5ekh3kwegd22r2flijf/copyright_webcomponents_scene1.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/copyright_webcomponents_scene1.png"><img width="540" src="https://cdn.pandanote.info/v2/2023/copyright_webcomponents_scene1.png"/></a>
 
 ## まとめ
 やっつけで作成したこともあり、
