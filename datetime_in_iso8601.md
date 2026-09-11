@@ -6,7 +6,7 @@ image: https://cdn.pandanote.info/v2/2022/datetime_scene1.webp
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Sep 11 23:42:18 2026 +0900
+update: Fri Sep 11 23:43:36 2026 +0900
 ---
 {% include pagelink.md %}
 # Python3で現在のローカル時刻をISO8601フォーマットで表示させるプログラムのメモ。
@@ -61,7 +61,7 @@ Emacs Lispで現在のローカル時刻を取得してISO8601フォーマット
 
 上記のコードをバッファに入力して評価すると…
 
-<a href="https://cdn.pandanote.info/v2/2022/datetime_scene1.webp"><img width="540" src="https://cdn.pandanote.info/v2/2022/datetime_scene1.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2022/datetime_scene1.webp"><img width="540" src="https://cdn.pandanote.info/v2/2022/datetime_scene1.webp"/></a>
 
 のようにミニバッファに出力されます。
 ## まとめ
