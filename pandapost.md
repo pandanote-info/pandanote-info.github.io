@@ -2,11 +2,11 @@
 title: Twitter API v2でWordPressの最新記事(?)の追加のお知らせをコマンドラインからツイートする簡易プログラムを作った。 - panda大学習帳外伝
 description: Termuxから使える簡易プログラムをPHPで作ってみました。
 mathjax: true
-image: https://ipfs.io/ipns/pandanote.info/Screenshot_2023-06-17_215616.png
+image: https://cdn.pandanote.info/v2/2023/Screenshot_2023-06-17_215616.webp
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Tue Jun 20 23:50:05 2023 +0900
+update: Fri Sep 11 23:02:01 2026 +0900
 ---
 {% include pagelink.md %}
 # Twitter API v2でWordPressの最新記事(?)の追加のお知らせをコマンドラインからツイートする簡易プログラムを作った。
@@ -24,7 +24,7 @@ SNAPが使えなくなっていたことが発覚したのは、<a href="https:/
 
 投稿してから5分程度待ってもツイートがされなかったので、再投稿(repost)の設定を行った上で再度しばらく放置してツイートがされないことを確認して、SNAPのログを確認すると…
 
-<a href="https://ipfs.io/ipns/pandanote.info/Screenshot_2023-06-17_215616.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/Screenshot_2023-06-17_215616.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/Screenshot_2023-06-17_215616.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/Screenshot_2023-06-17_215616.webp"/></a>
 
 エラーメッセージが表示されています。
 
