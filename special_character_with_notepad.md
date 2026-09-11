@@ -2,11 +2,11 @@
 title: Wordがなければメモ帳でも入力できる特殊文字 - panda大学習帳外伝
 description: Twitter改めXのロゴっぽい文字をメモ帳上のUnicode変換を駆使して表示させる方法を書きました。
 mathjax: true
-image: https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene3.png
+image: https://cdn.pandanote.info/v2/2023/special_character_with_notepad_scene3.webp
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Jul 29 12:19:48 2023 +0900
+update: Fri Sep 11 22:50:08 2026 +0900
 ---
 {% include pagelink.md %}
 # Wordがなければメモ帳でも入力できる特殊文字
@@ -41,12 +41,12 @@ Unicodeにもそこそこ似ている文字があるようです。
 
 1. メモ帳を起動します。
 1. 編集画面に"U+..."と入力します。
-<a href="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene1.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene1.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/special_character_with_notepad_scene1.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/special_character_with_notepad_scene1.webp"/></a>
 1. 入力した"U+..."の文字列をマウスでドラッグして選択状態にします。
-<a href="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene2.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene2.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/special_character_with_notepad_scene2.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/special_character_with_notepad_scene2.webp"/></a>
 1. 選択状態としたまま、Alt+Xを押します。
 1. メモ帳に変換結果が表示されます。
-<a href="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene3.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene3.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/special_character_with_notepad_scene3.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/special_character_with_notepad_scene3.webp"/></a>
 
 {%include secondintervalad.html %}
 
@@ -56,7 +56,7 @@ Unicodeにもそこそこ似ている文字があるようです。
 
 すると…
 
-<a href="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene4.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/special_character_with_notepad_scene4.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/special_character_with_notepad_scene4.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/special_character_with_notepad_scene4.webp"/></a>
 
 無事コピー&ペーストされました。
 
