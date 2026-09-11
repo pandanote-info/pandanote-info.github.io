@@ -2,11 +2,11 @@
 title: GIMPで文字の縁取りができないときに確認すべきこと1選 - panda大学習帳外伝
 description: 解決までにかなり時間を要したので、メモっておくことにしました。
 mathjax: true
-image: https://ipfs.io/ipns/pandanote.info/border_with_gimp_scene3.png
+image: https://cdn.pandanote.info/v2/2023/border_with_gimp_scene3.webp
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Jul  9 16:28:12 2023 +0900
+update: Fri Sep 11 22:56:28 2026 +0900
 ---
 {% include pagelink.md %}
 # GIMPで文字の縁取りができないときに確認すべきこと1選
@@ -30,7 +30,7 @@ update: Sun Jul  9 16:28:12 2023 +0900
 
 選択範囲を拡大した後にレイヤーを追加するときに、「新しいレイヤー」のポップアップウィンドウの設定項目のうち、不透明度が「0.0」になっていないことを確認します。
 
-<a href="https://ipfs.io/ipns/pandanote.info/border_with_gimp_scene1.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/border_with_gimp_scene1.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/border_with_gimp_scene1.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/border_with_gimp_scene1.webp"/></a>
 
 「縁取りを行う」ためには不透明度は「100.0」になっていることが望ましいですが、背景となる写真を活かしたいのであれば必ずしも「100.0」でなくても良いかもしれません。
 
@@ -41,13 +41,13 @@ update: Sun Jul  9 16:28:12 2023 +0900
 ## 動作確認
 「新しいレイヤー」のポップアップウィンドウにおいて、不透明度は「100.0」に変更してから「OK」ボタンを押して設定の変更を反映してから、動作を確認してみます。
 
-<a href="https://ipfs.io/ipns/pandanote.info/border_with_gimp_scene2.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/border_with_gimp_scene2.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/border_with_gimp_scene2.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/border_with_gimp_scene2.webp"/></a>
 
 「新しいレイヤー」は縁取りをしたいレイヤーのすぐ下のレイヤーに移動しておきます。
 
 GIMPのメニューバーから「編集」→「背景色で塗りつぶす」を選択すると…
 
-<a href="https://ipfs.io/ipns/pandanote.info/border_with_gimp_scene3.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/border_with_gimp_scene3.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/border_with_gimp_scene3.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/border_with_gimp_scene3.webp"/></a>
 
 縁取りができました。
 
