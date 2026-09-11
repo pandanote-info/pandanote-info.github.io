@@ -6,7 +6,7 @@ image: https://cdn.pandanote.info/v2/2023/Screenshot_2023-06-17_215616.webp
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Fri Sep 11 23:02:01 2026 +0900
+update: Fri Sep 11 23:06:35 2026 +0900
 ---
 {% include pagelink.md %}
 # Twitter API v2でWordPressの最新記事(?)の追加のお知らせをコマンドラインからツイートする簡易プログラムを作った。

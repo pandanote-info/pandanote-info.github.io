@@ -6,7 +6,7 @@ image:
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sun Apr 30 17:40:03 2023 +0900
+update: Fri Sep 11 23:07:05 2026 +0900
 ---
 {% include pagelink.md %}
 # GitHub Gistにアップロードしたシェルスクリプトのファイルをgit cloneして使ってみた。
@@ -35,9 +35,9 @@ nginxが使用するディレクトリでownerがapacheやrootになっている
 GitHub Gistにアップロードしたシェルスクリプトは以下の手順でダウンロードします。
 
 1. ファイル名(下図の赤矢印)をクリックする。
-<a href="https://ipfs.io/ipns/pandanote.info/git_clone_from_gist_scene1a.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/git_clone_from_gist_scene1a.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/git_clone_from_gist_scene1a.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/git_clone_from_gist_scene1a.webp"/></a>
 1. ブラウザのアドレスバーのURLを確認する(下図の赤矢印)。
-<a href="https://ipfs.io/ipns/pandanote.info/git_clone_from_gist_scene2a.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/git_clone_from_gist_scene2a.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/git_clone_from_gist_scene2a.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/git_clone_from_gist_scene2a.webp"/></a>
 1. シェルスクリプトを実行するPCにログインする。
 1. 手順2で確認したURLのうち、"#"よりも前の文字列を使ってgit cloneコマンドを実行する。以下のコマンドを実行すると、最後のスラッシュ以降の文字列をディレクトリ名とするディレクトリが生成されて、ダウンロードされたファイルはその下のディレクトリに格納される。
 ```
@@ -100,11 +100,11 @@ To https://gist.github.com/pandanote-info/6d5abf29e0b21fcf12bfec25fea0831b
 
 下図(再掲)の赤矢印をクリックしてみます。
 
-<a href="https://ipfs.io/ipns/pandanote.info/git_clone_from_gist_scene1a.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/git_clone_from_gist_scene1a.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/git_clone_from_gist_scene1a.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/git_clone_from_gist_scene1a.webp"/></a>
 
 すると…
 
-<a href="https://ipfs.io/ipns/pandanote.info/git_clone_from_gist_scene3a.png"><img width="540" src="https://ipfs.io/ipns/pandanote.info/git_clone_from_gist_scene3a.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2023/git_clone_from_gist_scene3a.webp"><img width="540" src="https://cdn.pandanote.info/v2/2023/git_clone_from_gist_scene3a.webp"/></a>
 
 追加したファイル(README.txt)も見ることができます。
 
