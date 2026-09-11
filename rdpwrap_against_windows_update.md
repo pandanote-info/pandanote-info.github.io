@@ -2,11 +2,11 @@
 title: Windows Updateの実行後にRDP Wrapper Libraryの設定ファイルをデスクトップからログインせずに最新版に更新し、かつその設定を反映させる方法。 - panda大学習帳外伝
 description: Windows Updateは月に1回やってくるのですが、対処方法を忘れがちなので、メモしてみました。
 mathjax: true
-image: https://cdn.pandanote.info/wp-content/uploads/2022/09/restoring_rdpwrap_through_ssh_scene3.png
+image: https://cdn.pandanote.info/v2/2022/restoring_rdpwrap_through_ssh_scene3.webp
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Thu Oct 13 00:00:47 2022 +0900
+update: Fri Sep 11 23:33:02 2026 +0900
 ---
 {% include pagelink.md %}
 # Windows Updateの実行後にRDP Wrapper Libraryの設定ファイルをデスクトップからログインせずに最新版に更新し、かつその設定を反映させる方法。
@@ -98,17 +98,17 @@ panda@pandanote.info c:\Program Files\RDP Wrapper>net start termservice
 ## 動作確認
 動作確認は、リモートのPCからリモートデスクトップ接続を行うことにより確認できます。
 
-<a href="https://cdn.pandanote.info/wp-content/uploads/2022/09/restoring_rdpwrap_through_ssh_scene1.png"><img width="540" src="https://cdn.pandanote.info/wp-content/uploads/2022/09/restoring_rdpwrap_through_ssh_scene1.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2022/restoring_rdpwrap_through_ssh_scene1.webp"><img width="540" src="https://cdn.pandanote.info/v2/2022/restoring_rdpwrap_through_ssh_scene1.webp"/></a>
 
 上図の画面が表示されたら「接続」ボタンをクリックします。
 
-<a href="https://cdn.pandanote.info/wp-content/uploads/2022/09/restoring_rdpwrap_through_ssh_scene2.png"><img width="540" src="https://cdn.pandanote.info/wp-content/uploads/2022/09/restoring_rdpwrap_through_ssh_scene2.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2022/restoring_rdpwrap_through_ssh_scene2.webp"><img width="540" src="https://cdn.pandanote.info/v2/2022/restoring_rdpwrap_through_ssh_scene2.webp"/></a>
 
 上図のような警告画面が表示された場合には、念のため内容を確認した上で「はい」ボタンをクリックします。
 
 すると…
 
-<a href="https://cdn.pandanote.info/wp-content/uploads/2022/09/restoring_rdpwrap_through_ssh_scene3.png"><img width="540" src="https://cdn.pandanote.info/wp-content/uploads/2022/09/restoring_rdpwrap_through_ssh_scene3.png"/></a>
+<a href="https://cdn.pandanote.info/v2/2022/restoring_rdpwrap_through_ssh_scene3.webp"><img width="540" src="https://cdn.pandanote.info/v2/2022/restoring_rdpwrap_through_ssh_scene3.webp"/></a>
 
 設定に成功していればログイン画面が表示されます。
 
