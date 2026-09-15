@@ -2,11 +2,11 @@
 title: if文を使わないで旬を求める。 - panda大学習帳外伝
 description: 日付からif文を使わないで、その日付が上旬、中旬、下旬のいずれであるかを求める方法を考えてみました。
 mathjax: true
-image: https://cdn.pandanote.info/wp-content/uploads/2021/10/P_20211001_072058b.jpg
+image: https://cdn.pandanote.info/v2/2021/P_20211001_072058b.webp
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Thu Oct  7 08:34:56 2021 +0900
+update: Tue Sep 15 22:04:50 2026 +0900
 ---
 {% include pagelink.md %}
 # if文を使わないで旬を求める。
@@ -20,7 +20,7 @@ update: Thu Oct  7 08:34:56 2021 +0900
 
 のような、通常の年であれば何の変哲も問題もない(はずの)カレンダーの写真でも…
 
-<a href="https://pandanote.info/?attachment_id=7987"><img src="https://cdn.pandanote.info/wp-content/uploads/2021/10/P_20211001_072058b.jpg"></a>
+![P_20211001_072058b](https://cdn.pandanote.info/v2/2021/P_20211001_072058b.webp)
 
 というような注意喚起が必要になったりします。
 
