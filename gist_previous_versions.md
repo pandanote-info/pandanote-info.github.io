@@ -2,11 +2,11 @@
 title: GitHub Gistにアップロードしたファイルの最新版でない版をWebのページに貼り付ける方法 - panda大学習帳外伝
 description: Gistにアップロードしたファイルの特定の版に依存した記事を書く時に使えそうです。
 mathjax: true
-image: https://cdn.pandanote.info/wp-content/uploads/2021/12/gist_older_code_scene1.png
+image: https://cdn.pandanote.info/v2/2021/gist_older_code_scene1.webp
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Sat Dec 11 21:06:18 2021 +0900
+update: Tue Sep 15 21:54:51 2026 +0900
 ---
 {% include pagelink.md %}
 # GitHub Gistにアップロードしたファイルの最新版でない版をWebのページに貼り付ける方法
@@ -20,8 +20,8 @@ GitHub Gistにアップロードしたファイルの内容をバージョン間
 
 1. GitHub Gistの貼り付けたいファイルのページへアクセスします。
 1. Revisionsをクリックします。
-1. Revision間の差分を表示する画面に切り替わりますので、貼り付けたいバーションの右上隅にある「…」アイコン(下図の赤矢印)をクリックし、「View file」をクリックします。<img width="515" src="https://cdn.pandanote.info/wp-content/uploads/2021/12/gist_older_code_scene1.png"/>
-1. ブラウザのアドレスバーに選択したリビジョンのURLが表示されます(下図の赤矢印)ので、左クリックで選択後にCtrl-Cを押すなどの方法でクリップボードにコピーします。<img width="505" src="https://cdn.pandanote.info/wp-content/uploads/2021/12/gist_older_code_scene2.png"/>
+1. Revision間の差分を表示する画面に切り替わりますので、貼り付けたいバーションの右上隅にある「…」アイコン(下図の赤矢印)をクリックし、「View file」をクリックします。<img width="515" src="https://cdn.pandanote.info/v2/2021/gist_older_code_scene1.webp"/>
+1. ブラウザのアドレスバーに選択したリビジョンのURLが表示されます(下図の赤矢印)ので、左クリックで選択後にCtrl-Cを押すなどの方法でクリップボードにコピーします。<img width="505" src="https://cdn.pandanote.info/v2/2021/12/gist_older_code_scene2.webp"/>
 1. Webページ中の貼り付けたい場所に以下のscriptタグを記述します。手順4でコピーしたURLの末尾に".js"を追加したものをsrc属性の値として指定します。
     ```
 <script src="手順4でクリップボードにコピーしたURL+'.js'"></script>
