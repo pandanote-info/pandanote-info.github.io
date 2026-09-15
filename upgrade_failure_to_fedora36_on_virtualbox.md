@@ -2,11 +2,11 @@
 title: VirtualBoxのゲストOSで稼働しているFedora35を効率良くFedora36にアップグレードしようとしたところ、ホストOSのWindows10/11が停止した話。 - panda大学習帳外伝
 description: VirtualBoxのスナップショットは緊急事態発生時の復旧手段として割と使えるかもしれないというお話です。
 mathjax: true
-image: https://cdn.pandanote.info/v2/2022/P_20220506_171852_a.jpg
+image: https://cdn.pandanote.info/wp-content/upload/2022/05/P_20220506_171852_a.jpg
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Tue Sep 15 23:13:58 2026 +0900
+update: Tue Sep 15 23:18:10 2026 +0900
 ---
 {% include pagelink.md %}
 # VirtualBoxのゲストOSで稼働しているFedora35を効率良くFedora36にアップグレードしようとしたところ、ホストOSのWindows10/11が停止した話。
@@ -70,7 +70,7 @@ root権限で以下のコマンドを実行するとsystemdあたりまでは削
 
 1. 「仮想マシン」の名前にはもとの仮想マシンとは異なるものを(仮に)指定します。
 1. 「仮想マシンの作成」のウィンドウの「ハードディスク」のところでは「すでにある仮想ハードディスク」を選択し、プルダウンリストから今まで使っていた仮想ディスクを選択します。
-![fedora36_upgrade_scene5](https://cdn.pandanote.info/wp-content/uploads/2022/05/fedora36_upgrade_scene5.webp)
+![fedora36_upgrade_scene5](https://cdn.pandanote.info/v2/2022/fedora36_upgrade_scene5.webp)
 
 上記の設定を行って新しい設定の仮想マシンを起動したところ、仮想マシンが正常に起動したため、仮想ディスク自体には問題がないことが確認できました。
 
