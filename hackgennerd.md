@@ -6,7 +6,7 @@ twitter:
   card: summary_large_image
 mathjax: true
 encoding: UTF-8
-update: Tue Sep 15 22:54:20 2026 +0900
+update: Tue Sep 15 22:57:05 2026 +0900
 ---
 {% include pagelink.md %}
 # Windows10のEmacsのフォントをHackGenNerdに変更してみた。
@@ -30,7 +30,7 @@ Windows版のEmacsは特に日本語関連の動作において仕様なのか�
 
 拡大してみると…
 
-![ricty_from_scratch_scene5a](https://cdn.pandanote.info/v2/2020/ricty_from_scratch_scene5a.png)
+![ricty_from_scratch_scene5a](https://cdn.pandanote.info/v2/2020/ricty_from_scratch_scene5a.webp)
 
 日本語の文字がソーシャルディスタンスを保っているようにも見えます。なお、この現象はWindows10のEmacsでのみ発生し、Fedora32のEmacsでは発生しません。
 
