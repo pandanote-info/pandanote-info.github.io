@@ -6,7 +6,7 @@ image: https://cdn.pandanote.info/wp-content/uploads/2022/04/twitter_100_followe
 twitter: 
   card: summary_large_image
 encoding: UTF-8
-update: Tue Sep 15 23:08:33 2026 +0900
+update: Tue Sep 15 23:09:33 2026 +0900
 ---
 {% include pagelink.md %}
 # Twitterアカウントのフォロワーが100人に到達したので、いろいろとやってみた話。朱色5号とか。
@@ -56,7 +56,7 @@ Tezosのテストネット(hangzhounet)では動画に紐づけたNFTを作成�
 
 すでにTwitter等に貼り付けている↓の画像の矢印の色及び文字は朱色5号を使用しています(日本語フォントはOradano明朝GSRRフォントを使用しています)。
 
-![twitter_100_followers](https://cdn.pandanote.info/wp-content/uploads/2022/04/twitter_100_followers.webp)
+![twitter_100_followers](https://cdn.pandanote.info/v2/2022/twitter_100_followers.webp)
 
 {%include thirdintervalad.html %}
 
